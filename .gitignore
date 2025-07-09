@@ -1,0 +1,4 @@
+build/
+scheduler_app
+*.o
+*.gch
