@@ -2,11 +2,11 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project provides a robust, thread-safe, and efficient task scheduler library written in C. It empowers your applications to execute functions (tasks) precisely—either once after a specified delay or repeatedly at fixed intervals. Designed with systems programming in mind, it's perfect for scenarios where precise timing and concurrent task management are critical, such as in embedded systems, game servers, or high-performance backend services.
 
-## ✨ Features
+##  Features
 
 * **One-Shot Tasks:** Schedule functions to run a single time after a defined delay.
 * **Periodic Tasks:** Set up functions to execute repeatedly at consistent intervals.
@@ -19,7 +19,7 @@ This project provides a robust, thread-safe, and efficient task scheduler librar
 
 ---
 
-## 🛠️ Build Instructions
+##  Build Instructions
 
 Getting the scheduler up and running is straightforward.
 
