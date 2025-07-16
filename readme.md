@@ -37,7 +37,7 @@ Getting the scheduler up and running is straightforward.
 
 ---
 
-## 🚀 How to Run the Example
+##  How to Run the Example
 
 Once built, you can run the demonstration application to see the scheduler in action:
 
