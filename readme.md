@@ -25,8 +25,9 @@ Getting the scheduler up and running is straightforward.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/vatsal-chhatbar/task-maker.git](https://github.com/vatsal-chhatbar/task-maker.git) # <-- **IMPORTANT: Update with your actual repo URL**
-    cd task-maker
+    git clone https://github.com/vatsalmalkari/task_scheduler.git
+    cd task_scheduler
+
     ```
 2.  **Build the project:**
     ```bash
