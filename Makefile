@@ -1,37 +1,22 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -Iinclude -g
-LDFLAGS = -pthread
+CFLAGS = -Iinclude -Wall -Wextra -pthread -g
 
-SRCDIR = src
-INCDIR = include
-BUILDDIR = build
+SRC = src/scheduler.c src/scheduler_test.c src/arithmetic_test.c
+OBJ = $(SRC:.c=.o)
 
-# Source files (main + src/*.c)
-SRCS = main.c $(wildcard $(SRCDIR)/*.c)
+all: scheduler_test arithmetic_test
 
-# Object files in build/ (e.g., build/main.o, build/scheduler.o)
-OBJS = $(patsubst %.c,$(BUILDDIR)/%.o,$(notdir $(SRCS)))
+# Builds scheduler_test binary
+scheduler_test: src/scheduler.o src/scheduler_test.o
+	$(CC) $(CFLAGS) -o $@ $^
 
-TARGET = scheduler_app
+# Builds arithmetic_test binary
+arithmetic_test: src/scheduler.o src/arithmetic_test.o
+	$(CC) $(CFLAGS) -o $@ $^
 
-.PHONY: all clean
-
-all: $(BUILDDIR) $(TARGET)
-
-$(BUILDDIR):
-	@mkdir -p $(BUILDDIR)
-
-# Final binary
-$(TARGET): $(OBJS)
-	$(CC) $(OBJS) -o $@ $(LDFLAGS)
-
-# Compile .c files into build/*.o
-$(BUILDDIR)/%.o: %.c
-	$(CC) $(CFLAGS) -c $< -o $@
-
-$(BUILDDIR)/%.o: $(SRCDIR)/%.c
+# Compiles all .c -> .o
+%.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm -rf $(BUILDDIR) $(TARGET)
-# Remove all object files and the target binary
+	rm -f src/*.o scheduler_test arithmetic_test
