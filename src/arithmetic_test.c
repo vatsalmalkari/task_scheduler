@@ -7,7 +7,7 @@
 #include <unistd.h>
 
 #define NUM_TASKS 1000
-// Tracks executed tasks
+
 static int executed = 0;
 static pthread_mutex_t exec_lock = PTHREAD_MUTEX_INITIALIZER;
 
@@ -38,7 +38,7 @@ int main() {
 
     for (int i = 0; i < NUM_TASKS; i++) {
         arithmetic_task_t *task = make_random_task();
-        int delay_ms = rand() % 800 + 100;  // 100–899 ms
+        int delay_ms = rand() % 800 + 100;
 
         schedule_once(delay_ms, arithmetic_task, task, true);
 
@@ -57,7 +57,7 @@ int main() {
         if (done >= NUM_TASKS)
             break;
 
-        usleep(10000); // 10 ms
+        usleep(10000); 
     }
 
     pthread_join(scheduler_thread, NULL);
