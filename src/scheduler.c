@@ -9,16 +9,14 @@
 #define INITIAL_HEAP_CAPACITY 10
 #define HASH_TABLE_CAPACITY 3000
 
-// Debug log
 #define DEBUG 0
-#define DEBUG_LOG(fmt, ...) \
+#define DEBUG_LOG(fmt, ) \
     do { if (DEBUG) { pthread_mutex_lock(&log_mutex); \
         printf(fmt "\n", ##__VA_ARGS__); \
         pthread_mutex_unlock(&log_mutex); } } while (0)
 
 static pthread_mutex_t log_mutex = PTHREAD_MUTEX_INITIALIZER;
 
-//Internal Structs 
 typedef struct {
     scheduled_task_t **tasks;
     size_t size;
@@ -31,7 +29,6 @@ typedef struct {
     bool occupied;
 } hash_entry_t;
 
-//Global Scheduler State 
 static task_heap_t s_heap;
 static task_id_t s_next_task_id = 1;
 
@@ -41,15 +38,12 @@ static size_t s_map_size = 0;
 static pthread_mutex_t s_mutex;
 static pthread_cond_t s_cond;
 
-// Time Helpers
-
 static uint64_t now_ms() {
     struct timespec ts;
     clock_gettime(CLOCK_MONOTONIC, &ts);
     return (uint64_t)ts.tv_sec * 1000 + ts.tv_nsec / 1000000;
 }
 
-// Heap Helpers
 static void swap(size_t i, size_t j) {
     if (i == j) return;
 
@@ -57,7 +51,6 @@ static void swap(size_t i, size_t j) {
     s_heap.tasks[i] = s_heap.tasks[j];
     s_heap.tasks[j] = tmp;
 
-    // Update map
     s_map[s_heap.tasks[i]->id % HASH_TABLE_CAPACITY].heap_idx = i;
     s_map[s_heap.tasks[j]->id % HASH_TABLE_CAPACITY].heap_idx = j;
 
@@ -112,7 +105,6 @@ static int ensure_capacity() {
     return 0;
 }
 
-//Hash Map Helpers
 static size_t hash(task_id_t id) { 
     return id % HASH_TABLE_CAPACITY; 
 }
@@ -159,8 +151,6 @@ static void map_remove(task_id_t id) {
     }
 }
 
-// Free
-
 static void free_task(scheduled_task_t *t) {
     if (!t) return;
 
@@ -173,7 +163,6 @@ static void free_task(scheduled_task_t *t) {
     free(t);
 }
 
-// Core Scheduling 
 static task_id_t make_task(uint64_t delay_ms, task_func_t func, void *arg, bool periodic, uint64_t interval, bool arg_is_heap)
 {
     if (!func) return INVALID_TASK_ID;
@@ -202,7 +191,6 @@ static task_id_t make_task(uint64_t delay_ms, task_func_t func, void *arg, bool 
     return t->id;
 }
 
-// Public API
 
 void scheduler_init() {
     pthread_mutex_init(&s_mutex, NULL);
@@ -246,7 +234,7 @@ int cancel_task(task_id_t id) {
     pthread_mutex_unlock(&s_mutex);
     return 0;
 }
-//Pop from heap 
+
 static scheduled_task_t *pop_top() {
     if (s_heap.size == 0) return NULL;
 
@@ -266,12 +254,12 @@ static scheduled_task_t *pop_top() {
     return t;
 }
 
-// Scheduler Loop
+
 void scheduler_run() {
     for (;;) {
         pthread_mutex_lock(&s_mutex);
         uint64_t now = now_ms();
-        // Execute all due tasks
+    
         while (s_heap.size > 0 &&
                s_heap.tasks[0]->execute_time_ms <= now)
         {
@@ -296,9 +284,8 @@ void scheduler_run() {
         }
         if (s_heap.size == 0) {
             pthread_mutex_unlock(&s_mutex);
-            return; // finished
+            return; 
         }
-        // Sleep until next task
         uint64_t sleep_ms = s_heap.tasks[0]->execute_time_ms - now;
         if ((long long)sleep_ms > 0) {
             struct timespec ts;
@@ -315,7 +302,6 @@ void scheduler_run() {
     }
 }
 
-//Shutdown
 void scheduler_shutdown() {
     pthread_mutex_lock(&s_mutex);
     for (size_t i = 0; i < s_heap.size; i++)
