@@ -1,86 +1,105 @@
-# Lightweight, Event-Driven Task Scheduler in C
 
-# Overview
-This project is a thread-safe, high-performance task scheduler library in C. It lets your applications run functions (tasks) once after a delay or repeatedly at fixed intervals. Designed for systems programming, it's ideal for embedded systems, game servers, or high-performance backend services.
+---
+# Lightweight Task Scheduler in C
 
-##  Features
-**One-Shot Tasks**: Run a function once after a specified delay.
+A thread-safe, high-performance library for scheduling one-shot and periodic tasks. This project demonstrates advanced **Systems Programming** concepts including custom data structures, thread synchronization, and real-time performance metrics.
 
-**Periodic Tasks**: Run functions repeatedly at fixed intervals.
+---
 
-**Task Cancellation**: Remove scheduled tasks by ID, even from other threads.
+## Architecture & Efficiency
 
-**Efficient Scheduling**: Uses a min-heap for O(log N) scheduling and retrieval.
+The scheduler is engineered for speed, using a hybrid data structure approach to ensure operations remain fast even as the number of tasks grows.
 
-**Fast Lookup**: Hash table maps task IDs to heap positions for near O(1) cancellation.
+| Operation | Data Structure | Complexity | Why it matters |
+| --- | --- | --- | --- |
+| **Scheduling** | Min-Heap |  | Ensures the next due task is always at the top. |
+| **Execution** | Min-Heap |  | Immediate access to the highest priority task. |
+| **Cancellation** | Hash Map |  | Near-instant task removal by ID without scanning the list. |
 
-**Thread-Safe**: Protected with pthread_mutex_t and pthread_cond_t—safe for multi-threaded use.
+---
 
-**High-Resolution Timing**: Uses CLOCK_MONOTONIC for reliable timing, independent of system clock changes.
+## Key Features
 
-**Graceful Shutdown**: Frees all memory and system resources when finished.
+* **Thread-Safe**: Uses Mutexes and Condition Variables to prevent data corruption in multi-threaded environments.
+* **Precision Timing**: Utilizes `CLOCK_MONOTONIC` to prevent "drift" if the system clock changes.
+* **No Busy-Waiting**: The worker thread sleeps until the exact moment a task is due, minimizing CPU usage.
+* **Stress-Tested**: Validated with a 2,000-task concurrent load to ensure zero deadlocks or race conditions.
 
-**Stress-Tested**: Handles thousands of tasks safely with logging and race-condition checks.
+---
 
-##  Build Instructions
-Getting the scheduler up and running
+## Quick Start
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/vatsalmalkari/task_scheduler.git
-    cd task_scheduler
+### 1. Build the System
 
-    ```
-2.  **Build the project:**
-    ```bash
-    make clean
-    make
-    ```
-    This command compiles the scheduler library and the example application, creating the `scheduler_app` executable in the root directory.
-
-#  How to Run the Example
-Once built, you can run the demonstration application to see the scheduler in action:
+Ensure you have `gcc` and `make` installed.
 
 ```bash
-./scheduler_app
+make clean
+make
+
 ```
 
-# Example usage
+### 2. Run Automated Validation (Stress Test)
+
+This script simulates 2,000 tasks and mass cancellations to verify system integrity:
+
 ```bash
+chmod +x test_suite.sh
+./test_suite.sh
+
+```
+
+---
+
+## Example Usage
+
+This example shows how to initialize the scheduler, run it in a background thread, and schedule a task.
+
+```c
 #include "scheduler.h"
 #include <stdio.h>
-#include <stdlib.h>
+#include <pthread.h>
+#include <unistd.h>
 
 void my_task(void *arg) {
-    printf("Task executed with arg=%d\n", *(int*)arg);
-    }
+    printf("Task Executed: %s\n", (char*)arg);
+}
 
 int main() {
     scheduler_init();
 
-    int *value = malloc(sizeof(int));
-    *value = 42;
-    
-    // Schedule a one-shot task to run after 500ms
-    schedule_once(500, my_task, value, true);
+    pthread_t scheduler_thread;
+    pthread_create(&scheduler_thread, NULL, (void*(*)(void*))scheduler_run, NULL);
 
-    // Run scheduler in main thread
-    scheduler_run();
+    schedule_once(500, my_task, "Hello World!", false);
+
+    usleep(1000000); 
 
     scheduler_shutdown();
+    pthread_join(scheduler_thread, NULL);
+
     return 0;
 }
+
 ```
 
+---
 
-**Why Use This Scheduler?**
+##  Performance Metrics
 
-**Lightweight and easy to integrate into C projects.**
+The system includes built-in reporting to measure scheduler overhead:
 
-**Handles thousands of tasks efficiently.**
+* **Average Latency**: Measures the accuracy of the firing time (Sub-millisecond resolution).
+* **Throughput**: Validated to handle thousands of concurrent tasks with minimal jitter.
+* **Memory Safety**: Zero leaks; all heap-allocated tasks are tracked and freed during shutdown.
 
-**Safe for multi-threaded programs.**
+---
 
-**Minimal CPU usage, avoiding busy-waiting.**
+## Project Structure
 
-**Great for high-performance systems.**
+* `src/scheduler.c`: Core logic (Min-Heap, Hash Map, Thread Loop).
+* `src/arithmetic_test.c`: Stress testing module for high-load validation.
+* `test_suite.sh`: Automation script for end-to-end testing.
+* `Makefile`: Handles clean builds and linking.
+
+---

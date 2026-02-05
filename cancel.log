@@ -1,0 +1,111 @@
+
+ STARTING CANCELLATION STRESS TEST 
+[INIT] Scheduler Subsystem Online
+INFO Successfully cancelled 50/50 tasks before they could run.
+[EXEC] ID: 100 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 98 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 96 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 94 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 92 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 90 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 88 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 86 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 84 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 82 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 80 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 78 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 76 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 74 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 72 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 70 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 68 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 66 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 64 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 62 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 60 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 58 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 56 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 54 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 52 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 50 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 48 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 46 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 44 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 42 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 40 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 38 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 36 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 34 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 32 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 30 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 28 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 26 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 24 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 22 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 20 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 18 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 16 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 14 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 12 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 10 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 8 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 6 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 4 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+[EXEC] ID: 2 | Drift: 0 ms
+EXEC One-shot Task | Arg: Canceller Test
+INFO Shutting down...
+
+--- FINAL METRICS ---
+Tasks Executed: 100
+Max Drift: 0 ms
+Avg Drift: 0.00 ms
+CANCELLATION TEST COMPLETE

@@ -6,65 +6,78 @@
 #include <time.h>
 #include <unistd.h>
 
-#define NUM_TASKS 1000
+#define NUM_TASKS 2000 
+#define STRESS_DELAY_RANGE 1000 
 
 static int executed = 0;
 static pthread_mutex_t exec_lock = PTHREAD_MUTEX_INITIALIZER;
 
-// Wrapper for scheduler
+// WORKER FUNCTION 
 void arithmetic_task(void *arg) {
     arithmetic_task_t *task = (arithmetic_task_t*)arg;
     execute_task(task);
 
     pthread_mutex_lock(&exec_lock);
     executed++;
-    if (executed % 50 == 0) {
-        printf(" EXEC %d/%d tasks executed \n", executed, NUM_TASKS);
-    }
     pthread_mutex_unlock(&exec_lock);
 }
 
-int main() {
-    srand(time(NULL));
-
-    printf("\n TEST Initializing scheduler \n");
+//  MAIN TEST HARNESS 
+int arithmetic_test_main() {
+    executed = 0; 
+    
+    fprintf(stderr, "\n[INIT] Starting Stress Test with %d Tasks \n", NUM_TASKS);
+    
     scheduler_init();
 
     pthread_t scheduler_thread;
-    pthread_create(&scheduler_thread, NULL,
-                   (void*(*)(void*))scheduler_run, NULL);
+    pthread_create(&scheduler_thread, NULL, (void*(*)(void*))scheduler_run, NULL);
 
-    printf(" TEST Scheduling %d arithmetic tasks \n", NUM_TASKS);
+    time_t start_wall = time(NULL); 
 
     for (int i = 0; i < NUM_TASKS; i++) {
         arithmetic_task_t *task = make_random_task();
-        int delay_ms = rand() % 800 + 100;
+        uint64_t delay = rand() % STRESS_DELAY_RANGE;
 
-        schedule_once(delay_ms, arithmetic_task, task, true);
-
-        if (i % 100 == 0) {
-            printf(" SCHED Scheduled %d/%d tasks...\n", i, NUM_TASKS);
+        if (schedule_once(delay, arithmetic_task, task, true) == INVALID_TASK_ID) {
+            printf("  [!] Schedule Overflow at task %d\n", i);
         }
     }
+    fprintf(stderr, "[INFO] Injection complete. Monitoring execution \n");
 
-    printf("TEST All tasks scheduled. Waiting for execution \n");
-
+    int last_reported = -1;
     while (1) {
         pthread_mutex_lock(&exec_lock);
-        int done = executed;
+        int current_done = executed;
         pthread_mutex_unlock(&exec_lock);
 
-        if (done >= NUM_TASKS)
-            break;
+        // Update progress every 500 tasks 
+        if (current_done / 500 > last_reported || current_done == NUM_TASKS) {
+            fprintf(stderr, "  -> Progress: %d / %d tasks completed\n", current_done, NUM_TASKS);
+            last_reported = current_done / 500;
+        }
 
-        usleep(10000); 
+        if (current_done >= NUM_TASKS) break;
+        usleep(100000); 
     }
 
-    pthread_join(scheduler_thread, NULL);
-    scheduler_shutdown();
+    //  SHUTDOWN 
+    
+    scheduler_shutdown(); 
 
-    printf("\n TEST Arithmetic stress test completed successfully \n");
-    printf("SUMMARY %d/%d tasks executed \n", executed, NUM_TASKS);
+    pthread_join(scheduler_thread, NULL);
+
+    // FINAL METRICS REPORTING
+    time_t end_wall = time(NULL);
+    
+    printf("\n FINAL METRICS \n");
+    printf("Total Runtime:   %ld seconds\n", end_wall - start_wall);
+    printf("Tasks Processed: %d\n", executed);
+    
+    print_final_metrics(); 
+    
+    printf("STRESS TEST COMPLETE\n");
+    fflush(stdout); 
 
     return 0;
 }

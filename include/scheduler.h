@@ -39,9 +39,11 @@ task_id_t schedule_periodic(uint64_t initial_delay_ms, uint64_t interval_ms, tas
 int cancel_task(task_id_t id);
 
 // The main loop that runs the scheduler
-void scheduler_run();
+void* scheduler_run(void* arg);
 
 // Graceful shutdown
 void scheduler_shutdown();
+
+void print_final_metrics(void);
 
 #endif // SCHEDULER_H

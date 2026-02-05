@@ -1,0 +1,4017 @@
+[INIT] Scheduler Subsystem Online
+[EXEC] ID: 352 | Drift: 0 ms
+[Arithmetic] 8 - 11 = -3
+[EXEC] ID: 31 | Drift: 0 ms
+[Arithmetic] 60 * 57 = 3420
+[EXEC] ID: 294 | Drift: 0 ms
+[Arithmetic] 83 - 72 = 11
+[EXEC] ID: 371 | Drift: 0 ms
+[Arithmetic] 12 - 36 = -24
+[EXEC] ID: 192 | Drift: 0 ms
+[Arithmetic] 47 * 77 = 3619
+[EXEC] ID: 65 | Drift: 0 ms
+[Arithmetic] 3 / 31 = 0
+[EXEC] ID: 355 | Drift: 0 ms
+[Arithmetic] 21 + 86 = 107
+[EXEC] ID: 143 | Drift: 0 ms
+[Arithmetic] 67 * 89 = 5963
+[EXEC] ID: 90 | Drift: 0 ms
+[Arithmetic] 57 - 85 = -28
+[EXEC] ID: 656 | Drift: 0 ms
+[Arithmetic] 60 + 56 = 116
+[EXEC] ID: 134 | Drift: 0 ms
+[Arithmetic] 8 - 36 = -28
+[EXEC] ID: 16 | Drift: 0 ms
+[Arithmetic] 22 - 66 = -44
+[EXEC] ID: 833 | Drift: 0 ms
+[Arithmetic] 46 - 70 = -24
+[EXEC] ID: 693 | Drift: 0 ms
+[Arithmetic] 64 + 77 = 141
+[EXEC] ID: 464 | Drift: 0 ms
+[Arithmetic] 91 - 50 = 41
+[EXEC] ID: 672 | Drift: 0 ms
+[Arithmetic] 35 + 20 = 55
+[EXEC] ID: 238 | Drift: 0 ms
+[Arithmetic] 88 / 63 = 1
+[EXEC] ID: 737 | Drift: 0 ms
+[Arithmetic] 27 - 52 = -25
+[EXEC] ID: 679 | Drift: 0 ms
+[Arithmetic] 89 / 1 = 89
+[EXEC] ID: 1031 | Drift: 0 ms
+[Arithmetic] 91 / 79 = 1
+[EXEC] ID: 110 | Drift: 0 ms
+[Arithmetic] 49 + 13 = 62
+[EXEC] ID: 815 | Drift: 0 ms
+[Arithmetic] 9 + 82 = 91
+[EXEC] ID: 497 | Drift: 0 ms
+[Arithmetic] 24 + 84 = 108
+[EXEC] ID: 144 | Drift: 0 ms
+[Arithmetic] 25 + 18 = 43
+[EXEC] ID: 626 | Drift: 0 ms
+[Arithmetic] 76 + 89 = 165
+[EXEC] ID: 1122 | Drift: 0 ms
+[Arithmetic] 90 - 5 = 85
+[EXEC] ID: 1274 | Drift: 0 ms
+[Arithmetic] 69 - 78 = -9
+[EXEC] ID: 995 | Drift: 0 ms
+[Arithmetic] 61 + 31 = 92
+[EXEC] ID: 52 | Drift: 0 ms
+[Arithmetic] 92 / 15 = 6
+[EXEC] ID: 1067 | Drift: 0 ms
+[Arithmetic] 87 + 28 = 115
+[EXEC] ID: 1238 | Drift: 0 ms
+[Arithmetic] 38 + 93 = 131
+[EXEC] ID: 376 | Drift: 0 ms
+[Arithmetic] 80 - 81 = -1
+[EXEC] ID: 411 | Drift: 0 ms
+[Arithmetic] 42 - 33 = 9
+[EXEC] ID: 153 | Drift: 0 ms
+[Arithmetic] 25 * 89 = 2225
+[EXEC] ID: 385 | Drift: 0 ms
+[Arithmetic] 55 + 82 = 137
+[EXEC] ID: 576 | Drift: 0 ms
+[Arithmetic] 6 * 79 = 474
+[EXEC] ID: 676 | Drift: 0 ms
+[Arithmetic] 38 / 3 = 12
+[EXEC] ID: 882 | Drift: 0 ms
+[Arithmetic] 48 * 37 = 1776
+[EXEC] ID: 328 | Drift: 0 ms
+[Arithmetic] 32 / 19 = 1
+[EXEC] ID: 1630 | Drift: 0 ms
+[Arithmetic] 10 / 44 = 0
+[EXEC] ID: 1069 | Drift: 0 ms
+[Arithmetic] 97 + 62 = 159
+[EXEC] ID: 628 | Drift: 0 ms
+[Arithmetic] 74 - 98 = -24
+[EXEC] ID: 478 | Drift: 0 ms
+[Arithmetic] 81 * 26 = 2106
+[EXEC] ID: 531 | Drift: 0 ms
+[Arithmetic] 82 + 79 = 161
+[EXEC] ID: 445 | Drift: 0 ms
+[Arithmetic] 59 * 21 = 1239
+[EXEC] ID: 1764 | Drift: 0 ms
+[Arithmetic] 65 * 53 = 3445
+[EXEC] ID: 536 | Drift: 0 ms
+[Arithmetic] 73 * 78 = 5694
+[EXEC] ID: 1734 | Drift: 0 ms
+[Arithmetic] 23 + 9 = 32
+[EXEC] ID: 947 | Drift: 0 ms
+[Arithmetic] 61 + 61 = 122
+[EXEC] ID: 1514 | Drift: 0 ms
+[Arithmetic] 40 * 38 = 1520
+[EXEC] ID: 1006 | Drift: 0 ms
+[Arithmetic] 87 / 54 = 1
+[EXEC] ID: 1872 | Drift: 0 ms
+[Arithmetic] 34 * 6 = 204
+[EXEC] ID: 1980 | Drift: 0 ms
+[Arithmetic] 91 * 45 = 4095
+[EXEC] ID: 1897 | Drift: 0 ms
+[Arithmetic] 24 / 78 = 0
+[EXEC] ID: 1513 | Drift: 0 ms
+[Arithmetic] 54 - 18 = 36
+[EXEC] ID: 1138 | Drift: 0 ms
+[Arithmetic] 45 / 26 = 1
+[EXEC] ID: 127 | Drift: 0 ms
+[Arithmetic] 28 - 71 = -43
+[EXEC] ID: 1998 | Drift: 0 ms
+[Arithmetic] 18 - 44 = -26
+[EXEC] ID: 1442 | Drift: 0 ms
+[Arithmetic] 81 * 48 = 3888
+[EXEC] ID: 870 | Drift: 0 ms
+[Arithmetic] 18 - 17 = 1
+[EXEC] ID: 1781 | Drift: 0 ms
+[Arithmetic] 47 * 34 = 1598
+[EXEC] ID: 1644 | Drift: 0 ms
+[Arithmetic] 60 + 5 = 65
+[EXEC] ID: 545 | Drift: 0 ms
+[Arithmetic] 94 + 27 = 121
+[EXEC] ID: 330 | Drift: 0 ms
+[Arithmetic] 70 - 78 = -8
+[EXEC] ID: 1774 | Drift: 0 ms
+[Arithmetic] 79 - 54 = 25
+[EXEC] ID: 1880 | Drift: 0 ms
+[Arithmetic] 74 * 83 = 6142
+[EXEC] ID: 1011 | Drift: 0 ms
+[Arithmetic] 6 + 63 = 69
+[EXEC] ID: 335 | Drift: 0 ms
+[Arithmetic] 86 + 33 = 119
+[EXEC] ID: 169 | Drift: 0 ms
+[Arithmetic] 79 + 17 = 96
+[EXEC] ID: 1606 | Drift: 0 ms
+[Arithmetic] 68 / 18 = 3
+[EXEC] ID: 1131 | Drift: 0 ms
+[Arithmetic] 74 * 88 = 6512
+[EXEC] ID: 1595 | Drift: 0 ms
+[Arithmetic] 55 * 95 = 5225
+[EXEC] ID: 1193 | Drift: 0 ms
+[Arithmetic] 57 - 36 = 21
+[EXEC] ID: 888 | Drift: 0 ms
+[Arithmetic] 31 / 71 = 0
+[EXEC] ID: 579 | Drift: 0 ms
+[Arithmetic] 82 / 57 = 1
+[EXEC] ID: 625 | Drift: 0 ms
+[Arithmetic] 80 * 59 = 4720
+[EXEC] ID: 1940 | Drift: 0 ms
+[Arithmetic] 53 * 87 = 4611
+[EXEC] ID: 36 | Drift: 0 ms
+[Arithmetic] 90 * 31 = 2790
+[EXEC] ID: 202 | Drift: 0 ms
+[Arithmetic] 0 * 89 = 0
+[EXEC] ID: 533 | Drift: 0 ms
+[Arithmetic] 20 / 62 = 0
+[EXEC] ID: 417 | Drift: 0 ms
+[Arithmetic] 77 * 41 = 3157
+[EXEC] ID: 1695 | Drift: 0 ms
+[Arithmetic] 63 + 92 = 155
+[EXEC] ID: 1737 | Drift: 0 ms
+[Arithmetic] 24 + 79 = 103
+[EXEC] ID: 1860 | Drift: 0 ms
+[Arithmetic] 80 + 60 = 140
+[EXEC] ID: 952 | Drift: 0 ms
+[Arithmetic] 83 - 51 = 32
+[EXEC] ID: 1196 | Drift: 0 ms
+[Arithmetic] 23 / 32 = 0
+[EXEC] ID: 1234 | Drift: 0 ms
+[Arithmetic] 5 - 15 = -10
+[EXEC] ID: 206 | Drift: 0 ms
+[Arithmetic] 16 + 14 = 30
+[EXEC] ID: 485 | Drift: 0 ms
+[Arithmetic] 80 / 92 = 0
+[EXEC] ID: 647 | Drift: 0 ms
+[Arithmetic] 11 + 13 = 24
+[EXEC] ID: 1361 | Drift: 0 ms
+[Arithmetic] 67 - 23 = 44
+[EXEC] ID: 1440 | Drift: 0 ms
+[Arithmetic] 32 - 51 = -19
+[EXEC] ID: 72 | Drift: 0 ms
+[Arithmetic] 4 + 81 = 85
+[EXEC] ID: 1371 | Drift: 0 ms
+[Arithmetic] 9 - 61 = -52
+[EXEC] ID: 1549 | Drift: 0 ms
+[Arithmetic] 1 * 66 = 66
+[EXEC] ID: 1810 | Drift: 0 ms
+[Arithmetic] 49 - 6 = 43
+[EXEC] ID: 993 | Drift: 0 ms
+[Arithmetic] 12 - 64 = -52
+[EXEC] ID: 1019 | Drift: 0 ms
+[Arithmetic] 36 * 13 = 468
+[EXEC] ID: 1842 | Drift: 0 ms
+[Arithmetic] 37 - 72 = -35
+[EXEC] ID: 1395 | Drift: 0 ms
+[Arithmetic] 14 / 62 = 0
+[EXEC] ID: 1662 | Drift: 0 ms
+[Arithmetic] 66 / 84 = 0
+[EXEC] ID: 1052 | Drift: 0 ms
+[Arithmetic] 40 / 87 = 0
+[EXEC] ID: 1372 | Drift: 0 ms
+[Arithmetic] 45 + 53 = 98
+[EXEC] ID: 1446 | Drift: 0 ms
+[Arithmetic] 17 - 14 = 3
+[EXEC] ID: 1418 | Drift: 0 ms
+[Arithmetic] 84 - 1 = 83
+[EXEC] ID: 1766 | Drift: 0 ms
+[Arithmetic] 47 / 42 = 1
+[EXEC] ID: 247 | Drift: 0 ms
+[Arithmetic] 72 * 28 = 2016
+[EXEC] ID: 1405 | Drift: 0 ms
+[Arithmetic] 27 * 93 = 2511
+[EXEC] ID: 640 | Drift: 0 ms
+[Arithmetic] 60 - 80 = -20
+[EXEC] ID: 1340 | Drift: 0 ms
+[Arithmetic] 22 + 2 = 24
+[EXEC] ID: 622 | Drift: 0 ms
+[Arithmetic] 25 - 94 = -69
+[EXEC] ID: 1164 | Drift: 0 ms
+[Arithmetic] 79 - 1 = 78
+[EXEC] ID: 965 | Drift: 0 ms
+[Arithmetic] 66 * 66 = 4356
+[EXEC] ID: 1224 | Drift: 0 ms
+[Arithmetic] 30 * 78 = 2340
+[EXEC] ID: 865 | Drift: 0 ms
+[Arithmetic] 95 - 85 = 10
+[EXEC] ID: 584 | Drift: 0 ms
+[Arithmetic] 92 + 39 = 131
+[EXEC] ID: 1174 | Drift: 0 ms
+[Arithmetic] 3 * 74 = 222
+[EXEC] ID: 1192 | Drift: 0 ms
+[Arithmetic] 60 / 42 = 1
+[EXEC] ID: 1652 | Drift: 0 ms
+[Arithmetic] 12 + 52 = 64
+[EXEC] ID: 1680 | Drift: 0 ms
+[Arithmetic] 54 / 54 = 1
+[EXEC] ID: 12 | Drift: 0 ms
+[Arithmetic] 85 + 45 = 130
+[EXEC] ID: 259 | Drift: 0 ms
+[Arithmetic] 70 / 16 = 4
+[EXEC] ID: 212 | Drift: 0 ms
+[Arithmetic] 79 * 30 = 2370
+[EXEC] ID: 146 | Drift: 0 ms
+[Arithmetic] 40 / 96 = 0
+[EXEC] ID: 1800 | Drift: 0 ms
+[Arithmetic] 15 * 47 = 705
+[EXEC] ID: 841 | Drift: 0 ms
+[Arithmetic] 35 + 71 = 106
+[EXEC] ID: 939 | Drift: 0 ms
+[Arithmetic] 36 / 30 = 1
+[EXEC] ID: 1040 | Drift: 0 ms
+[Arithmetic] 71 * 81 = 5751
+[EXEC] ID: 1172 | Drift: 0 ms
+[Arithmetic] 61 / 22 = 2
+[EXEC] ID: 1346 | Drift: 0 ms
+[Arithmetic] 54 - 50 = 4
+[EXEC] ID: 1816 | Drift: 0 ms
+[Arithmetic] 53 / 56 = 0
+[EXEC] ID: 494 | Drift: 0 ms
+[Arithmetic] 1 * 30 = 30
+[EXEC] ID: 1054 | Drift: 0 ms
+[Arithmetic] 52 + 12 = 64
+[EXEC] ID: 1178 | Drift: 0 ms
+[Arithmetic] 80 / 38 = 2
+[EXEC] ID: 1798 | Drift: 0 ms
+[Arithmetic] 5 / 68 = 0
+[EXEC] ID: 1420 | Drift: 0 ms
+[Arithmetic] 74 * 34 = 2516
+[EXEC] ID: 1228 | Drift: 0 ms
+[Arithmetic] 62 + 57 = 119
+[EXEC] ID: 650 | Drift: 0 ms
+[Arithmetic] 72 + 12 = 84
+[EXEC] ID: 1621 | Drift: 0 ms
+[Arithmetic] 77 + 32 = 109
+[EXEC] ID: 912 | Drift: 0 ms
+[Arithmetic] 92 - 61 = 31
+[EXEC] ID: 272 | Drift: 0 ms
+[Arithmetic] 25 - 34 = -9
+[EXEC] ID: 1289 | Drift: 0 ms
+[Arithmetic] 71 * 26 = 1846
+[EXEC] ID: 1301 | Drift: 0 ms
+[Arithmetic] 62 / 13 = 4
+[EXEC] ID: 1437 | Drift: 0 ms
+[Arithmetic] 79 - 26 = 53
+[EXEC] ID: 1413 | Drift: 0 ms
+[Arithmetic] 9 - 39 = -30
+[EXEC] ID: 1482 | Drift: 0 ms
+[Arithmetic] 55 - 24 = 31
+[EXEC] ID: 205 | Drift: 0 ms
+[Arithmetic] 63 + 58 = 121
+[EXEC] ID: 869 | Drift: 0 ms
+[Arithmetic] 59 - 20 = 39
+[EXEC] ID: 334 | Drift: 0 ms
+[Arithmetic] 56 + 99 = 155
+[EXEC] ID: 1444 | Drift: 0 ms
+[Arithmetic] 40 - 67 = -27
+[EXEC] ID: 1898 | Drift: 0 ms
+[Arithmetic] 70 + 58 = 128
+[EXEC] ID: 518 | Drift: 0 ms
+[Arithmetic] 9 * 63 = 567
+[EXEC] ID: 38 | Drift: 0 ms
+[Arithmetic] 35 + 6 = 41
+[EXEC] ID: 1025 | Drift: 0 ms
+[Arithmetic] 71 - 29 = 42
+[EXEC] ID: 200 | Drift: 0 ms
+[Arithmetic] 73 - 37 = 36
+[EXEC] ID: 1264 | Drift: 0 ms
+[Arithmetic] 54 + 60 = 114
+[EXEC] ID: 787 | Drift: 0 ms
+[Arithmetic] 63 * 83 = 5229
+[EXEC] ID: 393 | Drift: 0 ms
+[Arithmetic] 17 * 32 = 544
+[EXEC] ID: 985 | Drift: 0 ms
+[Arithmetic] 14 / 85 = 0
+[EXEC] ID: 509 | Drift: 0 ms
+[Arithmetic] 34 / 48 = 0
+[EXEC] ID: 1170 | Drift: 0 ms
+[Arithmetic] 95 + 99 = 194
+[EXEC] ID: 901 | Drift: 0 ms
+[Arithmetic] 20 / 76 = 0
+[EXEC] ID: 1947 | Drift: 0 ms
+[Arithmetic] 74 - 97 = -23
+[EXEC] ID: 93 | Drift: 0 ms
+[Arithmetic] 95 - 3 = 92
+[EXEC] ID: 1252 | Drift: 0 ms
+[Arithmetic] 1 + 83 = 84
+[EXEC] ID: 534 | Drift: 0 ms
+[Arithmetic] 70 - 54 = 16
+[EXEC] ID: 1139 | Drift: 0 ms
+[Arithmetic] 85 + 19 = 104
+[EXEC] ID: 1576 | Drift: 0 ms
+[Arithmetic] 91 / 20 = 4
+[EXEC] ID: 835 | Drift: 0 ms
+[Arithmetic] 94 - 86 = 8
+[EXEC] ID: 1422 | Drift: 0 ms
+[Arithmetic] 64 - 63 = 1
+[EXEC] ID: 850 | Drift: 0 ms
+[Arithmetic] 64 * 2 = 128
+[EXEC] ID: 1672 | Drift: 0 ms
+[Arithmetic] 90 * 27 = 2430
+[EXEC] ID: 1846 | Drift: 0 ms
+[Arithmetic] 80 * 68 = 5440
+[EXEC] ID: 62 | Drift: 0 ms
+[Arithmetic] 63 + 2 = 65
+[EXEC] ID: 1280 | Drift: 0 ms
+[Arithmetic] 78 + 43 = 121
+[EXEC] ID: 1350 | Drift: 0 ms
+[Arithmetic] 69 * 56 = 3864
+[EXEC] ID: 956 | Drift: 0 ms
+[Arithmetic] 80 + 58 = 138
+[EXEC] ID: 517 | Drift: 0 ms
+[Arithmetic] 56 - 59 = -3
+[EXEC] ID: 1626 | Drift: 0 ms
+[Arithmetic] 30 / 10 = 3
+[EXEC] ID: 854 | Drift: 0 ms
+[Arithmetic] 64 * 93 = 5952
+[EXEC] ID: 1133 | Drift: 0 ms
+[Arithmetic] 20 / 81 = 0
+[EXEC] ID: 1636 | Drift: 0 ms
+[Arithmetic] 19 * 99 = 1881
+[EXEC] ID: 1704 | Drift: 0 ms
+[Arithmetic] 88 / 63 = 1
+[EXEC] ID: 1331 | Drift: 0 ms
+[Arithmetic] 70 - 55 = 15
+[EXEC] ID: 1484 | Drift: 0 ms
+[Arithmetic] 61 * 35 = 2135
+[EXEC] ID: 88 | Drift: 0 ms
+[Arithmetic] 35 - 57 = -22
+[EXEC] ID: 194 | Drift: 0 ms
+[Arithmetic] 36 / 20 = 1
+[EXEC] ID: 23 | Drift: 0 ms
+[Arithmetic] 51 + 98 = 149
+[EXEC] ID: 389 | Drift: 0 ms
+[Arithmetic] 64 * 5 = 320
+[EXEC] ID: 831 | Drift: 0 ms
+[Arithmetic] 79 * 87 = 6873
+[EXEC] ID: 1997 | Drift: 0 ms
+[Arithmetic] 94 + 23 = 117
+[EXEC] ID: 111 | Drift: 0 ms
+[Arithmetic] 12 + 83 = 95
+[EXEC] ID: 1475 | Drift: 0 ms
+[Arithmetic] 3 * 22 = 66
+[EXEC] ID: 1952 | Drift: 0 ms
+[Arithmetic] 66 * 70 = 4620
+[EXEC] ID: 1097 | Drift: 0 ms
+[Arithmetic] 7 + 7 = 14
+[EXEC] ID: 1414 | Drift: 0 ms
+[Arithmetic] 26 / 52 = 0
+[EXEC] ID: 512 | Drift: 0 ms
+[Arithmetic] 19 * 94 = 1786
+[EXEC] ID: 1160 | Drift: 0 ms
+[Arithmetic] 66 / 27 = 2
+[EXEC] ID: 913 | Drift: 0 ms
+[Arithmetic] 88 - 42 = 46
+[EXEC] ID: 468 | Drift: 0 ms
+[Arithmetic] 71 + 65 = 136
+[EXEC] ID: 1597 | Drift: 0 ms
+[Arithmetic] 91 / 67 = 1
+[EXEC] ID: 1620 | Drift: 0 ms
+[Arithmetic] 95 + 61 = 156
+[EXEC] ID: 773 | Drift: 0 ms
+[Arithmetic] 67 + 87 = 154
+[EXEC] ID: 1550 | Drift: 0 ms
+[Arithmetic] 87 * 87 = 7569
+[EXEC] ID: 105 | Drift: 0 ms
+[Arithmetic] 30 + 21 = 51
+[EXEC] ID: 1215 | Drift: 0 ms
+[Arithmetic] 22 - 35 = -13
+[EXEC] ID: 1248 | Drift: 0 ms
+[Arithmetic] 38 * 53 = 2014
+[EXEC] ID: 1353 | Drift: 0 ms
+[Arithmetic] 34 + 40 = 74
+[EXEC] ID: 40 | Drift: 0 ms
+[Arithmetic] 89 - 60 = 29
+[EXEC] ID: 1453 | Drift: 0 ms
+[Arithmetic] 26 - 79 = -53
+[EXEC] ID: 565 | Drift: 0 ms
+[Arithmetic] 70 * 38 = 2660
+[EXEC] ID: 430 | Drift: 0 ms
+[Arithmetic] 87 + 37 = 124
+[EXEC] ID: 499 | Drift: 0 ms
+[Arithmetic] 64 * 0 = 0
+[EXEC] ID: 1988 | Drift: 0 ms
+[Arithmetic] 13 - 7 = 6
+[EXEC] ID: 1013 | Drift: 0 ms
+[Arithmetic] 31 - 75 = -44
+[EXEC] ID: 73 | Drift: 0 ms
+[Arithmetic] 78 - 99 = -21
+[EXEC] ID: 725 | Drift: 0 ms
+[Arithmetic] 73 - 45 = 28
+[EXEC] ID: 188 | Drift: 0 ms
+[Arithmetic] 84 - 13 = 71
+[EXEC] ID: 1611 | Drift: 0 ms
+[Arithmetic] 61 * 65 = 3965
+[EXEC] ID: 903 | Drift: 0 ms
+[Arithmetic] 44 * 86 = 3784
+[EXEC] ID: 290 | Drift: 0 ms
+[Arithmetic] 62 + 45 = 107
+[EXEC] ID: 1415 | Drift: 0 ms
+[Arithmetic] 84 - 86 = -2
+[EXEC] ID: 1751 | Drift: 0 ms
+[Arithmetic] 58 * 45 = 2610
+[EXEC] ID: 260 | Drift: 0 ms
+[Arithmetic] 18 + 88 = 106
+[EXEC] ID: 95 | Drift: 0 ms
+[Arithmetic] 6 + 30 = 36
+[EXEC] ID: 404 | Drift: 0 ms
+[Arithmetic] 52 * 86 = 4472
+[EXEC] ID: 78 | Drift: 0 ms
+[Arithmetic] 16 / 98 = 0
+[EXEC] ID: 1706 | Drift: 0 ms
+[Arithmetic] 26 - 86 = -60
+[EXEC] ID: 1187 | Drift: 0 ms
+[Arithmetic] 82 / 26 = 3
+[EXEC] ID: 1899 | Drift: 0 ms
+[Arithmetic] 60 + 44 = 104
+[EXEC] ID: 483 | Drift: 0 ms
+[Arithmetic] 61 - 9 = 52
+[EXEC] ID: 501 | Drift: 0 ms
+[Arithmetic] 87 - 75 = 12
+[EXEC] ID: 540 | Drift: 0 ms
+[Arithmetic] 36 * 2 = 72
+[EXEC] ID: 924 | Drift: 0 ms
+[Arithmetic] 63 / 35 = 1
+[EXEC] ID: 982 | Drift: 0 ms
+[Arithmetic] 78 - 38 = 40
+[EXEC] ID: 1016 | Drift: 0 ms
+[Arithmetic] 92 - 44 = 48
+[EXEC] ID: 1355 | Drift: 0 ms
+[Arithmetic] 28 + 92 = 120
+[EXEC] ID: 25 | Drift: 0 ms
+[Arithmetic] 16 * 37 = 592
+[EXEC] ID: 1394 | Drift: 0 ms
+[Arithmetic] 25 + 9 = 34
+[EXEC] ID: 361 | Drift: 0 ms
+[Arithmetic] 47 + 69 = 116
+[EXEC] ID: 1272 | Drift: 0 ms
+[Arithmetic] 23 - 26 = -3
+[EXEC] ID: 762 | Drift: 0 ms
+[Arithmetic] 79 / 64 = 1
+[EXEC] ID: 1645 | Drift: 0 ms
+[Arithmetic] 93 / 64 = 1
+[EXEC] ID: 1799 | Drift: 0 ms
+[Arithmetic] 2 * 82 = 164
+[EXEC] ID: 843 | Drift: 0 ms
+[Arithmetic] 33 / 99 = 0
+[EXEC] ID: 166 | Drift: 0 ms
+[Arithmetic] 3 + 32 = 35
+[EXEC] ID: 1455 | Drift: 0 ms
+[Arithmetic] 91 * 52 = 4732
+[EXEC] ID: 794 | Drift: 0 ms
+[Arithmetic] 73 / 92 = 0
+[EXEC] ID: 834 | Drift: 0 ms
+[Arithmetic] 90 * 84 = 7560
+[EXEC] ID: 632 | Drift: 0 ms
+[Arithmetic] 94 * 3 = 282
+[EXEC] ID: 805 | Drift: 0 ms
+[Arithmetic] 76 / 30 = 2
+[EXEC] ID: 921 | Drift: 0 ms
+[Arithmetic] 46 + 59 = 105
+[EXEC] ID: 591 | Drift: 0 ms
+[Arithmetic] 88 + 29 = 117
+[EXEC] ID: 375 | Drift: 0 ms
+[Arithmetic] 15 * 77 = 1155
+[EXEC] ID: 13 | Drift: 0 ms
+[Arithmetic] 94 - 57 = 37
+[EXEC] ID: 1710 | Drift: 0 ms
+[Arithmetic] 10 - 45 = -35
+[EXEC] ID: 1784 | Drift: 0 ms
+[Arithmetic] 17 / 25 = 0
+[EXEC] ID: 1406 | Drift: 0 ms
+[Arithmetic] 64 / 8 = 8
+[EXEC] ID: 1765 | Drift: 0 ms
+[Arithmetic] 30 / 69 = 0
+[EXEC] ID: 505 | Drift: 0 ms
+[Arithmetic] 20 - 62 = -42
+[EXEC] ID: 1736 | Drift: 0 ms
+[Arithmetic] 66 / 22 = 3
+[EXEC] ID: 6 | Drift: 0 ms
+[Arithmetic] 3 - 69 = -66
+[EXEC] ID: 70 | Drift: 0 ms
+[Arithmetic] 48 * 4 = 192
+[EXEC] ID: 1512 | Drift: 0 ms
+[Arithmetic] 4 * 23 = 92
+[EXEC] ID: 1647 | Drift: 0 ms
+[Arithmetic] 25 / 15 = 1
+[EXEC] ID: 432 | Drift: 0 ms
+[Arithmetic] 89 - 86 = 3
+[EXEC] ID: 661 | Drift: 0 ms
+[Arithmetic] 67 - 19 = 48
+[EXEC] ID: 50 | Drift: 0 ms
+[Arithmetic] 42 / 11 = 3
+[EXEC] ID: 261 | Drift: 0 ms
+[Arithmetic] 0 + 62 = 62
+[EXEC] ID: 1143 | Drift: 0 ms
+[Arithmetic] 30 + 6 = 36
+[EXEC] ID: 195 | Drift: 0 ms
+[Arithmetic] 59 * 56 = 3304
+[EXEC] ID: 1604 | Drift: 0 ms
+[Arithmetic] 86 * 85 = 7310
+[EXEC] ID: 911 | Drift: 0 ms
+[Arithmetic] 48 + 80 = 128
+[EXEC] ID: 456 | Drift: 0 ms
+[Arithmetic] 79 - 77 = 2
+[EXEC] ID: 1938 | Drift: 0 ms
+[Arithmetic] 54 + 20 = 74
+[EXEC] ID: 502 | Drift: 0 ms
+[Arithmetic] 57 * 16 = 912
+[EXEC] ID: 1863 | Drift: 0 ms
+[Arithmetic] 56 * 79 = 4424
+[EXEC] ID: 1400 | Drift: 0 ms
+[Arithmetic] 39 + 84 = 123
+[EXEC] ID: 1922 | Drift: 0 ms
+[Arithmetic] 0 / 12 = 0
+[EXEC] ID: 969 | Drift: 0 ms
+[Arithmetic] 5 + 63 = 68
+[EXEC] ID: 981 | Drift: 0 ms
+[Arithmetic] 90 + 10 = 100
+[EXEC] ID: 1001 | Drift: 0 ms
+[Arithmetic] 7 - 26 = -19
+[EXEC] ID: 402 | Drift: 0 ms
+[Arithmetic] 82 + 64 = 146
+[EXEC] ID: 3 | Drift: 0 ms
+[Arithmetic] 23 + 9 = 32
+[EXEC] ID: 1204 | Drift: 0 ms
+[Arithmetic] 41 / 39 = 1
+[EXEC] ID: 1839 | Drift: 0 ms
+[Arithmetic] 16 + 16 = 32
+[EXEC] ID: 496 | Drift: 0 ms
+[Arithmetic] 59 * 77 = 4543
+[EXEC] ID: 380 | Drift: 0 ms
+[Arithmetic] 58 + 5 = 63
+[EXEC] ID: 789 | Drift: 0 ms
+[Arithmetic] 7 + 62 = 69
+[EXEC] ID: 1425 | Drift: 0 ms
+[Arithmetic] 95 - 10 = 85
+[EXEC] ID: 919 | Drift: 0 ms
+[Arithmetic] 46 - 53 = -7
+[EXEC] ID: 1206 | Drift: 0 ms
+[Arithmetic] 76 / 96 = 0
+[EXEC] ID: 653 | Drift: 0 ms
+[Arithmetic] 58 / 82 = 0
+[EXEC] ID: 1336 | Drift: 0 ms
+[Arithmetic] 74 - 16 = 58
+[EXEC] ID: 933 | Drift: 0 ms
+[Arithmetic] 67 * 68 = 4556
+[EXEC] ID: 1197 | Drift: 0 ms
+[Arithmetic] 71 * 97 = 6887
+[EXEC] ID: 1325 | Drift: 0 ms
+[Arithmetic] 10 / 26 = 0
+[EXEC] ID: 772 | Drift: 0 ms
+[Arithmetic] 83 - 2 = 81
+[EXEC] ID: 1493 | Drift: 0 ms
+[Arithmetic] 28 / 85 = 0
+[EXEC] ID: 1077 | Drift: 0 ms
+[Arithmetic] 19 - 9 = 10
+[EXEC] ID: 1259 | Drift: 0 ms
+[Arithmetic] 76 - 35 = 41
+[EXEC] ID: 1986 | Drift: 0 ms
+[Arithmetic] 94 - 98 = -4
+[EXEC] ID: 136 | Drift: 0 ms
+[Arithmetic] 81 / 20 = 4
+[EXEC] ID: 856 | Drift: 0 ms
+[Arithmetic] 70 + 42 = 112
+[EXEC] ID: 606 | Drift: 0 ms
+[Arithmetic] 88 + 85 = 173
+[EXEC] ID: 987 | Drift: 0 ms
+[Arithmetic] 45 + 65 = 110
+[EXEC] ID: 1438 | Drift: 0 ms
+[Arithmetic] 58 + 32 = 90
+[EXEC] ID: 713 | Drift: 0 ms
+[Arithmetic] 96 - 17 = 79
+[EXEC] ID: 1588 | Drift: 0 ms
+[Arithmetic] 97 - 64 = 33
+[EXEC] ID: 527 | Drift: 0 ms
+[Arithmetic] 75 / 81 = 0
+[EXEC] ID: 1488 | Drift: 0 ms
+[Arithmetic] 62 - 75 = -13
+[EXEC] ID: 75 | Drift: 0 ms
+[Arithmetic] 73 - 22 = 51
+[EXEC] ID: 1268 | Drift: 0 ms
+[Arithmetic] 15 / 96 = 0
+[EXEC] ID: 1894 | Drift: 0 ms
+[Arithmetic] 97 + 91 = 188
+[EXEC] ID: 258 | Drift: 0 ms
+[Arithmetic] 99 + 29 = 128
+[EXEC] ID: 1145 | Drift: 0 ms
+[Arithmetic] 58 * 87 = 5046
+[EXEC] ID: 66 | Drift: 0 ms
+[Arithmetic] 19 - 75 = -56
+[EXEC] ID: 1700 | Drift: 0 ms
+[Arithmetic] 4 * 16 = 64
+[EXEC] ID: 472 | Drift: 0 ms
+[Arithmetic] 27 * 22 = 594
+[EXEC] ID: 1666 | Drift: 0 ms
+[Arithmetic] 2 / 4 = 0
+[EXEC] ID: 896 | Drift: 0 ms
+[Arithmetic] 85 / 48 = 1
+[EXEC] ID: 1293 | Drift: 0 ms
+[Arithmetic] 26 + 8 = 34
+[EXEC] ID: 367 | Drift: 0 ms
+[Arithmetic] 24 / 22 = 1
+[EXEC] ID: 839 | Drift: 0 ms
+[Arithmetic] 56 + 14 = 70
+[EXEC] ID: 1767 | Drift: 0 ms
+[Arithmetic] 90 / 53 = 1
+[EXEC] ID: 449 | Drift: 0 ms
+[Arithmetic] 47 * 8 = 376
+[EXEC] ID: 915 | Drift: 0 ms
+[Arithmetic] 53 + 15 = 68
+[EXEC] ID: 343 | Drift: 0 ms
+[Arithmetic] 99 + 2 = 101
+[EXEC] ID: 423 | Drift: 0 ms
+[Arithmetic] 17 + 12 = 29
+[EXEC] ID: 1017 | Drift: 0 ms
+[Arithmetic] 72 - 54 = 18
+[EXEC] ID: 600 | Drift: 0 ms
+[Arithmetic] 4 + 82 = 86
+[EXEC] ID: 1402 | Drift: 0 ms
+[Arithmetic] 40 - 96 = -56
+[EXEC] ID: 1561 | Drift: 0 ms
+[Arithmetic] 81 - 49 = 32
+[EXEC] ID: 1583 | Drift: 0 ms
+[Arithmetic] 19 - 98 = -79
+[EXEC] ID: 644 | Drift: 0 ms
+[Arithmetic] 63 / 61 = 1
+[EXEC] ID: 818 | Drift: 0 ms
+[Arithmetic] 46 * 55 = 2530
+[EXEC] ID: 1634 | Drift: 0 ms
+[Arithmetic] 91 * 2 = 182
+[EXEC] ID: 1464 | Drift: 0 ms
+[Arithmetic] 51 + 37 = 88
+[EXEC] ID: 910 | Drift: 0 ms
+[Arithmetic] 79 + 47 = 126
+[EXEC] ID: 1914 | Drift: 0 ms
+[Arithmetic] 85 * 3 = 255
+[EXEC] ID: 942 | Drift: 0 ms
+[Arithmetic] 14 - 33 = -19
+[EXEC] ID: 149 | Drift: 0 ms
+[Arithmetic] 45 / 10 = 4
+[EXEC] ID: 1470 | Drift: 0 ms
+[Arithmetic] 43 / 64 = 0
+[EXEC] ID: 288 | Drift: 0 ms
+[Arithmetic] 73 + 64 = 137
+[EXEC] ID: 1541 | Drift: 0 ms
+[Arithmetic] 25 / 38 = 0
+[EXEC] ID: 112 | Drift: 0 ms
+[Arithmetic] 8 + 50 = 58
+[EXEC] ID: 524 | Drift: 0 ms
+[Arithmetic] 69 * 25 = 1725
+[EXEC] ID: 82 | Drift: 0 ms
+[Arithmetic] 20 - 62 = -42
+[EXEC] ID: 677 | Drift: 0 ms
+[Arithmetic] 13 / 95 = 0
+[EXEC] ID: 1091 | Drift: 0 ms
+[Arithmetic] 28 / 6 = 4
+[EXEC] ID: 1822 | Drift: 0 ms
+[Arithmetic] 83 + 15 = 98
+[EXEC] ID: 1886 | Drift: 0 ms
+[Arithmetic] 89 - 74 = 15
+[EXEC] ID: 84 | Drift: 0 ms
+[Arithmetic] 77 * 4 = 308
+[EXEC] ID: 175 | Drift: 0 ms
+[Arithmetic] 32 / 44 = 0
+[EXEC] ID: 1933 | Drift: 0 ms
+[Arithmetic] 88 - 60 = 28
+[EXEC] ID: 116 | Drift: 0 ms
+[Arithmetic] 7 * 41 = 287
+[EXEC] ID: 405 | Drift: 0 ms
+[Arithmetic] 86 / 49 = 1
+[EXEC] ID: 1854 | Drift: 0 ms
+[Arithmetic] 40 / 68 = 0
+[EXEC] ID: 616 | Drift: 0 ms
+[Arithmetic] 38 / 51 = 0
+[EXEC] ID: 340 | Drift: 0 ms
+[Arithmetic] 3 - 30 = -27
+[EXEC] ID: 97 | Drift: 0 ms
+[Arithmetic] 50 + 31 = 81
+[EXEC] ID: 962 | Drift: 0 ms
+[Arithmetic] 89 - 25 = 64
+[EXEC] ID: 1028 | Drift: 0 ms
+[Arithmetic] 39 + 59 = 98
+[EXEC] ID: 1072 | Drift: 0 ms
+[Arithmetic] 32 / 12 = 2
+[EXEC] ID: 1515 | Drift: 0 ms
+[Arithmetic] 10 * 36 = 360
+[EXEC] ID: 781 | Drift: 0 ms
+[Arithmetic] 98 - 49 = 49
+[EXEC] ID: 363 | Drift: 0 ms
+[Arithmetic] 54 - 7 = 47
+[EXEC] ID: 1769 | Drift: 0 ms
+[Arithmetic] 52 * 40 = 2080
+[EXEC] ID: 884 | Drift: 0 ms
+[Arithmetic] 47 / 98 = 0
+[EXEC] ID: 1918 | Drift: 0 ms
+[Arithmetic] 52 - 89 = -37
+[EXEC] ID: 310 | Drift: 0 ms
+[Arithmetic] 72 - 19 = 53
+[EXEC] ID: 715 | Drift: 0 ms
+[Arithmetic] 7 + 20 = 27
+[EXEC] ID: 1847 | Drift: 0 ms
+[Arithmetic] 87 + 81 = 168
+[EXEC] ID: 1348 | Drift: 0 ms
+[Arithmetic] 99 * 58 = 5742
+[EXEC] ID: 786 | Drift: 0 ms
+[Arithmetic] 58 * 78 = 4524
+[EXEC] ID: 586 | Drift: 0 ms
+[Arithmetic] 87 / 40 = 2
+[EXEC] ID: 54 | Drift: 0 ms
+[Arithmetic] 25 * 10 = 250
+[EXEC] ID: 807 | Drift: 0 ms
+[Arithmetic] 47 * 37 = 1739
+[EXEC] ID: 643 | Drift: 0 ms
+[Arithmetic] 63 / 93 = 0
+[EXEC] ID: 1312 | Drift: 0 ms
+[Arithmetic] 53 - 61 = -8
+[EXEC] ID: 1358 | Drift: 0 ms
+[Arithmetic] 39 + 67 = 106
+[EXEC] ID: 1955 | Drift: 0 ms
+[Arithmetic] 80 * 70 = 5600
+[EXEC] ID: 1281 | Drift: 0 ms
+[Arithmetic] 15 / 84 = 0
+[EXEC] ID: 641 | Drift: 0 ms
+[Arithmetic] 33 - 66 = -33
+[EXEC] ID: 1637 | Drift: 0 ms
+[Arithmetic] 96 + 48 = 144
+[EXEC] ID: 1564 | Drift: 0 ms
+[Arithmetic] 22 + 13 = 35
+[EXEC] ID: 392 | Drift: 0 ms
+[Arithmetic] 43 / 70 = 0
+[EXEC] ID: 879 | Drift: 0 ms
+[Arithmetic] 31 - 59 = -28
+[EXEC] ID: 1804 | Drift: 0 ms
+[Arithmetic] 16 + 99 = 115
+[EXEC] ID: 957 | Drift: 0 ms
+[Arithmetic] 44 / 81 = 0
+[EXEC] ID: 996 | Drift: 0 ms
+[Arithmetic] 56 / 60 = 0
+[EXEC] ID: 955 | Drift: 0 ms
+[Arithmetic] 16 / 73 = 0
+[EXEC] ID: 154 | Drift: 0 ms
+[Arithmetic] 0 * 89 = 0
+[EXEC] ID: 1532 | Drift: 0 ms
+[Arithmetic] 46 - 67 = -21
+[EXEC] ID: 220 | Drift: 0 ms
+[Arithmetic] 9 - 10 = -1
+[EXEC] ID: 267 | Drift: 0 ms
+[Arithmetic] 72 - 23 = 49
+[EXEC] ID: 39 | Drift: 0 ms
+[Arithmetic] 95 * 19 = 1805
+[EXEC] ID: 638 | Drift: 0 ms
+[Arithmetic] 84 / 49 = 1
+[EXEC] ID: 1389 | Drift: 0 ms
+[Arithmetic] 10 + 57 = 67
+[EXEC] ID: 1843 | Drift: 0 ms
+[Arithmetic] 77 / 25 = 3
+[EXEC] ID: 1910 | Drift: 0 ms
+[Arithmetic] 35 / 21 = 1
+[EXEC] ID: 479 | Drift: 0 ms
+[Arithmetic] 95 / 58 = 1
+[EXEC] ID: 1999 | Drift: 0 ms
+[Arithmetic] 26 - 25 = 1
+[EXEC] ID: 28 | Drift: 0 ms
+[Arithmetic] 94 - 4 = 90
+[EXEC] ID: 1598 | Drift: 0 ms
+[Arithmetic] 23 * 63 = 1449
+[EXEC] ID: 1297 | Drift: 0 ms
+[Arithmetic] 74 * 7 = 518
+[EXEC] ID: 669 | Drift: 0 ms
+[Arithmetic] 45 / 52 = 0
+[EXEC] ID: 1129 | Drift: 0 ms
+[Arithmetic] 96 - 55 = 41
+[EXEC] ID: 837 | Drift: 0 ms
+[Arithmetic] 64 + 40 = 104
+[EXEC] ID: 1864 | Drift: 0 ms
+[Arithmetic] 58 / 44 = 1
+[EXEC] ID: 1487 | Drift: 0 ms
+[Arithmetic] 17 * 19 = 323
+[EXEC] ID: 434 | Drift: 0 ms
+[Arithmetic] 4 / 2 = 2
+[EXEC] ID: 980 | Drift: 0 ms
+[Arithmetic] 99 - 57 = 42
+[EXEC] ID: 306 | Drift: 0 ms
+[Arithmetic] 53 - 91 = -38
+[EXEC] ID: 739 | Drift: 0 ms
+[Arithmetic] 30 + 81 = 111
+[EXEC] ID: 1341 | Drift: 0 ms
+[Arithmetic] 20 / 42 = 0
+[EXEC] ID: 1651 | Drift: 0 ms
+[Arithmetic] 93 * 95 = 8835
+[EXEC] ID: 1953 | Drift: 0 ms
+[Arithmetic] 42 * 3 = 126
+[EXEC] ID: 582 | Drift: 0 ms
+[Arithmetic] 30 * 54 = 1620
+[EXEC] ID: 631 | Drift: 0 ms
+[Arithmetic] 61 + 32 = 93
+[EXEC] ID: 662 | Drift: 0 ms
+[Arithmetic] 29 * 99 = 2871
+[EXEC] ID: 1575 | Drift: 0 ms
+[Arithmetic] 81 - 31 = 50
+[EXEC] ID: 860 | Drift: 0 ms
+[Arithmetic] 81 / 14 = 5
+[EXEC] ID: 250 | Drift: 0 ms
+[Arithmetic] 12 / 81 = 0
+[EXEC] ID: 1056 | Drift: 0 ms
+[Arithmetic] 27 + 17 = 44
+[EXEC] ID: 1115 | Drift: 0 ms
+[Arithmetic] 69 / 74 = 0
+[EXEC] ID: 246 | Drift: 0 ms
+[Arithmetic] 36 / 74 = 0
+[EXEC] ID: 1213 | Drift: 0 ms
+[Arithmetic] 7 - 39 = -32
+[EXEC] ID: 821 | Drift: 0 ms
+[Arithmetic] 51 / 90 = 0
+[EXEC] ID: 208 | Drift: 0 ms
+[Arithmetic] 96 - 87 = 9
+[EXEC] ID: 1116 | Drift: 0 ms
+[Arithmetic] 85 * 85 = 7225
+[EXEC] ID: 329 | Drift: 0 ms
+[Arithmetic] 68 * 68 = 4624
+[EXEC] ID: 1530 | Drift: 0 ms
+[Arithmetic] 89 - 45 = 44
+[EXEC] ID: 966 | Drift: 0 ms
+[Arithmetic] 89 / 59 = 1
+[EXEC] ID: 323 | Drift: 0 ms
+[Arithmetic] 78 / 28 = 2
+[EXEC] ID: 1555 | Drift: 0 ms
+[Arithmetic] 79 / 75 = 1
+[EXEC] ID: 1827 | Drift: 0 ms
+[Arithmetic] 11 / 23 = 0
+[EXEC] ID: 1195 | Drift: 0 ms
+[Arithmetic] 12 + 67 = 79
+[EXEC] ID: 1873 | Drift: 0 ms
+[Arithmetic] 4 - 7 = -3
+[EXEC] ID: 1590 | Drift: 0 ms
+[Arithmetic] 17 - 10 = 7
+[EXEC] ID: 1833 | Drift: 0 ms
+[Arithmetic] 64 + 94 = 158
+[EXEC] ID: 1715 | Drift: 0 ms
+[Arithmetic] 73 / 70 = 1
+[EXEC] ID: 1862 | Drift: 0 ms
+[Arithmetic] 98 + 67 = 165
+[EXEC] ID: 1038 | Drift: 0 ms
+[Arithmetic] 12 / 6 = 2
+[EXEC] ID: 733 | Drift: 0 ms
+[Arithmetic] 82 + 77 = 159
+[EXEC] ID: 1033 | Drift: 0 ms
+[Arithmetic] 35 + 10 = 45
+[EXEC] ID: 685 | Drift: 0 ms
+[Arithmetic] 31 - 78 = -47
+[EXEC] ID: 1390 | Drift: 0 ms
+[Arithmetic] 56 - 94 = -38
+[EXEC] ID: 1567 | Drift: 0 ms
+[Arithmetic] 17 / 76 = 0
+[EXEC] ID: 624 | Drift: 0 ms
+[Arithmetic] 40 - 53 = -13
+[EXEC] ID: 1176 | Drift: 0 ms
+[Arithmetic] 36 + 89 = 125
+[EXEC] ID: 1255 | Drift: 0 ms
+[Arithmetic] 95 + 2 = 97
+[EXEC] ID: 240 | Drift: 0 ms
+[Arithmetic] 53 + 99 = 152
+[EXEC] ID: 1489 | Drift: 0 ms
+[Arithmetic] 43 + 83 = 126
+[EXEC] ID: 1911 | Drift: 0 ms
+[Arithmetic] 14 - 46 = -32
+[EXEC] ID: 1975 | Drift: 0 ms
+[Arithmetic] 63 / 7 = 9
+[EXEC] ID: 1330 | Drift: 0 ms
+[Arithmetic] 73 + 14 = 87
+[EXEC] ID: 1601 | Drift: 0 ms
+[Arithmetic] 21 / 94 = 0
+[EXEC] ID: 1689 | Drift: 0 ms
+[Arithmetic] 64 * 35 = 2240
+[EXEC] ID: 203 | Drift: 0 ms
+[Arithmetic] 63 - 43 = 20
+[EXEC] ID: 1932 | Drift: 0 ms
+[Arithmetic] 6 + 91 = 97
+[EXEC] ID: 1120 | Drift: 0 ms
+[Arithmetic] 12 / 63 = 0
+[EXEC] ID: 147 | Drift: 0 ms
+[Arithmetic] 48 / 65 = 0
+[EXEC] ID: 734 | Drift: 0 ms
+[Arithmetic] 13 - 35 = -22
+[EXEC] ID: 1594 | Drift: 0 ms
+[Arithmetic] 14 + 75 = 89
+[EXEC] ID: 1211 | Drift: 0 ms
+[Arithmetic] 39 / 88 = 0
+[EXEC] ID: 1824 | Drift: 0 ms
+[Arithmetic] 38 - 66 = -28
+[EXEC] ID: 1151 | Drift: 0 ms
+[Arithmetic] 90 - 87 = 3
+[EXEC] ID: 771 | Drift: 0 ms
+[Arithmetic] 20 + 89 = 109
+[EXEC] ID: 1039 | Drift: 0 ms
+[Arithmetic] 94 - 81 = 13
+[EXEC] ID: 1155 | Drift: 0 ms
+[Arithmetic] 62 / 66 = 0
+[EXEC] ID: 1210 | Drift: 0 ms
+[Arithmetic] 50 * 67 = 3350
+[EXEC] ID: 317 | Drift: 0 ms
+[Arithmetic] 68 / 6 = 11
+[EXEC] ID: 1462 | Drift: 0 ms
+[Arithmetic] 96 - 31 = 65
+[EXEC] ID: 98 | Drift: 0 ms
+[Arithmetic] 0 - 20 = -20
+[EXEC] ID: 67 | Drift: 0 ms
+[Arithmetic] 29 * 23 = 667
+[EXEC] ID: 1377 | Drift: 0 ms
+[Arithmetic] 52 * 19 = 988
+[EXEC] ID: 760 | Drift: 0 ms
+[Arithmetic] 33 * 23 = 759
+[EXEC] ID: 1973 | Drift: 0 ms
+[Arithmetic] 84 / 16 = 5
+[EXEC] ID: 401 | Drift: 0 ms
+[Arithmetic] 3 - 15 = -12
+[EXEC] ID: 1745 | Drift: 0 ms
+[Arithmetic] 32 / 60 = 0
+[EXEC] ID: 1866 | Drift: 0 ms
+[Arithmetic] 71 + 61 = 132
+[EXEC] ID: 284 | Drift: 0 ms
+[Arithmetic] 95 / 39 = 2
+[EXEC] ID: 1985 | Drift: 0 ms
+[Arithmetic] 36 - 30 = 6
+[EXEC] ID: 1486 | Drift: 0 ms
+[Arithmetic] 22 / 94 = 0
+[EXEC] ID: 403 | Drift: 0 ms
+[Arithmetic] 26 / 27 = 0
+[EXEC] ID: 858 | Drift: 0 ms
+[Arithmetic] 80 - 96 = -16
+[EXEC] ID: 1329 | Drift: 0 ms
+[Arithmetic] 33 - 29 = 4
+[EXEC] ID: 1230 | Drift: 0 ms
+[Arithmetic] 57 - 99 = -42
+[EXEC] ID: 1409 | Drift: 0 ms
+[Arithmetic] 41 * 71 = 2911
+[EXEC] ID: 1194 | Drift: 0 ms
+[Arithmetic] 58 - 57 = 1
+[EXEC] ID: 79 | Drift: 0 ms
+[Arithmetic] 57 * 76 = 4332
+[EXEC] ID: 1334 | Drift: 0 ms
+[Arithmetic] 17 * 74 = 1258
+[EXEC] ID: 1557 | Drift: 0 ms
+[Arithmetic] 14 - 28 = -14
+[EXEC] ID: 1573 | Drift: 0 ms
+[Arithmetic] 58 * 16 = 928
+[EXEC] ID: 848 | Drift: 0 ms
+[Arithmetic] 13 * 42 = 546
+[EXEC] ID: 1951 | Drift: 0 ms
+[Arithmetic] 73 / 34 = 2
+[EXEC] ID: 1783 | Drift: 0 ms
+[Arithmetic] 8 * 21 = 168
+[EXEC] ID: 510 | Drift: 0 ms
+[Arithmetic] 71 / 32 = 2
+[EXEC] ID: 615 | Drift: 0 ms
+[Arithmetic] 17 - 65 = -48
+[EXEC] ID: 92 | Drift: 0 ms
+[Arithmetic] 19 / 67 = 0
+[EXEC] ID: 1892 | Drift: 0 ms
+[Arithmetic] 24 + 72 = 96
+[EXEC] ID: 1732 | Drift: 0 ms
+[Arithmetic] 16 / 48 = 0
+[EXEC] ID: 7 | Drift: 0 ms
+[Arithmetic] 60 / 33 = 1
+[EXEC] ID: 1276 | Drift: 0 ms
+[Arithmetic] 18 / 14 = 1
+[EXEC] ID: 1416 | Drift: 0 ms
+[Arithmetic] 11 - 34 = -23
+[EXEC] ID: 1509 | Drift: 0 ms
+[Arithmetic] 24 - 75 = -51
+[EXEC] ID: 525 | Drift: 0 ms
+[Arithmetic] 99 * 21 = 2079
+[EXEC] ID: 1223 | Drift: 0 ms
+[Arithmetic] 7 / 67 = 0
+[EXEC] ID: 1388 | Drift: 0 ms
+[Arithmetic] 4 / 58 = 0
+[EXEC] ID: 700 | Drift: 0 ms
+[Arithmetic] 32 - 88 = -56
+[EXEC] ID: 829 | Drift: 0 ms
+[Arithmetic] 76 * 96 = 7296
+[EXEC] ID: 872 | Drift: 0 ms
+[Arithmetic] 22 + 99 = 121
+[EXEC] ID: 938 | Drift: 0 ms
+[Arithmetic] 72 - 82 = -10
+[EXEC] ID: 1404 | Drift: 0 ms
+[Arithmetic] 42 + 14 = 56
+[EXEC] ID: 109 | Drift: 0 ms
+[Arithmetic] 5 * 80 = 400
+[EXEC] ID: 1051 | Drift: 0 ms
+[Arithmetic] 15 / 64 = 0
+[EXEC] ID: 254 | Drift: 0 ms
+[Arithmetic] 77 + 79 = 156
+[EXEC] ID: 754 | Drift: 0 ms
+[Arithmetic] 3 + 39 = 42
+[EXEC] ID: 1705 | Drift: 0 ms
+[Arithmetic] 92 / 4 = 23
+[EXEC] ID: 894 | Drift: 0 ms
+[Arithmetic] 49 + 54 = 103
+[EXEC] ID: 1811 | Drift: 0 ms
+[Arithmetic] 39 - 52 = -13
+[EXEC] ID: 1885 | Drift: 0 ms
+[Arithmetic] 37 * 16 = 592
+[EXEC] ID: 241 | Drift: 0 ms
+[Arithmetic] 80 / 66 = 1
+[EXEC] ID: 566 | Drift: 0 ms
+[Arithmetic] 35 * 77 = 2695
+[EXEC] ID: 1073 | Drift: 0 ms
+[Arithmetic] 22 + 66 = 88
+[EXEC] ID: 1729 | Drift: 0 ms
+[Arithmetic] 51 * 76 = 3876
+[EXEC] ID: 229 | Drift: 0 ms
+[Arithmetic] 69 / 90 = 0
+[EXEC] ID: 493 | Drift: 0 ms
+[Arithmetic] 77 + 6 = 83
+[EXEC] ID: 1445 | Drift: 0 ms
+[Arithmetic] 23 + 36 = 59
+[EXEC] ID: 1502 | Drift: 0 ms
+[Arithmetic] 0 + 88 = 88
+[EXEC] ID: 784 | Drift: 0 ms
+[Arithmetic] 41 / 31 = 1
+[EXEC] ID: 1696 | Drift: 0 ms
+[Arithmetic] 62 - 38 = 24
+[EXEC] ID: 568 | Drift: 0 ms
+[Arithmetic] 6 / 81 = 0
+[EXEC] ID: 1430 | Drift: 0 ms
+[Arithmetic] 90 / 35 = 2
+[EXEC] ID: 77 | Drift: 0 ms
+[Arithmetic] 0 * 44 = 0
+[EXEC] ID: 823 | Drift: 0 ms
+[Arithmetic] 36 + 62 = 98
+[EXEC] ID: 1261 | Drift: 0 ms
+[Arithmetic] 95 - 37 = 58
+[EXEC] ID: 446 | Drift: 0 ms
+[Arithmetic] 75 + 2 = 77
+[EXEC] ID: 1419 | Drift: 0 ms
+[Arithmetic] 25 / 43 = 0
+[EXEC] ID: 1579 | Drift: 0 ms
+[Arithmetic] 38 + 97 = 135
+[EXEC] ID: 1214 | Drift: 0 ms
+[Arithmetic] 85 * 76 = 6460
+[EXEC] ID: 857 | Drift: 0 ms
+[Arithmetic] 29 / 45 = 0
+[EXEC] ID: 225 | Drift: 0 ms
+[Arithmetic] 98 - 0 = 98
+[EXEC] ID: 29 | Drift: 0 ms
+[Arithmetic] 45 / 75 = 0
+[EXEC] ID: 314 | Drift: 0 ms
+[Arithmetic] 79 - 35 = 44
+[EXEC] ID: 1505 | Drift: 0 ms
+[Arithmetic] 96 * 66 = 6336
+[EXEC] ID: 851 | Drift: 0 ms
+[Arithmetic] 19 * 2 = 38
+[EXEC] ID: 1163 | Drift: 0 ms
+[Arithmetic] 46 / 17 = 2
+[EXEC] ID: 820 | Drift: 0 ms
+[Arithmetic] 84 + 87 = 171
+[EXEC] ID: 1895 | Drift: 0 ms
+[Arithmetic] 89 * 48 = 4272
+[EXEC] ID: 1610 | Drift: 0 ms
+[Arithmetic] 21 * 79 = 1659
+[EXEC] ID: 1979 | Drift: 0 ms
+[Arithmetic] 80 / 46 = 1
+[EXEC] ID: 1071 | Drift: 0 ms
+[Arithmetic] 63 * 74 = 4662
+[EXEC] ID: 1190 | Drift: 0 ms
+[Arithmetic] 84 + 50 = 134
+[EXEC] ID: 210 | Drift: 0 ms
+[Arithmetic] 53 - 71 = -18
+[EXEC] ID: 1205 | Drift: 0 ms
+[Arithmetic] 94 / 16 = 5
+[EXEC] ID: 1285 | Drift: 0 ms
+[Arithmetic] 74 + 51 = 125
+[EXEC] ID: 1654 | Drift: 0 ms
+[Arithmetic] 67 * 78 = 5226
+[EXEC] ID: 1909 | Drift: 0 ms
+[Arithmetic] 3 + 88 = 91
+[EXEC] ID: 1079 | Drift: 0 ms
+[Arithmetic] 2 - 52 = -50
+[EXEC] ID: 804 | Drift: 0 ms
+[Arithmetic] 46 / 75 = 0
+[EXEC] ID: 945 | Drift: 0 ms
+[Arithmetic] 81 - 32 = 49
+[EXEC] ID: 326 | Drift: 0 ms
+[Arithmetic] 53 - 78 = -25
+[EXEC] ID: 245 | Drift: 0 ms
+[Arithmetic] 27 - 73 = -46
+[EXEC] ID: 104 | Drift: 0 ms
+[Arithmetic] 29 * 18 = 522
+[EXEC] ID: 655 | Drift: 0 ms
+[Arithmetic] 29 / 27 = 1
+[EXEC] ID: 761 | Drift: 0 ms
+[Arithmetic] 70 + 32 = 102
+[EXEC] ID: 1132 | Drift: 0 ms
+[Arithmetic] 53 + 91 = 144
+[EXEC] ID: 150 | Drift: 0 ms
+[Arithmetic] 10 - 47 = -37
+[EXEC] ID: 1179 | Drift: 0 ms
+[Arithmetic] 3 + 40 = 43
+[EXEC] ID: 399 | Drift: 0 ms
+[Arithmetic] 2 - 17 = -15
+[EXEC] ID: 1638 | Drift: 0 ms
+[Arithmetic] 9 / 40 = 0
+[EXEC] ID: 974 | Drift: 0 ms
+[Arithmetic] 4 + 68 = 72
+[EXEC] ID: 1304 | Drift: 0 ms
+[Arithmetic] 19 * 59 = 1121
+[EXEC] ID: 1616 | Drift: 0 ms
+[Arithmetic] 42 - 44 = -2
+[EXEC] ID: 176 | Drift: 0 ms
+[Arithmetic] 52 * 56 = 2912
+[EXEC] ID: 1967 | Drift: 0 ms
+[Arithmetic] 46 - 18 = 28
+[EXEC] ID: 1383 | Drift: 0 ms
+[Arithmetic] 10 + 12 = 22
+[EXEC] ID: 814 | Drift: 0 ms
+[Arithmetic] 38 * 11 = 418
+[EXEC] ID: 1930 | Drift: 0 ms
+[Arithmetic] 44 * 24 = 1056
+[EXEC] ID: 659 | Drift: 0 ms
+[Arithmetic] 20 - 57 = -37
+[EXEC] ID: 1427 | Drift: 0 ms
+[Arithmetic] 68 / 81 = 0
+[EXEC] ID: 954 | Drift: 0 ms
+[Arithmetic] 93 * 55 = 5115
+[EXEC] ID: 1295 | Drift: 0 ms
+[Arithmetic] 22 + 19 = 41
+[EXEC] ID: 538 | Drift: 0 ms
+[Arithmetic] 32 + 51 = 83
+[EXEC] ID: 305 | Drift: 0 ms
+[Arithmetic] 83 / 0 = 0
+[EXEC] ID: 1807 | Drift: 0 ms
+[Arithmetic] 23 + 95 = 118
+[EXEC] ID: 1869 | Drift: 0 ms
+[Arithmetic] 94 * 2 = 188
+[EXEC] ID: 825 | Drift: 0 ms
+[Arithmetic] 99 / 50 = 1
+[EXEC] ID: 881 | Drift: 0 ms
+[Arithmetic] 53 - 96 = -43
+[EXEC] ID: 439 | Drift: 0 ms
+[Arithmetic] 14 - 5 = 9
+[EXEC] ID: 895 | Drift: 0 ms
+[Arithmetic] 96 - 59 = 37
+[EXEC] ID: 522 | Drift: 0 ms
+[Arithmetic] 8 * 74 = 592
+[EXEC] ID: 1288 | Drift: 0 ms
+[Arithmetic] 70 / 40 = 1
+[EXEC] ID: 1316 | Drift: 0 ms
+[Arithmetic] 69 * 83 = 5727
+[EXEC] ID: 724 | Drift: 0 ms
+[Arithmetic] 88 - 50 = 38
+[EXEC] ID: 570 | Drift: 0 ms
+[Arithmetic] 75 - 86 = -11
+[EXEC] ID: 1153 | Drift: 0 ms
+[Arithmetic] 50 + 67 = 117
+[EXEC] ID: 337 | Drift: 0 ms
+[Arithmetic] 10 - 82 = -72
+[EXEC] ID: 503 | Drift: 0 ms
+[Arithmetic] 62 + 8 = 70
+[EXEC] ID: 637 | Drift: 0 ms
+[Arithmetic] 43 - 80 = -37
+[EXEC] ID: 312 | Drift: 0 ms
+[Arithmetic] 74 + 62 = 136
+[EXEC] ID: 639 | Drift: 0 ms
+[Arithmetic] 83 - 48 = 35
+[EXEC] ID: 1787 | Drift: 0 ms
+[Arithmetic] 95 / 19 = 5
+[EXEC] ID: 1247 | Drift: 0 ms
+[Arithmetic] 22 - 96 = -74
+[EXEC] ID: 1426 | Drift: 0 ms
+[Arithmetic] 46 + 49 = 95
+[EXEC] ID: 1504 | Drift: 0 ms
+[Arithmetic] 71 / 24 = 2
+[EXEC] ID: 701 | Drift: 0 ms
+[Arithmetic] 2 / 10 = 0
+[EXEC] ID: 222 | Drift: 0 ms
+[Arithmetic] 85 / 34 = 2
+[EXEC] ID: 133 | Drift: 0 ms
+[Arithmetic] 97 / 61 = 1
+[EXEC] ID: 1528 | Drift: 0 ms
+[Arithmetic] 0 / 68 = 0
+[EXEC] ID: 1619 | Drift: 0 ms
+[Arithmetic] 86 * 27 = 2322
+[EXEC] ID: 822 | Drift: 0 ms
+[Arithmetic] 99 * 90 = 8910
+[EXEC] ID: 1741 | Drift: 0 ms
+[Arithmetic] 48 - 17 = 31
+[EXEC] ID: 11 | Drift: 0 ms
+[Arithmetic] 67 - 72 = -5
+[EXEC] ID: 663 | Drift: 0 ms
+[Arithmetic] 5 - 15 = -10
+[EXEC] ID: 1664 | Drift: 0 ms
+[Arithmetic] 46 - 79 = -33
+[EXEC] ID: 57 | Drift: 0 ms
+[Arithmetic] 67 * 39 = 2613
+[EXEC] ID: 1491 | Drift: 0 ms
+[Arithmetic] 86 + 55 = 141
+[EXEC] ID: 1629 | Drift: 0 ms
+[Arithmetic] 3 + 81 = 84
+[EXEC] ID: 1004 | Drift: 0 ms
+[Arithmetic] 46 - 99 = -53
+[EXEC] ID: 703 | Drift: 0 ms
+[Arithmetic] 8 - 50 = -42
+[EXEC] ID: 800 | Drift: 0 ms
+[Arithmetic] 38 - 82 = -44
+[EXEC] ID: 1701 | Drift: 0 ms
+[Arithmetic] 20 / 95 = 0
+[EXEC] ID: 469 | Drift: 0 ms
+[Arithmetic] 75 * 9 = 675
+[EXEC] ID: 1656 | Drift: 0 ms
+[Arithmetic] 90 / 33 = 2
+[EXEC] ID: 1577 | Drift: 0 ms
+[Arithmetic] 53 - 33 = 20
+[EXEC] ID: 1012 | Drift: 0 ms
+[Arithmetic] 0 / 36 = 0
+[EXEC] ID: 1867 | Drift: 0 ms
+[Arithmetic] 70 * 39 = 2730
+[EXEC] ID: 155 | Drift: 0 ms
+[Arithmetic] 46 / 38 = 1
+[EXEC] ID: 1362 | Drift: 0 ms
+[Arithmetic] 19 - 67 = -48
+[EXEC] ID: 1669 | Drift: 0 ms
+[Arithmetic] 94 - 33 = 61
+[EXEC] ID: 1203 | Drift: 0 ms
+[Arithmetic] 20 * 47 = 940
+[EXEC] ID: 602 | Drift: 0 ms
+[Arithmetic] 70 - 53 = 17
+[EXEC] ID: 1216 | Drift: 0 ms
+[Arithmetic] 93 + 86 = 179
+[EXEC] ID: 605 | Drift: 0 ms
+[Arithmetic] 84 / 34 = 2
+[EXEC] ID: 727 | Drift: 0 ms
+[Arithmetic] 17 / 22 = 0
+[EXEC] ID: 808 | Drift: 0 ms
+[Arithmetic] 30 + 7 = 37
+[EXEC] ID: 1522 | Drift: 0 ms
+[Arithmetic] 16 * 6 = 96
+[EXEC] ID: 759 | Drift: 0 ms
+[Arithmetic] 25 * 64 = 1600
+[EXEC] ID: 883 | Drift: 0 ms
+[Arithmetic] 28 / 94 = 0
+[EXEC] ID: 1332 | Drift: 0 ms
+[Arithmetic] 14 + 28 = 42
+[EXEC] ID: 1813 | Drift: 0 ms
+[Arithmetic] 67 - 19 = 48
+[EXEC] ID: 1879 | Drift: 0 ms
+[Arithmetic] 55 * 97 = 5335
+[EXEC] ID: 1624 | Drift: 0 ms
+[Arithmetic] 33 * 76 = 2508
+[EXEC] ID: 1923 | Drift: 0 ms
+[Arithmetic] 98 + 33 = 131
+[EXEC] ID: 936 | Drift: 0 ms
+[Arithmetic] 94 * 87 = 8178
+[EXEC] ID: 595 | Drift: 0 ms
+[Arithmetic] 5 * 14 = 70
+[EXEC] ID: 1294 | Drift: 0 ms
+[Arithmetic] 88 / 45 = 1
+[EXEC] ID: 1939 | Drift: 0 ms
+[Arithmetic] 31 + 79 = 110
+[EXEC] ID: 1792 | Drift: 0 ms
+[Arithmetic] 49 + 8 = 57
+[EXEC] ID: 1095 | Drift: 0 ms
+[Arithmetic] 47 / 35 = 1
+[EXEC] ID: 115 | Drift: 0 ms
+[Arithmetic] 60 / 42 = 1
+[EXEC] ID: 564 | Drift: 0 ms
+[Arithmetic] 50 * 75 = 3750
+[EXEC] ID: 1776 | Drift: 0 ms
+[Arithmetic] 78 * 92 = 7176
+[EXEC] ID: 555 | Drift: 0 ms
+[Arithmetic] 94 / 60 = 1
+[EXEC] ID: 122 | Drift: 0 ms
+[Arithmetic] 53 * 89 = 4717
+[EXEC] ID: 1994 | Drift: 0 ms
+[Arithmetic] 66 * 71 = 4686
+[EXEC] ID: 1165 | Drift: 0 ms
+[Arithmetic] 37 * 50 = 1850
+[EXEC] ID: 1467 | Drift: 0 ms
+[Arithmetic] 54 + 57 = 111
+[EXEC] ID: 1552 | Drift: 0 ms
+[Arithmetic] 83 + 26 = 109
+[EXEC] ID: 1673 | Drift: 0 ms
+[Arithmetic] 15 / 76 = 0
+[EXEC] ID: 925 | Drift: 0 ms
+[Arithmetic] 21 + 93 = 114
+[EXEC] ID: 935 | Drift: 0 ms
+[Arithmetic] 1 - 90 = -89
+[EXEC] ID: 1653 | Drift: 0 ms
+[Arithmetic] 45 * 66 = 2970
+[EXEC] ID: 1124 | Drift: 0 ms
+[Arithmetic] 5 / 23 = 0
+[EXEC] ID: 1221 | Drift: 0 ms
+[Arithmetic] 75 - 55 = 20
+[EXEC] ID: 983 | Drift: 0 ms
+[Arithmetic] 15 / 72 = 0
+[EXEC] ID: 1363 | Drift: 0 ms
+[Arithmetic] 20 + 30 = 50
+[EXEC] ID: 1061 | Drift: 0 ms
+[Arithmetic] 0 - 7 = -7
+[EXEC] ID: 33 | Drift: 0 ms
+[Arithmetic] 6 * 62 = 372
+[EXEC] ID: 270 | Drift: 0 ms
+[Arithmetic] 92 + 64 = 156
+[EXEC] ID: 1641 | Drift: 0 ms
+[Arithmetic] 16 + 87 = 103
+[EXEC] ID: 1450 | Drift: 0 ms
+[Arithmetic] 64 - 81 = -17
+[EXEC] ID: 76 | Drift: 0 ms
+[Arithmetic] 53 * 24 = 1272
+[EXEC] ID: 1587 | Drift: 0 ms
+[Arithmetic] 9 * 31 = 279
+[EXEC] ID: 228 | Drift: 0 ms
+[Arithmetic] 66 * 28 = 1848
+[EXEC] ID: 976 | Drift: 0 ms
+[Arithmetic] 10 + 59 = 69
+[EXEC] ID: 471 | Drift: 0 ms
+[Arithmetic] 23 - 75 = -52
+[EXEC] ID: 164 | Drift: 0 ms
+[Arithmetic] 91 + 7 = 98
+[EXEC] ID: 1747 | Drift: 0 ms
+[Arithmetic] 76 + 34 = 110
+[EXEC] ID: 812 | Drift: 0 ms
+[Arithmetic] 57 / 56 = 1
+[EXEC] ID: 619 | Drift: 0 ms
+[Arithmetic] 38 - 26 = 12
+[EXEC] ID: 678 | Drift: 0 ms
+[Arithmetic] 98 + 57 = 155
+[EXEC] ID: 1978 | Drift: 0 ms
+[Arithmetic] 70 / 54 = 1
+[EXEC] ID: 182 | Drift: 0 ms
+[Arithmetic] 99 / 71 = 1
+[EXEC] ID: 1523 | Drift: 0 ms
+[Arithmetic] 22 - 81 = -59
+[EXEC] ID: 778 | Drift: 0 ms
+[Arithmetic] 0 / 34 = 0
+[EXEC] ID: 1834 | Drift: 0 ms
+[Arithmetic] 47 + 3 = 50
+[EXEC] ID: 1070 | Drift: 0 ms
+[Arithmetic] 38 / 96 = 0
+[EXEC] ID: 291 | Drift: 0 ms
+[Arithmetic] 72 + 48 = 120
+[EXEC] ID: 311 | Drift: 0 ms
+[Arithmetic] 51 - 92 = -41
+[EXEC] ID: 1296 | Drift: 0 ms
+[Arithmetic] 89 * 48 = 4272
+[EXEC] ID: 235 | Drift: 0 ms
+[Arithmetic] 19 / 28 = 0
+[EXEC] ID: 1396 | Drift: 0 ms
+[Arithmetic] 38 / 92 = 0
+[EXEC] ID: 435 | Drift: 0 ms
+[Arithmetic] 86 / 30 = 2
+[EXEC] ID: 611 | Drift: 0 ms
+[Arithmetic] 36 * 37 = 1332
+[EXEC] ID: 1053 | Drift: 0 ms
+[Arithmetic] 38 / 21 = 1
+[EXEC] ID: 813 | Drift: 0 ms
+[Arithmetic] 6 + 52 = 58
+[EXEC] ID: 349 | Drift: 0 ms
+[Arithmetic] 1 + 30 = 31
+[EXEC] ID: 1191 | Drift: 0 ms
+[Arithmetic] 10 * 97 = 970
+[EXEC] ID: 718 | Drift: 0 ms
+[Arithmetic] 88 / 46 = 1
+[EXEC] ID: 1925 | Drift: 0 ms
+[Arithmetic] 49 / 0 = 0
+[EXEC] ID: 1937 | Drift: 0 ms
+[Arithmetic] 44 + 30 = 74
+[EXEC] ID: 906 | Drift: 0 ms
+[Arithmetic] 63 / 96 = 0
+[EXEC] ID: 943 | Drift: 0 ms
+[Arithmetic] 83 - 35 = 48
+[EXEC] ID: 1249 | Drift: 0 ms
+[Arithmetic] 69 - 59 = 10
+[EXEC] ID: 1684 | Drift: 0 ms
+[Arithmetic] 78 - 61 = 17
+[EXEC] ID: 264 | Drift: 0 ms
+[Arithmetic] 48 + 54 = 102
+[EXEC] ID: 1140 | Drift: 0 ms
+[Arithmetic] 34 / 26 = 1
+[EXEC] ID: 263 | Drift: 0 ms
+[Arithmetic] 78 - 59 = 19
+[EXEC] ID: 213 | Drift: 0 ms
+[Arithmetic] 13 * 42 = 546
+[EXEC] ID: 488 | Drift: 0 ms
+[Arithmetic] 7 * 19 = 133
+[EXEC] ID: 1314 | Drift: 0 ms
+[Arithmetic] 68 / 46 = 1
+[EXEC] ID: 792 | Drift: 0 ms
+[Arithmetic] 68 / 91 = 0
+[EXEC] ID: 1020 | Drift: 0 ms
+[Arithmetic] 78 - 3 = 75
+[EXEC] ID: 1030 | Drift: 0 ms
+[Arithmetic] 65 / 32 = 2
+[EXEC] ID: 1171 | Drift: 0 ms
+[Arithmetic] 33 - 4 = 29
+[EXEC] ID: 1499 | Drift: 0 ms
+[Arithmetic] 58 - 26 = 32
+[EXEC] ID: 27 | Drift: 0 ms
+[Arithmetic] 37 - 58 = -21
+[EXEC] ID: 1180 | Drift: 0 ms
+[Arithmetic] 74 * 26 = 1924
+[EXEC] ID: 1035 | Drift: 0 ms
+[Arithmetic] 5 / 36 = 0
+[EXEC] ID: 649 | Drift: 0 ms
+[Arithmetic] 20 - 16 = 4
+[EXEC] ID: 690 | Drift: 0 ms
+[Arithmetic] 75 + 77 = 152
+[EXEC] ID: 43 | Drift: 0 ms
+[Arithmetic] 66 * 34 = 2244
+[EXEC] ID: 325 | Drift: 0 ms
+[Arithmetic] 19 - 23 = -4
+[EXEC] ID: 51 | Drift: 0 ms
+[Arithmetic] 44 * 95 = 4180
+[EXEC] ID: 22 | Drift: 0 ms
+[Arithmetic] 17 - 95 = -78
+[EXEC] ID: 1496 | Drift: 0 ms
+[Arithmetic] 34 + 30 = 64
+[EXEC] ID: 1974 | Drift: 0 ms
+[Arithmetic] 41 - 40 = 1
+[EXEC] ID: 1578 | Drift: 0 ms
+[Arithmetic] 81 * 32 = 2592
+[EXEC] ID: 1828 | Drift: 0 ms
+[Arithmetic] 22 - 53 = -31
+[EXEC] ID: 1906 | Drift: 0 ms
+[Arithmetic] 77 * 71 = 5467
+[EXEC] ID: 17 | Drift: 0 ms
+[Arithmetic] 1 - 53 = -52
+[EXEC] ID: 1085 | Drift: 0 ms
+[Arithmetic] 9 * 5 = 45
+[EXEC] ID: 1868 | Drift: 0 ms
+[Arithmetic] 43 - 32 = 11
+[EXEC] ID: 1034 | Drift: 0 ms
+[Arithmetic] 57 + 92 = 149
+[EXEC] ID: 1251 | Drift: 0 ms
+[Arithmetic] 58 - 66 = -8
+[EXEC] ID: 320 | Drift: 0 ms
+[Arithmetic] 18 / 91 = 0
+[EXEC] ID: 1354 | Drift: 0 ms
+[Arithmetic] 81 / 53 = 1
+[EXEC] ID: 460 | Drift: 0 ms
+[Arithmetic] 18 - 1 = 17
+[EXEC] ID: 929 | Drift: 0 ms
+[Arithmetic] 98 * 43 = 4214
+[EXEC] ID: 482 | Drift: 0 ms
+[Arithmetic] 33 + 81 = 114
+[EXEC] ID: 731 | Drift: 0 ms
+[Arithmetic] 25 + 38 = 63
+[EXEC] ID: 1963 | Drift: 0 ms
+[Arithmetic] 17 + 0 = 17
+[EXEC] ID: 217 | Drift: 0 ms
+[Arithmetic] 52 + 61 = 113
+[EXEC] ID: 519 | Drift: 0 ms
+[Arithmetic] 99 + 19 = 118
+[EXEC] ID: 30 | Drift: 0 ms
+[Arithmetic] 42 + 99 = 141
+[EXEC] ID: 1441 | Drift: 0 ms
+[Arithmetic] 73 / 95 = 0
+[EXEC] ID: 1481 | Drift: 0 ms
+[Arithmetic] 60 + 96 = 156
+[EXEC] ID: 1093 | Drift: 0 ms
+[Arithmetic] 32 / 12 = 2
+[EXEC] ID: 1217 | Drift: 0 ms
+[Arithmetic] 63 - 42 = 21
+[EXEC] ID: 642 | Drift: 0 ms
+[Arithmetic] 85 * 42 = 3570
+[EXEC] ID: 1677 | Drift: 0 ms
+[Arithmetic] 45 - 34 = 11
+[EXEC] ID: 1962 | Drift: 0 ms
+[Arithmetic] 82 + 43 = 125
+[EXEC] ID: 442 | Drift: 0 ms
+[Arithmetic] 29 * 26 = 754
+[EXEC] ID: 1356 | Drift: 0 ms
+[Arithmetic] 86 / 26 = 3
+[EXEC] ID: 1558 | Drift: 0 ms
+[Arithmetic] 80 / 91 = 0
+[EXEC] ID: 1321 | Drift: 0 ms
+[Arithmetic] 81 - 91 = -10
+[EXEC] ID: 1691 | Drift: 0 ms
+[Arithmetic] 99 - 12 = 87
+[EXEC] ID: 991 | Drift: 0 ms
+[Arithmetic] 12 * 68 = 816
+[EXEC] ID: 1246 | Drift: 0 ms
+[Arithmetic] 52 + 80 = 132
+[EXEC] ID: 1495 | Drift: 0 ms
+[Arithmetic] 33 * 71 = 2343
+[EXEC] ID: 304 | Drift: 0 ms
+[Arithmetic] 12 * 79 = 948
+[EXEC] ID: 1708 | Drift: 0 ms
+[Arithmetic] 69 - 94 = -25
+[EXEC] ID: 1912 | Drift: 0 ms
+[Arithmetic] 61 / 0 = 0
+[EXEC] ID: 179 | Drift: 0 ms
+[Arithmetic] 86 * 19 = 1634
+[EXEC] ID: 798 | Drift: 0 ms
+[Arithmetic] 27 / 41 = 0
+[EXEC] ID: 1795 | Drift: 0 ms
+[Arithmetic] 85 * 21 = 1785
+[EXEC] ID: 513 | Drift: 0 ms
+[Arithmetic] 92 * 0 = 0
+[EXEC] ID: 711 | Drift: 0 ms
+[Arithmetic] 56 * 68 = 3808
+[EXEC] ID: 1755 | Drift: 0 ms
+[Arithmetic] 56 + 70 = 126
+[EXEC] ID: 299 | Drift: 0 ms
+[Arithmetic] 97 + 77 = 174
+[EXEC] ID: 1282 | Drift: 0 ms
+[Arithmetic] 7 - 9 = -2
+[EXEC] ID: 1352 | Drift: 0 ms
+[Arithmetic] 40 / 17 = 2
+[EXEC] ID: 1474 | Drift: 0 ms
+[Arithmetic] 32 / 10 = 3
+[EXEC] ID: 1202 | Drift: 0 ms
+[Arithmetic] 93 + 68 = 161
+[EXEC] ID: 749 | Drift: 0 ms
+[Arithmetic] 2 * 64 = 128
+[EXEC] ID: 751 | Drift: 0 ms
+[Arithmetic] 5 * 87 = 435
+[EXEC] ID: 1064 | Drift: 0 ms
+[Arithmetic] 37 - 4 = 33
+[EXEC] ID: 1283 | Drift: 0 ms
+[Arithmetic] 96 - 37 = 59
+[EXEC] ID: 1752 | Drift: 0 ms
+[Arithmetic] 45 / 9 = 5
+[EXEC] ID: 89 | Drift: 0 ms
+[Arithmetic] 93 * 60 = 5580
+[EXEC] ID: 1631 | Drift: 0 ms
+[Arithmetic] 87 / 44 = 1
+[EXEC] ID: 319 | Drift: 0 ms
+[Arithmetic] 19 - 64 = -45
+[EXEC] ID: 1540 | Drift: 0 ms
+[Arithmetic] 23 * 53 = 1219
+[EXEC] ID: 1649 | Drift: 0 ms
+[Arithmetic] 9 / 93 = 0
+[EXEC] ID: 817 | Drift: 0 ms
+[Arithmetic] 58 / 3 = 19
+[EXEC] ID: 1815 | Drift: 0 ms
+[Arithmetic] 52 * 35 = 1820
+[EXEC] ID: 629 | Drift: 0 ms
+[Arithmetic] 15 - 27 = -12
+[EXEC] ID: 348 | Drift: 0 ms
+[Arithmetic] 6 * 83 = 498
+[EXEC] ID: 1237 | Drift: 0 ms
+[Arithmetic] 14 + 74 = 88
+[EXEC] ID: 1580 | Drift: 0 ms
+[Arithmetic] 40 * 11 = 440
+[EXEC] ID: 437 | Drift: 0 ms
+[Arithmetic] 25 / 73 = 0
+[EXEC] ID: 1478 | Drift: 0 ms
+[Arithmetic] 19 + 74 = 93
+[EXEC] ID: 793 | Drift: 0 ms
+[Arithmetic] 69 + 1 = 70
+[EXEC] ID: 218 | Drift: 0 ms
+[Arithmetic] 80 - 78 = 2
+[EXEC] ID: 473 | Drift: 0 ms
+[Arithmetic] 39 / 39 = 1
+[EXEC] ID: 1094 | Drift: 0 ms
+[Arithmetic] 12 * 57 = 684
+[EXEC] ID: 898 | Drift: 0 ms
+[Arithmetic] 94 / 66 = 1
+[EXEC] ID: 174 | Drift: 0 ms
+[Arithmetic] 21 - 12 = 9
+[EXEC] ID: 674 | Drift: 0 ms
+[Arithmetic] 49 + 93 = 142
+[EXEC] ID: 723 | Drift: 0 ms
+[Arithmetic] 5 * 29 = 145
+[EXEC] ID: 1905 | Drift: 0 ms
+[Arithmetic] 1 / 54 = 0
+[EXEC] ID: 1772 | Drift: 0 ms
+[Arithmetic] 18 + 16 = 34
+[EXEC] ID: 1260 | Drift: 0 ms
+[Arithmetic] 76 + 54 = 130
+[EXEC] ID: 698 | Drift: 0 ms
+[Arithmetic] 34 - 47 = -13
+[EXEC] ID: 302 | Drift: 0 ms
+[Arithmetic] 50 / 27 = 1
+[EXEC] ID: 1337 | Drift: 0 ms
+[Arithmetic] 52 * 72 = 3744
+[EXEC] ID: 458 | Drift: 0 ms
+[Arithmetic] 20 - 94 = -74
+[EXEC] ID: 232 | Drift: 0 ms
+[Arithmetic] 56 * 51 = 2856
+[EXEC] ID: 844 | Drift: 0 ms
+[Arithmetic] 88 - 41 = 47
+[EXEC] ID: 185 | Drift: 0 ms
+[Arithmetic] 76 / 89 = 0
+[EXEC] ID: 847 | Drift: 0 ms
+[Arithmetic] 1 - 83 = -82
+[EXEC] ID: 1738 | Drift: 0 ms
+[Arithmetic] 38 / 60 = 0
+[EXEC] ID: 1585 | Drift: 0 ms
+[Arithmetic] 34 + 54 = 88
+[EXEC] ID: 1291 | Drift: 0 ms
+[Arithmetic] 5 - 4 = 1
+[EXEC] ID: 1457 | Drift: 0 ms
+[Arithmetic] 86 * 84 = 7224
+[EXEC] ID: 428 | Drift: 0 ms
+[Arithmetic] 44 * 50 = 2200
+[EXEC] ID: 866 | Drift: 0 ms
+[Arithmetic] 68 * 64 = 4352
+[EXEC] ID: 492 | Drift: 0 ms
+[Arithmetic] 68 + 27 = 95
+[EXEC] ID: 617 | Drift: 0 ms
+[Arithmetic] 80 * 32 = 2560
+[EXEC] ID: 1322 | Drift: 0 ms
+[Arithmetic] 8 + 58 = 66
+[EXEC] ID: 1099 | Drift: 0 ms
+[Arithmetic] 23 - 76 = -53
+[EXEC] ID: 1379 | Drift: 0 ms
+[Arithmetic] 43 - 65 = -22
+[EXEC] ID: 1381 | Drift: 0 ms
+[Arithmetic] 27 - 98 = -71
+[EXEC] ID: 400 | Drift: 0 ms
+[Arithmetic] 16 - 84 = -68
+[EXEC] ID: 382 | Drift: 0 ms
+[Arithmetic] 35 + 55 = 90
+[EXEC] ID: 1103 | Drift: 0 ms
+[Arithmetic] 4 - 75 = -71
+[EXEC] ID: 558 | Drift: 0 ms
+[Arithmetic] 83 * 45 = 3735
+[EXEC] ID: 1508 | Drift: 0 ms
+[Arithmetic] 58 / 44 = 1
+[EXEC] ID: 406 | Drift: 0 ms
+[Arithmetic] 90 * 3 = 270
+[EXEC] ID: 1081 | Drift: 0 ms
+[Arithmetic] 86 + 91 = 177
+[EXEC] ID: 862 | Drift: 0 ms
+[Arithmetic] 75 * 37 = 2775
+[EXEC] ID: 165 | Drift: 0 ms
+[Arithmetic] 21 * 54 = 1134
+[EXEC] ID: 128 | Drift: 0 ms
+[Arithmetic] 20 * 40 = 800
+[EXEC] ID: 303 | Drift: 0 ms
+[Arithmetic] 9 + 44 = 53
+[EXEC] ID: 1832 | Drift: 0 ms
+[Arithmetic] 98 / 24 = 4
+[EXEC] ID: 418 | Drift: 0 ms
+[Arithmetic] 20 / 97 = 0
+[EXEC] ID: 1789 | Drift: 0 ms
+[Arithmetic] 99 - 91 = 8
+[EXEC] ID: 972 | Drift: 0 ms
+[Arithmetic] 44 + 17 = 61
+[EXEC] ID: 1250 | Drift: 0 ms
+[Arithmetic] 14 / 19 = 0
+[EXEC] ID: 1497 | Drift: 0 ms
+[Arithmetic] 48 / 39 = 1
+[EXEC] ID: 1812 | Drift: 0 ms
+[Arithmetic] 33 - 36 = -3
+[EXEC] ID: 719 | Drift: 0 ms
+[Arithmetic] 88 * 11 = 968
+[EXEC] ID: 1506 | Drift: 0 ms
+[Arithmetic] 18 * 29 = 522
+[EXEC] ID: 234 | Drift: 0 ms
+[Arithmetic] 52 * 8 = 416
+[EXEC] ID: 1731 | Drift: 0 ms
+[Arithmetic] 20 / 37 = 0
+[EXEC] ID: 1780 | Drift: 0 ms
+[Arithmetic] 38 / 46 = 0
+[EXEC] ID: 666 | Drift: 0 ms
+[Arithmetic] 79 + 71 = 150
+[EXEC] ID: 378 | Drift: 0 ms
+[Arithmetic] 2 + 33 = 35
+[EXEC] ID: 94 | Drift: 0 ms
+[Arithmetic] 48 * 85 = 4080
+[EXEC] ID: 909 | Drift: 0 ms
+[Arithmetic] 97 + 65 = 162
+[EXEC] ID: 508 | Drift: 0 ms
+[Arithmetic] 51 - 10 = 41
+[EXEC] ID: 1878 | Drift: 0 ms
+[Arithmetic] 34 - 48 = -14
+[EXEC] ID: 1432 | Drift: 0 ms
+[Arithmetic] 61 * 26 = 1586
+[EXEC] ID: 940 | Drift: 0 ms
+[Arithmetic] 11 * 33 = 363
+[EXEC] ID: 1543 | Drift: 0 ms
+[Arithmetic] 63 + 20 = 83
+[EXEC] ID: 223 | Drift: 0 ms
+[Arithmetic] 51 / 26 = 1
+[EXEC] ID: 1240 | Drift: 0 ms
+[Arithmetic] 29 / 33 = 0
+[EXEC] ID: 408 | Drift: 0 ms
+[Arithmetic] 17 + 31 = 48
+[EXEC] ID: 1458 | Drift: 0 ms
+[Arithmetic] 68 - 2 = 66
+[EXEC] ID: 300 | Drift: 0 ms
+[Arithmetic] 91 * 31 = 2821
+[EXEC] ID: 1412 | Drift: 0 ms
+[Arithmetic] 7 - 23 = -16
+[EXEC] ID: 249 | Drift: 0 ms
+[Arithmetic] 90 + 11 = 101
+[EXEC] ID: 1287 | Drift: 0 ms
+[Arithmetic] 63 * 39 = 2457
+[EXEC] ID: 730 | Drift: 0 ms
+[Arithmetic] 11 + 43 = 54
+[EXEC] ID: 1114 | Drift: 0 ms
+[Arithmetic] 72 * 1 = 72
+[EXEC] ID: 1960 | Drift: 0 ms
+[Arithmetic] 92 / 40 = 2
+[EXEC] ID: 1490 | Drift: 0 ms
+[Arithmetic] 64 / 20 = 3
+[EXEC] ID: 932 | Drift: 0 ms
+[Arithmetic] 93 - 77 = 16
+[EXEC] ID: 274 | Drift: 0 ms
+[Arithmetic] 22 * 81 = 1782
+[EXEC] ID: 1135 | Drift: 0 ms
+[Arithmetic] 39 - 95 = -56
+[EXEC] ID: 1199 | Drift: 0 ms
+[Arithmetic] 46 + 36 = 82
+[EXEC] ID: 705 | Drift: 0 ms
+[Arithmetic] 10 - 11 = -1
+[EXEC] ID: 752 | Drift: 0 ms
+[Arithmetic] 65 / 99 = 0
+[EXEC] ID: 462 | Drift: 0 ms
+[Arithmetic] 94 * 68 = 6392
+[EXEC] ID: 1136 | Drift: 0 ms
+[Arithmetic] 98 / 94 = 1
+[EXEC] ID: 1310 | Drift: 0 ms
+[Arithmetic] 37 / 84 = 0
+[EXEC] ID: 1045 | Drift: 0 ms
+[Arithmetic] 83 + 30 = 113
+[EXEC] ID: 697 | Drift: 0 ms
+[Arithmetic] 42 - 22 = 20
+[EXEC] ID: 1498 | Drift: 0 ms
+[Arithmetic] 9 - 83 = -74
+[EXEC] ID: 1770 | Drift: 0 ms
+[Arithmetic] 41 + 38 = 79
+[EXEC] ID: 1572 | Drift: 0 ms
+[Arithmetic] 78 + 43 = 121
+[EXEC] ID: 1746 | Drift: 0 ms
+[Arithmetic] 31 - 49 = -18
+[EXEC] ID: 551 | Drift: 0 ms
+[Arithmetic] 96 + 55 = 151
+[EXEC] ID: 621 | Drift: 0 ms
+[Arithmetic] 41 - 59 = -18
+[EXEC] ID: 1525 | Drift: 0 ms
+[Arithmetic] 90 / 13 = 6
+[EXEC] ID: 1275 | Drift: 0 ms
+[Arithmetic] 89 + 66 = 155
+[EXEC] ID: 646 | Drift: 0 ms
+[Arithmetic] 69 / 60 = 1
+[EXEC] ID: 746 | Drift: 0 ms
+[Arithmetic] 41 * 42 = 1722
+[EXEC] ID: 696 | Drift: 0 ms
+[Arithmetic] 72 * 74 = 5328
+[EXEC] ID: 1553 | Drift: 0 ms
+[Arithmetic] 47 / 50 = 0
+[EXEC] ID: 1232 | Drift: 0 ms
+[Arithmetic] 96 - 6 = 90
+[EXEC] ID: 1290 | Drift: 0 ms
+[Arithmetic] 24 / 6 = 4
+[EXEC] ID: 1397 | Drift: 0 ms
+[Arithmetic] 26 * 34 = 884
+[EXEC] ID: 914 | Drift: 0 ms
+[Arithmetic] 79 / 69 = 1
+[EXEC] ID: 528 | Drift: 0 ms
+[Arithmetic] 48 + 45 = 93
+[EXEC] ID: 14 | Drift: 0 ms
+[Arithmetic] 8 + 44 = 52
+[EXEC] ID: 738 | Drift: 0 ms
+[Arithmetic] 41 / 21 = 1
+[EXEC] ID: 740 | Drift: 0 ms
+[Arithmetic] 7 * 54 = 378
+[EXEC] ID: 577 | Drift: 0 ms
+[Arithmetic] 57 - 22 = 35
+[EXEC] ID: 514 | Drift: 0 ms
+[Arithmetic] 65 + 44 = 109
+[EXEC] ID: 1044 | Drift: 0 ms
+[Arithmetic] 86 * 59 = 5074
+[EXEC] ID: 548 | Drift: 0 ms
+[Arithmetic] 36 - 13 = 23
+[EXEC] ID: 633 | Drift: 0 ms
+[Arithmetic] 16 / 4 = 4
+[EXEC] ID: 1698 | Drift: 0 ms
+[Arithmetic] 19 * 90 = 1710
+[EXEC] ID: 1137 | Drift: 0 ms
+[Arithmetic] 43 * 96 = 4128
+[EXEC] ID: 296 | Drift: 0 ms
+[Arithmetic] 31 / 57 = 0
+[EXEC] ID: 651 | Drift: 0 ms
+[Arithmetic] 0 * 41 = 0
+[EXEC] ID: 1712 | Drift: 0 ms
+[Arithmetic] 78 * 22 = 1716
+[EXEC] ID: 239 | Drift: 0 ms
+[Arithmetic] 79 - 56 = 23
+[EXEC] ID: 1008 | Drift: 0 ms
+[Arithmetic] 94 - 16 = 78
+[EXEC] ID: 1149 | Drift: 0 ms
+[Arithmetic] 65 - 92 = -27
+[EXEC] ID: 344 | Drift: 0 ms
+[Arithmetic] 17 * 36 = 612
+[EXEC] ID: 1856 | Drift: 0 ms
+[Arithmetic] 52 * 94 = 4888
+[EXEC] ID: 21 | Drift: 0 ms
+[Arithmetic] 15 - 94 = -79
+[EXEC] ID: 1347 | Drift: 0 ms
+[Arithmetic] 51 + 62 = 113
+[EXEC] ID: 4 | Drift: 0 ms
+[Arithmetic] 92 / 42 = 2
+[EXEC] ID: 1748 | Drift: 0 ms
+[Arithmetic] 89 * 52 = 4628
+[EXEC] ID: 1148 | Drift: 0 ms
+[Arithmetic] 49 + 28 = 77
+[EXEC] ID: 204 | Drift: 0 ms
+[Arithmetic] 35 + 15 = 50
+[EXEC] ID: 753 | Drift: 0 ms
+[Arithmetic] 90 * 43 = 3870
+[EXEC] ID: 827 | Drift: 0 ms
+[Arithmetic] 46 + 88 = 134
+[EXEC] ID: 156 | Drift: 0 ms
+[Arithmetic] 36 / 21 = 1
+[EXEC] ID: 342 | Drift: 0 ms
+[Arithmetic] 0 + 86 = 86
+[EXEC] ID: 368 | Drift: 0 ms
+[Arithmetic] 12 * 51 = 612
+[EXEC] ID: 1685 | Drift: 0 ms
+[Arithmetic] 39 - 31 = 8
+[EXEC] ID: 1877 | Drift: 0 ms
+[Arithmetic] 78 + 41 = 119
+[EXEC] ID: 1231 | Drift: 0 ms
+[Arithmetic] 30 / 84 = 0
+[EXEC] ID: 1678 | Drift: 0 ms
+[Arithmetic] 87 - 67 = 20
+[EXEC] ID: 588 | Drift: 0 ms
+[Arithmetic] 99 - 47 = 52
+[EXEC] ID: 1609 | Drift: 0 ms
+[Arithmetic] 20 * 54 = 1080
+[EXEC] ID: 441 | Drift: 0 ms
+[Arithmetic] 8 - 97 = -89
+[EXEC] ID: 152 | Drift: 0 ms
+[Arithmetic] 29 / 64 = 0
+[EXEC] ID: 465 | Drift: 0 ms
+[Arithmetic] 54 - 25 = 29
+[EXEC] ID: 1944 | Drift: 0 ms
+[Arithmetic] 20 + 75 = 95
+[EXEC] ID: 1041 | Drift: 0 ms
+[Arithmetic] 0 - 19 = -19
+[EXEC] ID: 470 | Drift: 0 ms
+[Arithmetic] 34 * 74 = 2516
+[EXEC] ID: 1531 | Drift: 0 ms
+[Arithmetic] 40 - 98 = -58
+[EXEC] ID: 391 | Drift: 0 ms
+[Arithmetic] 88 / 43 = 2
+[EXEC] ID: 887 | Drift: 0 ms
+[Arithmetic] 74 * 33 = 2442
+[EXEC] ID: 61 | Drift: 0 ms
+[Arithmetic] 80 / 55 = 1
+[EXEC] ID: 571 | Drift: 0 ms
+[Arithmetic] 37 / 95 = 0
+[EXEC] ID: 1198 | Drift: 0 ms
+[Arithmetic] 21 + 37 = 58
+[EXEC] ID: 1539 | Drift: 0 ms
+[Arithmetic] 76 + 93 = 169
+[EXEC] ID: 386 | Drift: 0 ms
+[Arithmetic] 13 + 95 = 108
+[EXEC] ID: 1603 | Drift: 0 ms
+[Arithmetic] 34 / 45 = 0
+[EXEC] ID: 986 | Drift: 0 ms
+[Arithmetic] 98 - 56 = 42
+[EXEC] ID: 231 | Drift: 0 ms
+[Arithmetic] 78 * 0 = 0
+[EXEC] ID: 1305 | Drift: 0 ms
+[Arithmetic] 98 * 7 = 686
+[EXEC] ID: 1299 | Drift: 0 ms
+[Arithmetic] 4 * 50 = 200
+[EXEC] ID: 1785 | Drift: 0 ms
+[Arithmetic] 38 / 69 = 0
+[EXEC] ID: 453 | Drift: 0 ms
+[Arithmetic] 98 + 34 = 132
+[EXEC] ID: 131 | Drift: 0 ms
+[Arithmetic] 95 * 31 = 2945
+[EXEC] ID: 1244 | Drift: 0 ms
+[Arithmetic] 19 * 51 = 969
+[EXEC] ID: 1510 | Drift: 0 ms
+[Arithmetic] 8 / 83 = 0
+[EXEC] ID: 836 | Drift: 0 ms
+[Arithmetic] 35 + 27 = 62
+[EXEC] ID: 1166 | Drift: 0 ms
+[Arithmetic] 14 - 68 = -54
+[EXEC] ID: 826 | Drift: 0 ms
+[Arithmetic] 43 + 68 = 111
+[EXEC] ID: 747 | Drift: 0 ms
+[Arithmetic] 69 + 11 = 80
+[EXEC] ID: 1554 | Drift: 0 ms
+[Arithmetic] 22 / 37 = 0
+[EXEC] ID: 118 | Drift: 0 ms
+[Arithmetic] 14 - 25 = -11
+[EXEC] ID: 1043 | Drift: 0 ms
+[Arithmetic] 80 / 56 = 1
+[EXEC] ID: 774 | Drift: 0 ms
+[Arithmetic] 33 - 32 = 1
+[EXEC] ID: 1048 | Drift: 0 ms
+[Arithmetic] 24 - 53 = -29
+[EXEC] ID: 684 | Drift: 0 ms
+[Arithmetic] 19 * 93 = 1767
+[EXEC] ID: 275 | Drift: 0 ms
+[Arithmetic] 23 / 22 = 1
+[EXEC] ID: 201 | Drift: 0 ms
+[Arithmetic] 3 / 21 = 0
+[EXEC] ID: 918 | Drift: 0 ms
+[Arithmetic] 72 / 15 = 4
+[EXEC] ID: 1670 | Drift: 0 ms
+[Arithmetic] 53 * 99 = 5247
+[EXEC] ID: 1229 | Drift: 0 ms
+[Arithmetic] 86 - 57 = 29
+[EXEC] ID: 374 | Drift: 0 ms
+[Arithmetic] 19 / 66 = 0
+[EXEC] ID: 68 | Drift: 0 ms
+[Arithmetic] 37 - 45 = -8
+[EXEC] ID: 1168 | Drift: 0 ms
+[Arithmetic] 12 + 3 = 15
+[EXEC] ID: 934 | Drift: 0 ms
+[Arithmetic] 52 + 54 = 106
+[EXEC] ID: 1992 | Drift: 0 ms
+[Arithmetic] 59 / 69 = 0
+[EXEC] ID: 979 | Drift: 0 ms
+[Arithmetic] 20 - 8 = 12
+[EXEC] ID: 1566 | Drift: 0 ms
+[Arithmetic] 87 / 24 = 3
+[EXEC] ID: 1659 | Drift: 0 ms
+[Arithmetic] 42 / 66 = 0
+[EXEC] ID: 280 | Drift: 0 ms
+[Arithmetic] 51 / 72 = 0
+[EXEC] ID: 636 | Drift: 0 ms
+[Arithmetic] 72 - 15 = 57
+[EXEC] ID: 916 | Drift: 0 ms
+[Arithmetic] 27 + 1 = 28
+[EXEC] ID: 475 | Drift: 0 ms
+[Arithmetic] 12 * 95 = 1140
+[EXEC] ID: 1365 | Drift: 0 ms
+[Arithmetic] 43 - 71 = -28
+[EXEC] ID: 1468 | Drift: 0 ms
+[Arithmetic] 8 / 0 = 0
+[EXEC] ID: 1009 | Drift: 0 ms
+[Arithmetic] 12 - 76 = -64
+[EXEC] ID: 1256 | Drift: 0 ms
+[Arithmetic] 11 * 56 = 616
+[EXEC] ID: 32 | Drift: 0 ms
+[Arithmetic] 95 - 68 = 27
+[EXEC] ID: 309 | Drift: 0 ms
+[Arithmetic] 20 / 68 = 0
+[EXEC] ID: 415 | Drift: 0 ms
+[Arithmetic] 62 * 38 = 2356
+[EXEC] ID: 1037 | Drift: 0 ms
+[Arithmetic] 4 / 85 = 0
+[EXEC] ID: 1884 | Drift: 0 ms
+[Arithmetic] 99 * 62 = 6138
+[EXEC] ID: 1793 | Drift: 0 ms
+[Arithmetic] 19 - 89 = -70
+[EXEC] ID: 1818 | Drift: 0 ms
+[Arithmetic] 83 + 16 = 99
+[EXEC] ID: 1326 | Drift: 0 ms
+[Arithmetic] 20 - 96 = -76
+[EXEC] ID: 1328 | Drift: 0 ms
+[Arithmetic] 48 + 94 = 142
+[EXEC] ID: 49 | Drift: 0 ms
+[Arithmetic] 35 - 15 = 20
+[EXEC] ID: 1744 | Drift: 0 ms
+[Arithmetic] 16 / 57 = 0
+[EXEC] ID: 681 | Drift: 0 ms
+[Arithmetic] 47 - 81 = -34
+[EXEC] ID: 1410 | Drift: 0 ms
+[Arithmetic] 58 + 39 = 97
+[EXEC] ID: 1435 | Drift: 0 ms
+[Arithmetic] 31 * 93 = 2883
+[EXEC] ID: 1477 | Drift: 0 ms
+[Arithmetic] 56 + 58 = 114
+[EXEC] ID: 1627 | Drift: 0 ms
+[Arithmetic] 88 / 27 = 3
+[EXEC] ID: 1003 | Drift: 0 ms
+[Arithmetic] 0 + 36 = 36
+[EXEC] ID: 1050 | Drift: 0 ms
+[Arithmetic] 68 / 67 = 1
+[EXEC] ID: 597 | Drift: 0 ms
+[Arithmetic] 39 - 59 = -20
+[EXEC] ID: 332 | Drift: 0 ms
+[Arithmetic] 63 * 37 = 2331
+[EXEC] ID: 682 | Drift: 0 ms
+[Arithmetic] 68 + 15 = 83
+[EXEC] ID: 46 | Drift: 0 ms
+[Arithmetic] 85 + 17 = 102
+[EXEC] ID: 1313 | Drift: 0 ms
+[Arithmetic] 76 / 28 = 2
+[EXEC] ID: 1015 | Drift: 0 ms
+[Arithmetic] 75 - 24 = 51
+[EXEC] ID: 1560 | Drift: 0 ms
+[Arithmetic] 49 * 79 = 3871
+[EXEC] ID: 1126 | Drift: 0 ms
+[Arithmetic] 66 / 88 = 0
+[EXEC] ID: 1657 | Drift: 0 ms
+[Arithmetic] 95 + 17 = 112
+[EXEC] ID: 726 | Drift: 0 ms
+[Arithmetic] 52 * 88 = 4576
+[EXEC] ID: 1681 | Drift: 0 ms
+[Arithmetic] 61 / 25 = 2
+[EXEC] ID: 892 | Drift: 0 ms
+[Arithmetic] 8 + 13 = 21
+[EXEC] ID: 871 | Drift: 0 ms
+[Arithmetic] 21 / 51 = 0
+[EXEC] ID: 86 | Drift: 0 ms
+[Arithmetic] 80 / 30 = 2
+[EXEC] ID: 53 | Drift: 0 ms
+[Arithmetic] 69 - 97 = -28
+[EXEC] ID: 236 | Drift: 0 ms
+[Arithmetic] 63 + 47 = 110
+[EXEC] ID: 265 | Drift: 0 ms
+[Arithmetic] 70 / 28 = 2
+[EXEC] ID: 1881 | Drift: 0 ms
+[Arithmetic] 70 * 58 = 4060
+[EXEC] ID: 1901 | Drift: 0 ms
+[Arithmetic] 1 * 8 = 8
+[EXEC] ID: 1970 | Drift: 0 ms
+[Arithmetic] 4 / 88 = 0
+[EXEC] ID: 539 | Drift: 0 ms
+[Arithmetic] 87 + 79 = 166
+[EXEC] ID: 550 | Drift: 0 ms
+[Arithmetic] 8 - 7 = 1
+[EXEC] ID: 1935 | Drift: 0 ms
+[Arithmetic] 61 / 61 = 1
+[EXEC] ID: 1808 | Drift: 0 ms
+[Arithmetic] 45 + 9 = 54
+[EXEC] ID: 1786 | Drift: 0 ms
+[Arithmetic] 64 + 51 = 115
+[EXEC] ID: 1668 | Drift: 0 ms
+[Arithmetic] 7 + 48 = 55
+[EXEC] ID: 923 | Drift: 0 ms
+[Arithmetic] 99 / 93 = 1
+[EXEC] ID: 243 | Drift: 0 ms
+[Arithmetic] 39 / 84 = 0
+[EXEC] ID: 365 | Drift: 0 ms
+[Arithmetic] 16 * 59 = 944
+[EXEC] ID: 1451 | Drift: 0 ms
+[Arithmetic] 79 * 14 = 1106
+[EXEC] ID: 795 | Drift: 0 ms
+[Arithmetic] 0 / 12 = 0
+[EXEC] ID: 1167 | Drift: 0 ms
+[Arithmetic] 78 / 13 = 6
+[EXEC] ID: 466 | Drift: 0 ms
+[Arithmetic] 92 * 34 = 3128
+[EXEC] ID: 886 | Drift: 0 ms
+[Arithmetic] 29 / 7 = 4
+[EXEC] ID: 237 | Drift: 0 ms
+[Arithmetic] 54 - 8 = 46
+[EXEC] ID: 307 | Drift: 0 ms
+[Arithmetic] 53 + 29 = 82
+[EXEC] ID: 1529 | Drift: 0 ms
+[Arithmetic] 40 - 36 = 4
+[EXEC] ID: 1749 | Drift: 0 ms
+[Arithmetic] 43 / 43 = 1
+[EXEC] ID: 173 | Drift: 0 ms
+[Arithmetic] 55 * 30 = 1650
+[EXEC] ID: 1569 | Drift: 0 ms
+[Arithmetic] 68 + 23 = 91
+[EXEC] ID: 333 | Drift: 0 ms
+[Arithmetic] 83 + 75 = 158
+[EXEC] ID: 24 | Drift: 0 ms
+[Arithmetic] 5 + 82 = 87
+[EXEC] ID: 221 | Drift: 0 ms
+[Arithmetic] 90 / 55 = 1
+[EXEC] ID: 529 | Drift: 0 ms
+[Arithmetic] 31 / 0 = 0
+[EXEC] ID: 1273 | Drift: 0 ms
+[Arithmetic] 67 * 16 = 1072
+[EXEC] ID: 767 | Drift: 0 ms
+[Arithmetic] 1 * 0 = 0
+[EXEC] ID: 58 | Drift: 0 ms
+[Arithmetic] 56 + 1 = 57
+[EXEC] ID: 989 | Drift: 0 ms
+[Arithmetic] 46 / 3 = 15
+[EXEC] ID: 593 | Drift: 0 ms
+[Arithmetic] 16 - 9 = 7
+[EXEC] ID: 1757 | Drift: 0 ms
+[Arithmetic] 70 - 17 = 53
+[EXEC] ID: 1065 | Drift: 0 ms
+[Arithmetic] 49 / 60 = 0
+[EXEC] ID: 253 | Drift: 0 ms
+[Arithmetic] 94 + 30 = 124
+[EXEC] ID: 129 | Drift: 0 ms
+[Arithmetic] 27 / 50 = 0
+[EXEC] ID: 1062 | Drift: 0 ms
+[Arithmetic] 60 * 81 = 4860
+[EXEC] ID: 1175 | Drift: 0 ms
+[Arithmetic] 96 / 78 = 1
+[EXEC] ID: 620 | Drift: 0 ms
+[Arithmetic] 25 / 7 = 3
+[EXEC] ID: 717 | Drift: 0 ms
+[Arithmetic] 3 - 98 = -95
+[EXEC] ID: 997 | Drift: 0 ms
+[Arithmetic] 42 / 6 = 7
+[EXEC] ID: 396 | Drift: 0 ms
+[Arithmetic] 42 * 45 = 1890
+[EXEC] ID: 114 | Drift: 0 ms
+[Arithmetic] 10 - 93 = -83
+[EXEC] ID: 293 | Drift: 0 ms
+[Arithmetic] 0 + 43 = 43
+[EXEC] ID: 868 | Drift: 0 ms
+[Arithmetic] 40 + 23 = 63
+[EXEC] ID: 1790 | Drift: 0 ms
+[Arithmetic] 64 * 71 = 4544
+[EXEC] ID: 931 | Drift: 0 ms
+[Arithmetic] 83 * 94 = 7802
+[EXEC] ID: 552 | Drift: 0 ms
+[Arithmetic] 8 - 33 = -25
+[EXEC] ID: 1169 | Drift: 0 ms
+[Arithmetic] 89 - 86 = 3
+[EXEC] ID: 1088 | Drift: 0 ms
+[Arithmetic] 91 - 58 = 33
+[EXEC] ID: 876 | Drift: 0 ms
+[Arithmetic] 16 + 70 = 86
+[EXEC] ID: 1740 | Drift: 0 ms
+[Arithmetic] 8 + 9 = 17
+[EXEC] ID: 770 | Drift: 0 ms
+[Arithmetic] 74 - 21 = 53
+[EXEC] ID: 1258 | Drift: 0 ms
+[Arithmetic] 69 / 67 = 1
+[EXEC] ID: 313 | Drift: 0 ms
+[Arithmetic] 26 + 13 = 39
+[EXEC] ID: 1327 | Drift: 0 ms
+[Arithmetic] 89 / 29 = 3
+[EXEC] ID: 1483 | Drift: 0 ms
+[Arithmetic] 73 / 43 = 1
+[EXEC] ID: 100 | Drift: 0 ms
+[Arithmetic] 80 + 79 = 159
+[EXEC] ID: 592 | Drift: 0 ms
+[Arithmetic] 58 - 7 = 51
+[EXEC] ID: 1278 | Drift: 0 ms
+[Arithmetic] 9 * 93 = 837
+[EXEC] ID: 1547 | Drift: 0 ms
+[Arithmetic] 43 * 60 = 2580
+[EXEC] ID: 1112 | Drift: 0 ms
+[Arithmetic] 4 + 40 = 44
+[EXEC] ID: 1439 | Drift: 0 ms
+[Arithmetic] 16 - 90 = -74
+[EXEC] ID: 1640 | Drift: 0 ms
+[Arithmetic] 96 + 2 = 98
+[EXEC] ID: 1128 | Drift: 0 ms
+[Arithmetic] 90 - 90 = 0
+[EXEC] ID: 214 | Drift: 0 ms
+[Arithmetic] 44 - 28 = 16
+[EXEC] ID: 500 | Drift: 0 ms
+[Arithmetic] 23 * 17 = 391
+[EXEC] ID: 1520 | Drift: 0 ms
+[Arithmetic] 7 * 83 = 581
+[EXEC] ID: 1648 | Drift: 0 ms
+[Arithmetic] 46 * 72 = 3312
+[EXEC] ID: 151 | Drift: 0 ms
+[Arithmetic] 47 - 15 = 32
+[EXEC] ID: 1434 | Drift: 0 ms
+[Arithmetic] 77 + 14 = 91
+[EXEC] ID: 1891 | Drift: 0 ms
+[Arithmetic] 22 + 80 = 102
+[EXEC] ID: 1581 | Drift: 0 ms
+[Arithmetic] 9 / 84 = 0
+[EXEC] ID: 1226 | Drift: 0 ms
+[Arithmetic] 58 * 84 = 4872
+[EXEC] ID: 589 | Drift: 0 ms
+[Arithmetic] 5 + 20 = 25
+[EXEC] ID: 712 | Drift: 0 ms
+[Arithmetic] 22 / 37 = 0
+[EXEC] ID: 1596 | Drift: 0 ms
+[Arithmetic] 70 * 62 = 4340
+[EXEC] ID: 433 | Drift: 0 ms
+[Arithmetic] 57 - 32 = 25
+[EXEC] ID: 1742 | Drift: 0 ms
+[Arithmetic] 86 * 71 = 6106
+[EXEC] ID: 1351 | Drift: 0 ms
+[Arithmetic] 10 / 5 = 2
+[EXEC] ID: 233 | Drift: 0 ms
+[Arithmetic] 44 + 39 = 83
+[EXEC] ID: 476 | Drift: 0 ms
+[Arithmetic] 21 / 84 = 0
+[EXEC] ID: 1782 | Drift: 0 ms
+[Arithmetic] 41 + 36 = 77
+[EXEC] ID: 1971 | Drift: 0 ms
+[Arithmetic] 94 * 56 = 5264
+[EXEC] ID: 44 | Drift: 0 ms
+[Arithmetic] 63 + 38 = 101
+[EXEC] ID: 1982 | Drift: 0 ms
+[Arithmetic] 87 + 38 = 125
+[EXEC] ID: 1788 | Drift: 0 ms
+[Arithmetic] 71 * 49 = 3479
+[EXEC] ID: 1593 | Drift: 0 ms
+[Arithmetic] 19 * 51 = 969
+[EXEC] ID: 407 | Drift: 0 ms
+[Arithmetic] 27 * 85 = 2295
+[EXEC] ID: 544 | Drift: 0 ms
+[Arithmetic] 31 / 57 = 0
+[EXEC] ID: 81 | Drift: 0 ms
+[Arithmetic] 19 - 37 = -18
+[EXEC] ID: 1343 | Drift: 0 ms
+[Arithmetic] 98 + 85 = 183
+[EXEC] ID: 244 | Drift: 0 ms
+[Arithmetic] 66 * 67 = 4422
+[EXEC] ID: 123 | Drift: 0 ms
+[Arithmetic] 4 * 60 = 240
+[EXEC] ID: 532 | Drift: 0 ms
+[Arithmetic] 1 * 56 = 56
+[EXEC] ID: 1225 | Drift: 0 ms
+[Arithmetic] 95 / 66 = 1
+[EXEC] ID: 256 | Drift: 0 ms
+[Arithmetic] 21 * 56 = 1176
+[EXEC] ID: 338 | Drift: 0 ms
+[Arithmetic] 52 - 41 = 11
+[EXEC] ID: 546 | Drift: 0 ms
+[Arithmetic] 16 - 47 = -31
+[EXEC] ID: 69 | Drift: 0 ms
+[Arithmetic] 0 + 56 = 56
+[EXEC] ID: 467 | Drift: 0 ms
+[Arithmetic] 87 - 21 = 66
+[EXEC] ID: 1991 | Drift: 0 ms
+[Arithmetic] 99 + 22 = 121
+[EXEC] ID: 994 | Drift: 0 ms
+[Arithmetic] 16 - 9 = 7
+[EXEC] ID: 561 | Drift: 0 ms
+[Arithmetic] 74 * 87 = 6438
+[EXEC] ID: 1841 | Drift: 0 ms
+[Arithmetic] 90 * 85 = 7650
+[EXEC] ID: 944 | Drift: 0 ms
+[Arithmetic] 70 / 69 = 1
+[EXEC] ID: 998 | Drift: 0 ms
+[Arithmetic] 7 / 84 = 0
+[EXEC] ID: 132 | Drift: 0 ms
+[Arithmetic] 6 + 15 = 21
+[EXEC] ID: 1117 | Drift: 0 ms
+[Arithmetic] 78 * 87 = 6786
+[EXEC] ID: 867 | Drift: 0 ms
+[Arithmetic] 4 * 15 = 60
+[EXEC] ID: 877 | Drift: 0 ms
+[Arithmetic] 42 * 86 = 3612
+[EXEC] ID: 1882 | Drift: 0 ms
+[Arithmetic] 66 + 85 = 151
+[EXEC] ID: 878 | Drift: 0 ms
+[Arithmetic] 29 / 83 = 0
+[EXEC] ID: 1820 | Drift: 0 ms
+[Arithmetic] 81 - 19 = 62
+[EXEC] ID: 1485 | Drift: 0 ms
+[Arithmetic] 34 - 81 = -47
+[EXEC] ID: 5 | Drift: 0 ms
+[Arithmetic] 27 + 29 = 56
+[EXEC] ID: 763 | Drift: 0 ms
+[Arithmetic] 79 + 10 = 89
+[EXEC] ID: 1042 | Drift: 0 ms
+[Arithmetic] 9 / 85 = 0
+[EXEC] ID: 574 | Drift: 0 ms
+[Arithmetic] 77 * 6 = 462
+[EXEC] ID: 74 | Drift: 0 ms
+[Arithmetic] 53 / 83 = 0
+[EXEC] ID: 704 | Drift: 0 ms
+[Arithmetic] 37 * 32 = 1184
+[EXEC] ID: 1519 | Drift: 0 ms
+[Arithmetic] 13 - 12 = 1
+[EXEC] ID: 1855 | Drift: 0 ms
+[Arithmetic] 29 + 75 = 104
+[EXEC] ID: 541 | Drift: 0 ms
+[Arithmetic] 88 - 74 = 14
+[EXEC] ID: 1459 | Drift: 0 ms
+[Arithmetic] 24 / 76 = 0
+[EXEC] ID: 1836 | Drift: 0 ms
+[Arithmetic] 66 * 92 = 6072
+[EXEC] ID: 422 | Drift: 0 ms
+[Arithmetic] 81 - 65 = 16
+[EXEC] ID: 708 | Drift: 0 ms
+[Arithmetic] 39 / 14 = 2
+[EXEC] ID: 917 | Drift: 0 ms
+[Arithmetic] 85 * 93 = 7905
+[EXEC] ID: 790 | Drift: 0 ms
+[Arithmetic] 35 * 30 = 1050
+[EXEC] ID: 560 | Drift: 0 ms
+[Arithmetic] 50 / 18 = 2
+[EXEC] ID: 1775 | Drift: 0 ms
+[Arithmetic] 5 / 71 = 0
+[EXEC] ID: 1089 | Drift: 0 ms
+[Arithmetic] 83 - 18 = 65
+[EXEC] ID: 1516 | Drift: 0 ms
+[Arithmetic] 81 - 40 = 41
+[EXEC] ID: 547 | Drift: 0 ms
+[Arithmetic] 57 - 60 = -3
+[EXEC] ID: 1674 | Drift: 0 ms
+[Arithmetic] 4 - 89 = -85
+[EXEC] ID: 269 | Drift: 0 ms
+[Arithmetic] 69 * 70 = 4830
+[EXEC] ID: 387 | Drift: 0 ms
+[Arithmetic] 55 - 11 = 44
+[EXEC] ID: 372 | Drift: 0 ms
+[Arithmetic] 85 - 19 = 66
+[EXEC] ID: 80 | Drift: 0 ms
+[Arithmetic] 57 * 11 = 627
+[EXEC] ID: 1950 | Drift: 0 ms
+[Arithmetic] 54 / 26 = 2
+[EXEC] ID: 1366 | Drift: 0 ms
+[Arithmetic] 10 / 1 = 10
+[EXEC] ID: 992 | Drift: 0 ms
+[Arithmetic] 68 + 62 = 130
+[EXEC] ID: 1754 | Drift: 0 ms
+[Arithmetic] 27 - 71 = -44
+[EXEC] ID: 1989 | Drift: 0 ms
+[Arithmetic] 70 + 84 = 154
+[EXEC] ID: 1303 | Drift: 0 ms
+[Arithmetic] 62 - 46 = 16
+[EXEC] ID: 1908 | Drift: 0 ms
+[Arithmetic] 47 - 75 = -28
+[EXEC] ID: 1768 | Drift: 0 ms
+[Arithmetic] 4 - 20 = -16
+[EXEC] ID: 1760 | Drift: 0 ms
+[Arithmetic] 15 / 68 = 0
+[EXEC] ID: 668 | Drift: 0 ms
+[Arithmetic] 15 - 8 = 7
+[EXEC] ID: 506 | Drift: 0 ms
+[Arithmetic] 52 / 94 = 0
+[EXEC] ID: 1903 | Drift: 0 ms
+[Arithmetic] 30 - 59 = -29
+[EXEC] ID: 1421 | Drift: 0 ms
+[Arithmetic] 29 * 22 = 638
+[EXEC] ID: 1890 | Drift: 0 ms
+[Arithmetic] 67 + 41 = 108
+[EXEC] ID: 1141 | Drift: 0 ms
+[Arithmetic] 24 - 96 = -72
+[EXEC] ID: 55 | Drift: 0 ms
+[Arithmetic] 8 - 77 = -69
+[EXEC] ID: 416 | Drift: 0 ms
+[Arithmetic] 26 / 12 = 2
+[EXEC] ID: 168 | Drift: 0 ms
+[Arithmetic] 89 / 65 = 1
+[EXEC] ID: 9 | Drift: 0 ms
+[Arithmetic] 12 * 67 = 804
+[EXEC] ID: 1029 | Drift: 0 ms
+[Arithmetic] 24 * 77 = 1848
+[EXEC] ID: 255 | Drift: 0 ms
+[Arithmetic] 83 - 81 = 2
+[EXEC] ID: 1107 | Drift: 0 ms
+[Arithmetic] 56 * 64 = 3584
+[EXEC] ID: 1130 | Drift: 0 ms
+[Arithmetic] 90 * 34 = 3060
+[EXEC] ID: 783 | Drift: 0 ms
+[Arithmetic] 52 - 17 = 35
+[EXEC] ID: 779 | Drift: 0 ms
+[Arithmetic] 19 - 45 = -26
+[EXEC] ID: 1871 | Drift: 0 ms
+[Arithmetic] 36 - 52 = -16
+[EXEC] ID: 1254 | Drift: 0 ms
+[Arithmetic] 66 + 99 = 165
+[EXEC] ID: 1777 | Drift: 0 ms
+[Arithmetic] 10 - 84 = -74
+[EXEC] ID: 1791 | Drift: 0 ms
+[Arithmetic] 14 / 61 = 0
+[EXEC] ID: 1614 | Drift: 0 ms
+[Arithmetic] 75 + 65 = 140
+[EXEC] ID: 1773 | Drift: 0 ms
+[Arithmetic] 81 - 83 = -2
+[EXEC] ID: 1753 | Drift: 0 ms
+[Arithmetic] 78 / 37 = 2
+[EXEC] ID: 1721 | Drift: 0 ms
+[Arithmetic] 32 + 1 = 33
+[EXEC] ID: 1106 | Drift: 0 ms
+[Arithmetic] 73 + 99 = 172
+[EXEC] ID: 1875 | Drift: 0 ms
+[Arithmetic] 39 / 63 = 0
+[EXEC] ID: 654 | Drift: 0 ms
+[Arithmetic] 51 / 61 = 0
+[EXEC] ID: 1537 | Drift: 0 ms
+[Arithmetic] 19 / 12 = 1
+[EXEC] ID: 864 | Drift: 0 ms
+[Arithmetic] 4 / 60 = 0
+[EXEC] ID: 563 | Drift: 0 ms
+[Arithmetic] 20 / 46 = 0
+[EXEC] ID: 569 | Drift: 0 ms
+[Arithmetic] 55 / 38 = 1
+[EXEC] ID: 1761 | Drift: 0 ms
+[Arithmetic] 77 / 42 = 1
+[EXEC] ID: 1236 | Drift: 0 ms
+[Arithmetic] 3 / 0 = 0
+[EXEC] ID: 1279 | Drift: 0 ms
+[Arithmetic] 20 * 80 = 1600
+[EXEC] ID: 161 | Drift: 0 ms
+[Arithmetic] 61 / 25 = 2
+[EXEC] ID: 885 | Drift: 0 ms
+[Arithmetic] 90 / 30 = 3
+[EXEC] ID: 604 | Drift: 0 ms
+[Arithmetic] 0 / 5 = 0
+[EXEC] ID: 281 | Drift: 0 ms
+[Arithmetic] 36 / 5 = 7
+[EXEC] ID: 286 | Drift: 0 ms
+[Arithmetic] 75 + 98 = 173
+[EXEC] ID: 1942 | Drift: 0 ms
+[Arithmetic] 85 * 77 = 6545
+[EXEC] ID: 486 | Drift: 0 ms
+[Arithmetic] 73 - 77 = -4
+[EXEC] ID: 968 | Drift: 0 ms
+[Arithmetic] 2 / 5 = 0
+[EXEC] ID: 1401 | Drift: 0 ms
+[Arithmetic] 61 / 40 = 1
+[EXEC] ID: 1253 | Drift: 0 ms
+[Arithmetic] 88 - 85 = 3
+[EXEC] ID: 1931 | Drift: 0 ms
+[Arithmetic] 99 / 68 = 1
+[EXEC] ID: 63 | Drift: 0 ms
+[Arithmetic] 49 + 31 = 80
+[EXEC] ID: 1613 | Drift: 0 ms
+[Arithmetic] 80 / 45 = 1
+[EXEC] ID: 673 | Drift: 0 ms
+[Arithmetic] 5 - 8 = -3
+[EXEC] ID: 1092 | Drift: 0 ms
+[Arithmetic] 14 * 31 = 434
+[EXEC] ID: 356 | Drift: 0 ms
+[Arithmetic] 62 - 73 = -11
+[EXEC] ID: 480 | Drift: 0 ms
+[Arithmetic] 43 * 12 = 516
+[EXEC] ID: 838 | Drift: 0 ms
+[Arithmetic] 83 / 23 = 3
+[EXEC] ID: 1368 | Drift: 0 ms
+[Arithmetic] 21 / 20 = 1
+[EXEC] ID: 1161 | Drift: 0 ms
+[Arithmetic] 17 / 41 = 0
+[EXEC] ID: 1188 | Drift: 0 ms
+[Arithmetic] 78 - 73 = 5
+[EXEC] ID: 162 | Drift: 0 ms
+[Arithmetic] 3 * 98 = 294
+[EXEC] ID: 1146 | Drift: 0 ms
+[Arithmetic] 80 * 56 = 4480
+[EXEC] ID: 1055 | Drift: 0 ms
+[Arithmetic] 51 + 84 = 135
+[EXEC] ID: 1182 | Drift: 0 ms
+[Arithmetic] 63 * 68 = 4284
+[EXEC] ID: 1794 | Drift: 0 ms
+[Arithmetic] 34 * 21 = 714
+[EXEC] ID: 743 | Drift: 0 ms
+[Arithmetic] 47 * 6 = 282
+[EXEC] ID: 842 | Drift: 0 ms
+[Arithmetic] 66 + 93 = 159
+[EXEC] ID: 581 | Drift: 0 ms
+[Arithmetic] 51 * 94 = 4794
+[EXEC] ID: 91 | Drift: 0 ms
+[Arithmetic] 63 - 2 = 61
+[EXEC] ID: 729 | Drift: 0 ms
+[Arithmetic] 42 - 90 = -48
+[EXEC] ID: 1993 | Drift: 0 ms
+[Arithmetic] 11 - 90 = -79
+[EXEC] ID: 1660 | Drift: 0 ms
+[Arithmetic] 32 / 76 = 0
+[EXEC] ID: 452 | Drift: 0 ms
+[Arithmetic] 4 / 56 = 0
+[EXEC] ID: 477 | Drift: 0 ms
+[Arithmetic] 60 / 72 = 0
+[EXEC] ID: 1533 | Drift: 0 ms
+[Arithmetic] 98 * 80 = 7840
+[EXEC] ID: 1984 | Drift: 0 ms
+[Arithmetic] 87 * 60 = 5220
+[EXEC] ID: 1075 | Drift: 0 ms
+[Arithmetic] 0 / 37 = 0
+[EXEC] ID: 984 | Drift: 0 ms
+[Arithmetic] 51 / 39 = 1
+[EXEC] ID: 1707 | Drift: 0 ms
+[Arithmetic] 7 * 75 = 525
+[EXEC] ID: 353 | Drift: 0 ms
+[Arithmetic] 14 / 96 = 0
+[EXEC] ID: 1831 | Drift: 0 ms
+[Arithmetic] 74 - 14 = 60
+[EXEC] ID: 1068 | Drift: 0 ms
+[Arithmetic] 55 / 72 = 0
+[EXEC] ID: 287 | Drift: 0 ms
+[Arithmetic] 62 + 76 = 138
+[EXEC] ID: 248 | Drift: 0 ms
+[Arithmetic] 87 - 97 = -10
+[EXEC] ID: 1265 | Drift: 0 ms
+[Arithmetic] 79 / 70 = 1
+[EXEC] ID: 554 | Drift: 0 ms
+[Arithmetic] 89 / 35 = 2
+[EXEC] ID: 1 | Drift: 0 ms
+[Arithmetic] 7 - 49 = -42
+[EXEC] ID: 1936 | Drift: 0 ms
+[Arithmetic] 71 / 88 = 0
+[EXEC] ID: 321 | Drift: 0 ms
+[Arithmetic] 20 - 48 = -28
+[EXEC] ID: 1690 | Drift: 0 ms
+[Arithmetic] 29 + 70 = 99
+[EXEC] ID: 830 | Drift: 0 ms
+[Arithmetic] 36 / 62 = 0
+[EXEC] ID: 426 | Drift: 0 ms
+[Arithmetic] 15 - 49 = -34
+[EXEC] ID: 1267 | Drift: 0 ms
+[Arithmetic] 79 - 12 = 67
+[EXEC] ID: 1320 | Drift: 0 ms
+[Arithmetic] 48 / 95 = 0
+[EXEC] ID: 1838 | Drift: 0 ms
+[Arithmetic] 47 / 26 = 1
+[EXEC] ID: 1063 | Drift: 0 ms
+[Arithmetic] 82 * 41 = 3362
+[EXEC] ID: 859 | Drift: 0 ms
+[Arithmetic] 40 + 6 = 46
+[EXEC] ID: 1571 | Drift: 0 ms
+[Arithmetic] 63 + 44 = 107
+[EXEC] ID: 1534 | Drift: 0 ms
+[Arithmetic] 22 / 37 = 0
+[EXEC] ID: 20 | Drift: 0 ms
+[Arithmetic] 63 - 36 = 27
+[EXEC] ID: 1661 | Drift: 0 ms
+[Arithmetic] 53 / 16 = 3
+[EXEC] ID: 1373 | Drift: 0 ms
+[Arithmetic] 83 - 34 = 49
+[EXEC] ID: 1612 | Drift: 0 ms
+[Arithmetic] 29 * 22 = 638
+[EXEC] ID: 1723 | Drift: 0 ms
+[Arithmetic] 11 + 43 = 54
+[EXEC] ID: 1378 | Drift: 0 ms
+[Arithmetic] 69 + 90 = 159
+[EXEC] ID: 262 | Drift: 0 ms
+[Arithmetic] 85 / 83 = 1
+[EXEC] ID: 495 | Drift: 0 ms
+[Arithmetic] 49 / 94 = 0
+[EXEC] ID: 322 | Drift: 0 ms
+[Arithmetic] 18 * 77 = 1386
+[EXEC] ID: 271 | Drift: 0 ms
+[Arithmetic] 19 * 20 = 380
+[EXEC] ID: 873 | Drift: 0 ms
+[Arithmetic] 49 + 76 = 125
+[EXEC] ID: 219 | Drift: 0 ms
+[Arithmetic] 98 - 14 = 84
+[EXEC] ID: 113 | Drift: 0 ms
+[Arithmetic] 57 * 11 = 627
+[EXEC] ID: 139 | Drift: 0 ms
+[Arithmetic] 76 + 46 = 122
+[EXEC] ID: 1200 | Drift: 0 ms
+[Arithmetic] 91 - 24 = 67
+[EXEC] ID: 336 | Drift: 0 ms
+[Arithmetic] 94 / 30 = 3
+[EXEC] ID: 1904 | Drift: 0 ms
+[Arithmetic] 5 / 81 = 0
+[EXEC] ID: 1574 | Drift: 0 ms
+[Arithmetic] 96 * 74 = 7104
+[EXEC] ID: 398 | Drift: 0 ms
+[Arithmetic] 13 / 50 = 0
+[EXEC] ID: 159 | Drift: 0 ms
+[Arithmetic] 89 * 84 = 7476
+[EXEC] ID: 489 | Drift: 0 ms
+[Arithmetic] 25 / 81 = 0
+[EXEC] ID: 1821 | Drift: 0 ms
+[Arithmetic] 7 * 13 = 91
+[EXEC] ID: 1076 | Drift: 0 ms
+[Arithmetic] 11 * 55 = 605
+[EXEC] ID: 126 | Drift: 0 ms
+[Arithmetic] 11 / 16 = 0
+[EXEC] ID: 1104 | Drift: 0 ms
+[Arithmetic] 48 / 98 = 0
+[EXEC] ID: 874 | Drift: 0 ms
+[Arithmetic] 87 * 33 = 2871
+[EXEC] ID: 1934 | Drift: 0 ms
+[Arithmetic] 51 / 29 = 1
+[EXEC] ID: 1900 | Drift: 0 ms
+[Arithmetic] 20 / 61 = 0
+[EXEC] ID: 1806 | Drift: 0 ms
+[Arithmetic] 24 - 75 = -51
+[EXEC] ID: 627 | Drift: 0 ms
+[Arithmetic] 68 * 86 = 5848
+[EXEC] ID: 1380 | Drift: 0 ms
+[Arithmetic] 72 / 56 = 1
+[EXEC] ID: 1545 | Drift: 0 ms
+[Arithmetic] 4 / 69 = 0
+[EXEC] ID: 148 | Drift: 0 ms
+[Arithmetic] 64 - 76 = -12
+[EXEC] ID: 806 | Drift: 0 ms
+[Arithmetic] 48 * 97 = 4656
+[EXEC] ID: 37 | Drift: 0 ms
+[Arithmetic] 16 + 90 = 106
+[EXEC] ID: 706 | Drift: 0 ms
+[Arithmetic] 7 * 53 = 371
+[EXEC] ID: 1556 | Drift: 0 ms
+[Arithmetic] 50 / 1 = 50
+[EXEC] ID: 1802 | Drift: 0 ms
+[Arithmetic] 81 + 5 = 86
+[EXEC] ID: 1920 | Drift: 0 ms
+[Arithmetic] 51 * 44 = 2244
+[EXEC] ID: 1582 | Drift: 0 ms
+[Arithmetic] 40 / 23 = 1
+[EXEC] ID: 855 | Drift: 0 ms
+[Arithmetic] 84 - 58 = 26
+[EXEC] ID: 1309 | Drift: 0 ms
+[Arithmetic] 49 - 16 = 33
+[EXEC] ID: 324 | Drift: 0 ms
+[Arithmetic] 6 + 8 = 14
+[EXEC] ID: 601 | Drift: 0 ms
+[Arithmetic] 33 + 10 = 43
+[EXEC] ID: 1969 | Drift: 0 ms
+[Arithmetic] 13 * 99 = 1287
+[EXEC] ID: 1711 | Drift: 0 ms
+[Arithmetic] 78 * 28 = 2184
+[EXEC] ID: 184 | Drift: 0 ms
+[Arithmetic] 28 * 77 = 2156
+[EXEC] ID: 158 | Drift: 0 ms
+[Arithmetic] 35 + 35 = 70
+[EXEC] ID: 1814 | Drift: 0 ms
+[Arithmetic] 54 - 68 = -14
+[EXEC] ID: 366 | Drift: 0 ms
+[Arithmetic] 83 + 86 = 169
+[EXEC] ID: 1803 | Drift: 0 ms
+[Arithmetic] 51 + 47 = 98
+[EXEC] ID: 1956 | Drift: 0 ms
+[Arithmetic] 92 * 87 = 8004
+[EXEC] ID: 331 | Drift: 0 ms
+[Arithmetic] 79 / 75 = 1
+[EXEC] ID: 1718 | Drift: 0 ms
+[Arithmetic] 7 * 61 = 427
+[EXEC] ID: 1958 | Drift: 0 ms
+[Arithmetic] 28 * 35 = 980
+[EXEC] ID: 1022 | Drift: 0 ms
+[Arithmetic] 82 / 67 = 1
+[EXEC] ID: 1671 | Drift: 0 ms
+[Arithmetic] 73 * 7 = 511
+[EXEC] ID: 1308 | Drift: 0 ms
+[Arithmetic] 84 / 69 = 1
+[EXEC] ID: 1479 | Drift: 0 ms
+[Arithmetic] 38 * 22 = 836
+[EXEC] ID: 1600 | Drift: 0 ms
+[Arithmetic] 74 - 69 = 5
+[EXEC] ID: 346 | Drift: 0 ms
+[Arithmetic] 95 / 5 = 19
+[EXEC] ID: 930 | Drift: 0 ms
+[Arithmetic] 34 / 92 = 0
+[EXEC] ID: 1443 | Drift: 0 ms
+[Arithmetic] 49 / 22 = 2
+[EXEC] ID: 1463 | Drift: 0 ms
+[Arithmetic] 22 * 56 = 1232
+[EXEC] ID: 1014 | Drift: 0 ms
+[Arithmetic] 96 + 9 = 105
+[EXEC] ID: 1876 | Drift: 0 ms
+[Arithmetic] 82 * 2 = 164
+[EXEC] ID: 1269 | Drift: 0 ms
+[Arithmetic] 59 + 62 = 121
+[EXEC] ID: 421 | Drift: 0 ms
+[Arithmetic] 58 / 39 = 1
+[EXEC] ID: 1887 | Drift: 0 ms
+[Arithmetic] 85 / 58 = 1
+[EXEC] ID: 1382 | Drift: 0 ms
+[Arithmetic] 78 / 12 = 6
+[EXEC] ID: 1840 | Drift: 0 ms
+[Arithmetic] 96 / 88 = 1
+[EXEC] ID: 1036 | Drift: 0 ms
+[Arithmetic] 92 + 26 = 118
+[EXEC] ID: 557 | Drift: 0 ms
+[Arithmetic] 80 - 12 = 68
+[EXEC] ID: 688 | Drift: 0 ms
+[Arithmetic] 88 * 64 = 5632
+[EXEC] ID: 427 | Drift: 0 ms
+[Arithmetic] 31 / 96 = 0
+[EXEC] ID: 1219 | Drift: 0 ms
+[Arithmetic] 11 / 93 = 0
+[EXEC] ID: 680 | Drift: 0 ms
+[Arithmetic] 74 + 95 = 169
+[EXEC] ID: 1966 | Drift: 0 ms
+[Arithmetic] 23 * 38 = 874
+[EXEC] ID: 1682 | Drift: 0 ms
+[Arithmetic] 27 - 43 = -16
+[EXEC] ID: 257 | Drift: 0 ms
+[Arithmetic] 0 + 96 = 96
+[EXEC] ID: 863 | Drift: 0 ms
+[Arithmetic] 37 * 66 = 2442
+[EXEC] ID: 567 | Drift: 0 ms
+[Arithmetic] 74 * 80 = 5920
+[EXEC] ID: 1709 | Drift: 0 ms
+[Arithmetic] 26 - 86 = -60
+[EXEC] ID: 1639 | Drift: 0 ms
+[Arithmetic] 39 * 39 = 1521
+[EXEC] ID: 170 | Drift: 0 ms
+[Arithmetic] 62 / 29 = 2
+[EXEC] ID: 227 | Drift: 0 ms
+[Arithmetic] 60 + 67 = 127
+[EXEC] ID: 963 | Drift: 0 ms
+[Arithmetic] 82 * 45 = 3690
+[EXEC] ID: 1083 | Drift: 0 ms
+[Arithmetic] 13 - 82 = -69
+[EXEC] ID: 1173 | Drift: 0 ms
+[Arithmetic] 42 + 62 = 104
+[EXEC] ID: 1615 | Drift: 0 ms
+[Arithmetic] 98 - 93 = 5
+[EXEC] ID: 397 | Drift: 0 ms
+[Arithmetic] 8 / 83 = 0
+[EXEC] ID: 1972 | Drift: 0 ms
+[Arithmetic] 17 + 39 = 56
+[EXEC] ID: 266 | Drift: 0 ms
+[Arithmetic] 69 - 95 = -26
+[EXEC] ID: 1693 | Drift: 0 ms
+[Arithmetic] 62 / 35 = 1
+[EXEC] ID: 1954 | Drift: 0 ms
+[Arithmetic] 67 * 86 = 5762
+[EXEC] ID: 1853 | Drift: 0 ms
+[Arithmetic] 9 + 54 = 63
+[EXEC] ID: 1725 | Drift: 0 ms
+[Arithmetic] 81 - 60 = 21
+[EXEC] ID: 1702 | Drift: 0 ms
+[Arithmetic] 86 * 78 = 6708
+[EXEC] ID: 1845 | Drift: 0 ms
+[Arithmetic] 58 * 98 = 5684
+[EXEC] ID: 1047 | Drift: 0 ms
+[Arithmetic] 83 - 13 = 70
+[EXEC] ID: 1386 | Drift: 0 ms
+[Arithmetic] 43 * 53 = 2279
+[EXEC] ID: 721 | Drift: 0 ms
+[Arithmetic] 22 / 46 = 0
+[EXEC] ID: 370 | Drift: 0 ms
+[Arithmetic] 31 / 30 = 1
+[EXEC] ID: 1913 | Drift: 0 ms
+[Arithmetic] 29 + 69 = 98
+[EXEC] ID: 880 | Drift: 0 ms
+[Arithmetic] 19 - 71 = -52
+[EXEC] ID: 904 | Drift: 0 ms
+[Arithmetic] 25 / 38 = 0
+[EXEC] ID: 634 | Drift: 0 ms
+[Arithmetic] 13 + 11 = 24
+[EXEC] ID: 537 | Drift: 0 ms
+[Arithmetic] 52 / 26 = 2
+[EXEC] ID: 756 | Drift: 0 ms
+[Arithmetic] 24 * 56 = 1344
+[EXEC] ID: 440 | Drift: 0 ms
+[Arithmetic] 5 * 27 = 135
+[EXEC] ID: 556 | Drift: 0 ms
+[Arithmetic] 42 - 55 = -13
+[EXEC] ID: 1861 | Drift: 0 ms
+[Arithmetic] 46 + 27 = 73
+[EXEC] ID: 345 | Drift: 0 ms
+[Arithmetic] 78 - 25 = 53
+[EXEC] ID: 315 | Drift: 0 ms
+[Arithmetic] 48 - 78 = -30
+[EXEC] ID: 645 | Drift: 0 ms
+[Arithmetic] 89 - 97 = -8
+[EXEC] ID: 1108 | Drift: 0 ms
+[Arithmetic] 17 + 61 = 78
+[EXEC] ID: 1080 | Drift: 0 ms
+[Arithmetic] 74 + 71 = 145
+[EXEC] ID: 819 | Drift: 0 ms
+[Arithmetic] 27 + 63 = 90
+[EXEC] ID: 971 | Drift: 0 ms
+[Arithmetic] 31 + 96 = 127
+[EXEC] ID: 137 | Drift: 0 ms
+[Arithmetic] 65 + 27 = 92
+[EXEC] ID: 1665 | Drift: 0 ms
+[Arithmetic] 86 / 99 = 0
+[EXEC] ID: 444 | Drift: 0 ms
+[Arithmetic] 79 / 3 = 26
+[EXEC] ID: 1916 | Drift: 0 ms
+[Arithmetic] 58 + 36 = 94
+[EXEC] ID: 454 | Drift: 0 ms
+[Arithmetic] 12 + 13 = 25
+[EXEC] ID: 504 | Drift: 0 ms
+[Arithmetic] 70 - 6 = 64
+[EXEC] ID: 1242 | Drift: 0 ms
+[Arithmetic] 78 * 4 = 312
+[EXEC] ID: 384 | Drift: 0 ms
+[Arithmetic] 79 + 18 = 97
+[EXEC] ID: 1719 | Drift: 0 ms
+[Arithmetic] 40 * 58 = 2320
+[EXEC] ID: 543 | Drift: 0 ms
+[Arithmetic] 79 * 55 = 4345
+[EXEC] ID: 1209 | Drift: 0 ms
+[Arithmetic] 23 - 2 = 21
+[EXEC] ID: 283 | Drift: 0 ms
+[Arithmetic] 40 - 53 = -13
+[EXEC] ID: 648 | Drift: 0 ms
+[Arithmetic] 4 + 23 = 27
+[EXEC] ID: 1643 | Drift: 0 ms
+[Arithmetic] 88 * 12 = 1056
+[EXEC] ID: 216 | Drift: 0 ms
+[Arithmetic] 70 / 87 = 0
+[EXEC] ID: 481 | Drift: 0 ms
+[Arithmetic] 93 * 26 = 2418
+[EXEC] ID: 523 | Drift: 0 ms
+[Arithmetic] 30 * 81 = 2430
+[EXEC] ID: 575 | Drift: 0 ms
+[Arithmetic] 96 / 61 = 1
+[EXEC] ID: 1503 | Drift: 0 ms
+[Arithmetic] 93 - 47 = 46
+[EXEC] ID: 951 | Drift: 0 ms
+[Arithmetic] 39 / 46 = 0
+[EXEC] ID: 1599 | Drift: 0 ms
+[Arithmetic] 68 - 32 = 36
+[EXEC] ID: 350 | Drift: 0 ms
+[Arithmetic] 58 / 62 = 0
+[EXEC] ID: 1262 | Drift: 0 ms
+[Arithmetic] 89 / 4 = 22
+[EXEC] ID: 1546 | Drift: 0 ms
+[Arithmetic] 49 * 79 = 3871
+[EXEC] ID: 1032 | Drift: 0 ms
+[Arithmetic] 87 / 31 = 2
+[EXEC] ID: 1208 | Drift: 0 ms
+[Arithmetic] 80 - 85 = -5
+[EXEC] ID: 1387 | Drift: 0 ms
+[Arithmetic] 47 * 26 = 1222
+[EXEC] ID: 1113 | Drift: 0 ms
+[Arithmetic] 22 - 84 = -62
+[EXEC] ID: 141 | Drift: 0 ms
+[Arithmetic] 10 / 58 = 0
+[EXEC] ID: 1924 | Drift: 0 ms
+[Arithmetic] 80 - 81 = -1
+[EXEC] ID: 562 | Drift: 0 ms
+[Arithmetic] 20 - 82 = -62
+[EXEC] ID: 457 | Drift: 0 ms
+[Arithmetic] 31 - 53 = -22
+[EXEC] ID: 424 | Drift: 0 ms
+[Arithmetic] 59 + 99 = 158
+[EXEC] ID: 1941 | Drift: 0 ms
+[Arithmetic] 92 - 78 = 14
+[EXEC] ID: 1739 | Drift: 0 ms
+[Arithmetic] 63 / 28 = 2
+[EXEC] ID: 598 | Drift: 0 ms
+[Arithmetic] 48 - 44 = 4
+[EXEC] ID: 1150 | Drift: 0 ms
+[Arithmetic] 92 - 52 = 40
+[EXEC] ID: 1066 | Drift: 0 ms
+[Arithmetic] 59 / 49 = 1
+[EXEC] ID: 107 | Drift: 0 ms
+[Arithmetic] 64 * 60 = 3840
+[EXEC] ID: 1257 | Drift: 0 ms
+[Arithmetic] 73 * 84 = 6132
+[EXEC] ID: 785 | Drift: 0 ms
+[Arithmetic] 63 * 1 = 63
+[EXEC] ID: 1263 | Drift: 0 ms
+[Arithmetic] 83 - 61 = 22
+[EXEC] ID: 745 | Drift: 0 ms
+[Arithmetic] 46 + 27 = 73
+[EXEC] ID: 1987 | Drift: 0 ms
+[Arithmetic] 27 / 88 = 0
+[EXEC] ID: 1144 | Drift: 0 ms
+[Arithmetic] 38 * 0 = 0
+[EXEC] ID: 970 | Drift: 0 ms
+[Arithmetic] 49 + 33 = 82
+[EXEC] ID: 178 | Drift: 0 ms
+[Arithmetic] 35 / 21 = 1
+[EXEC] ID: 692 | Drift: 0 ms
+[Arithmetic] 27 / 21 = 1
+[EXEC] ID: 171 | Drift: 0 ms
+[Arithmetic] 3 - 57 = -54
+[EXEC] ID: 908 | Drift: 0 ms
+[Arithmetic] 0 - 49 = -49
+[EXEC] ID: 145 | Drift: 0 ms
+[Arithmetic] 34 + 27 = 61
+[EXEC] ID: 436 | Drift: 0 ms
+[Arithmetic] 48 - 44 = 4
+[EXEC] ID: 297 | Drift: 0 ms
+[Arithmetic] 56 * 16 = 896
+[EXEC] ID: 354 | Drift: 0 ms
+[Arithmetic] 33 / 62 = 0
+[EXEC] ID: 1714 | Drift: 0 ms
+[Arithmetic] 52 + 87 = 139
+[EXEC] ID: 1125 | Drift: 0 ms
+[Arithmetic] 88 / 34 = 2
+[EXEC] ID: 1465 | Drift: 0 ms
+[Arithmetic] 60 / 1 = 60
+[EXEC] ID: 1743 | Drift: 0 ms
+[Arithmetic] 58 / 28 = 2
+[EXEC] ID: 1087 | Drift: 0 ms
+[Arithmetic] 83 / 71 = 1
+[EXEC] ID: 1298 | Drift: 0 ms
+[Arithmetic] 46 + 15 = 61
+[EXEC] ID: 1762 | Drift: 0 ms
+[Arithmetic] 91 - 29 = 62
+[EXEC] ID: 1302 | Drift: 0 ms
+[Arithmetic] 95 - 64 = 31
+[EXEC] ID: 191 | Drift: 0 ms
+[Arithmetic] 32 * 32 = 1024
+[EXEC] ID: 1608 | Drift: 0 ms
+[Arithmetic] 16 * 69 = 1104
+[EXEC] ID: 1844 | Drift: 0 ms
+[Arithmetic] 89 / 16 = 5
+[EXEC] ID: 1454 | Drift: 0 ms
+[Arithmetic] 97 / 72 = 1
+[EXEC] ID: 736 | Drift: 0 ms
+[Arithmetic] 58 / 59 = 0
+[EXEC] ID: 988 | Drift: 0 ms
+[Arithmetic] 41 / 73 = 0
+[EXEC] ID: 1562 | Drift: 0 ms
+[Arithmetic] 11 * 94 = 1034
+[EXEC] ID: 388 | Drift: 0 ms
+[Arithmetic] 4 + 51 = 55
+[EXEC] ID: 1105 | Drift: 0 ms
+[Arithmetic] 97 + 67 = 164
+[EXEC] ID: 691 | Drift: 0 ms
+[Arithmetic] 29 + 90 = 119
+[EXEC] ID: 211 | Drift: 0 ms
+[Arithmetic] 19 + 71 = 90
+[EXEC] ID: 1625 | Drift: 0 ms
+[Arithmetic] 91 - 51 = 40
+[EXEC] ID: 1266 | Drift: 0 ms
+[Arithmetic] 92 - 88 = 4
+[EXEC] ID: 1324 | Drift: 0 ms
+[Arithmetic] 51 - 50 = 1
+[EXEC] ID: 163 | Drift: 0 ms
+[Arithmetic] 4 / 3 = 1
+[EXEC] ID: 1323 | Drift: 0 ms
+[Arithmetic] 61 + 96 = 157
+[EXEC] ID: 177 | Drift: 0 ms
+[Arithmetic] 39 / 14 = 2
+[EXEC] ID: 1220 | Drift: 0 ms
+[Arithmetic] 39 - 19 = 20
+[EXEC] ID: 60 | Drift: 0 ms
+[Arithmetic] 7 - 15 = -8
+[EXEC] ID: 41 | Drift: 0 ms
+[Arithmetic] 23 - 6 = 17
+[EXEC] ID: 1929 | Drift: 0 ms
+[Arithmetic] 84 * 96 = 8064
+[EXEC] ID: 720 | Drift: 0 ms
+[Arithmetic] 38 / 4 = 9
+[EXEC] ID: 106 | Drift: 0 ms
+[Arithmetic] 44 + 58 = 102
+[EXEC] ID: 359 | Drift: 0 ms
+[Arithmetic] 92 / 43 = 2
+[EXEC] ID: 101 | Drift: 0 ms
+[Arithmetic] 49 - 42 = 7
+[EXEC] ID: 758 | Drift: 0 ms
+[Arithmetic] 35 + 32 = 67
+[EXEC] ID: 1399 | Drift: 0 ms
+[Arithmetic] 15 * 71 = 1065
+[EXEC] ID: 1243 | Drift: 0 ms
+[Arithmetic] 7 / 24 = 0
+[EXEC] ID: 295 | Drift: 0 ms
+[Arithmetic] 21 - 86 = -65
+[EXEC] ID: 1492 | Drift: 0 ms
+[Arithmetic] 50 - 95 = -45
+[EXEC] ID: 744 | Drift: 0 ms
+[Arithmetic] 2 / 31 = 0
+[EXEC] ID: 899 | Drift: 0 ms
+[Arithmetic] 69 / 58 = 1
+[EXEC] ID: 1023 | Drift: 0 ms
+[Arithmetic] 20 + 51 = 71
+[EXEC] ID: 1535 | Drift: 0 ms
+[Arithmetic] 14 * 63 = 882
+[EXEC] ID: 1823 | Drift: 0 ms
+[Arithmetic] 48 + 55 = 103
+[EXEC] ID: 630 | Drift: 0 ms
+[Arithmetic] 58 - 35 = 23
+[EXEC] ID: 1078 | Drift: 0 ms
+[Arithmetic] 8 + 92 = 100
+[EXEC] ID: 948 | Drift: 0 ms
+[Arithmetic] 40 + 62 = 102
+[EXEC] ID: 56 | Drift: 0 ms
+[Arithmetic] 35 / 68 = 0
+[EXEC] ID: 732 | Drift: 0 ms
+[Arithmetic] 57 / 15 = 3
+[EXEC] ID: 1431 | Drift: 0 ms
+[Arithmetic] 94 + 44 = 138
+[EXEC] ID: 1007 | Drift: 0 ms
+[Arithmetic] 31 - 73 = -42
+[EXEC] ID: 765 | Drift: 0 ms
+[Arithmetic] 2 + 10 = 12
+[EXEC] ID: 1713 | Drift: 0 ms
+[Arithmetic] 62 / 36 = 1
+[EXEC] ID: 816 | Drift: 0 ms
+[Arithmetic] 96 / 44 = 2
+[EXEC] ID: 1101 | Drift: 0 ms
+[Arithmetic] 2 / 88 = 0
+[EXEC] ID: 1697 | Drift: 0 ms
+[Arithmetic] 3 / 16 = 0
+[EXEC] ID: 1227 | Drift: 0 ms
+[Arithmetic] 10 / 48 = 0
+[EXEC] ID: 1452 | Drift: 0 ms
+[Arithmetic] 38 + 5 = 43
+[EXEC] ID: 383 | Drift: 0 ms
+[Arithmetic] 22 - 13 = 9
+[EXEC] ID: 603 | Drift: 0 ms
+[Arithmetic] 28 * 73 = 2044
+[EXEC] ID: 379 | Drift: 0 ms
+[Arithmetic] 34 - 17 = 17
+[EXEC] ID: 788 | Drift: 0 ms
+[Arithmetic] 73 + 87 = 160
+[EXEC] ID: 852 | Drift: 0 ms
+[Arithmetic] 92 * 32 = 2944
+[EXEC] ID: 1391 | Drift: 0 ms
+[Arithmetic] 13 * 32 = 416
+[EXEC] ID: 1147 | Drift: 0 ms
+[Arithmetic] 55 / 22 = 2
+[EXEC] ID: 1809 | Drift: 0 ms
+[Arithmetic] 48 - 88 = -40
+[EXEC] ID: 1159 | Drift: 0 ms
+[Arithmetic] 79 / 14 = 5
+[EXEC] ID: 117 | Drift: 0 ms
+[Arithmetic] 99 / 27 = 3
+[EXEC] ID: 1676 | Drift: 0 ms
+[Arithmetic] 63 * 93 = 5859
+[EXEC] ID: 1090 | Drift: 0 ms
+[Arithmetic] 40 / 84 = 0
+[EXEC] ID: 699 | Drift: 0 ms
+[Arithmetic] 1 + 65 = 66
+[EXEC] ID: 1983 | Drift: 0 ms
+[Arithmetic] 38 / 96 = 0
+[EXEC] ID: 59 | Drift: 0 ms
+[Arithmetic] 94 / 84 = 1
+[EXEC] ID: 1360 | Drift: 0 ms
+[Arithmetic] 69 + 40 = 109
+[EXEC] ID: 413 | Drift: 0 ms
+[Arithmetic] 10 * 81 = 810
+[EXEC] ID: 599 | Drift: 0 ms
+[Arithmetic] 91 * 42 = 3822
+[EXEC] ID: 1429 | Drift: 0 ms
+[Arithmetic] 40 + 75 = 115
+[EXEC] ID: 900 | Drift: 0 ms
+[Arithmetic] 45 / 23 = 1
+[EXEC] ID: 665 | Drift: 0 ms
+[Arithmetic] 72 + 96 = 168
+[EXEC] ID: 1367 | Drift: 0 ms
+[Arithmetic] 53 - 53 = 0
+[EXEC] ID: 978 | Drift: 0 ms
+[Arithmetic] 50 / 10 = 5
+[EXEC] ID: 1375 | Drift: 0 ms
+[Arithmetic] 15 * 0 = 0
+[EXEC] ID: 1292 | Drift: 0 ms
+[Arithmetic] 51 + 97 = 148
+[EXEC] ID: 652 | Drift: 0 ms
+[Arithmetic] 19 / 43 = 0
+[EXEC] ID: 1369 | Drift: 0 ms
+[Arithmetic] 67 + 9 = 76
+[EXEC] ID: 1584 | Drift: 0 ms
+[Arithmetic] 97 / 29 = 3
+[EXEC] ID: 1436 | Drift: 0 ms
+[Arithmetic] 28 - 72 = -44
+[EXEC] ID: 660 | Drift: 0 ms
+[Arithmetic] 79 * 99 = 7821
+[EXEC] ID: 1518 | Drift: 0 ms
+[Arithmetic] 10 - 65 = -55
+[EXEC] ID: 71 | Drift: 0 ms
+[Arithmetic] 76 * 12 = 912
+[EXEC] ID: 580 | Drift: 0 ms
+[Arithmetic] 37 / 29 = 1
+[EXEC] ID: 1403 | Drift: 0 ms
+[Arithmetic] 10 - 72 = -62
+[EXEC] ID: 1763 | Drift: 0 ms
+[Arithmetic] 81 - 68 = 13
+[EXEC] ID: 967 | Drift: 0 ms
+[Arithmetic] 36 / 92 = 0
+[EXEC] ID: 755 | Drift: 0 ms
+[Arithmetic] 4 / 32 = 0
+[EXEC] ID: 1852 | Drift: 0 ms
+[Arithmetic] 82 - 55 = 27
+[EXEC] ID: 1021 | Drift: 0 ms
+[Arithmetic] 19 / 8 = 2
+[EXEC] ID: 613 | Drift: 0 ms
+[Arithmetic] 81 * 81 = 6561
+[EXEC] ID: 108 | Drift: 0 ms
+[Arithmetic] 40 / 3 = 13
+[EXEC] ID: 1889 | Drift: 0 ms
+[Arithmetic] 37 * 33 = 1221
+[EXEC] ID: 1201 | Drift: 0 ms
+[Arithmetic] 81 / 18 = 4
+[EXEC] ID: 1883 | Drift: 0 ms
+[Arithmetic] 49 + 29 = 78
+[EXEC] ID: 1865 | Drift: 0 ms
+[Arithmetic] 5 + 48 = 53
+[EXEC] ID: 190 | Drift: 0 ms
+[Arithmetic] 61 - 81 = -20
+[EXEC] ID: 1074 | Drift: 0 ms
+[Arithmetic] 63 / 84 = 0
+[EXEC] ID: 635 | Drift: 0 ms
+[Arithmetic] 59 + 5 = 64
+[EXEC] ID: 1344 | Drift: 0 ms
+[Arithmetic] 41 + 6 = 47
+[EXEC] ID: 19 | Drift: 0 ms
+[Arithmetic] 35 - 13 = 22
+[EXEC] ID: 897 | Drift: 0 ms
+[Arithmetic] 4 - 33 = -29
+[EXEC] ID: 199 | Drift: 0 ms
+[Arithmetic] 57 + 10 = 67
+[EXEC] ID: 419 | Drift: 0 ms
+[Arithmetic] 62 - 32 = 30
+[EXEC] ID: 1156 | Drift: 0 ms
+[Arithmetic] 2 - 18 = -16
+[EXEC] ID: 1957 | Drift: 0 ms
+[Arithmetic] 22 - 42 = -20
+[EXEC] ID: 1835 | Drift: 0 ms
+[Arithmetic] 45 * 44 = 1980
+[EXEC] ID: 777 | Drift: 0 ms
+[Arithmetic] 74 * 17 = 1258
+[EXEC] ID: 429 | Drift: 0 ms
+[Arithmetic] 59 - 35 = 24
+[EXEC] ID: 1376 | Drift: 0 ms
+[Arithmetic] 31 / 59 = 0
+[EXEC] ID: 683 | Drift: 0 ms
+[Arithmetic] 53 / 64 = 0
+[EXEC] ID: 1448 | Drift: 0 ms
+[Arithmetic] 21 - 49 = -28
+[EXEC] ID: 853 | Drift: 0 ms
+[Arithmetic] 43 / 47 = 0
+[EXEC] ID: 1010 | Drift: 0 ms
+[Arithmetic] 9 * 75 = 675
+[EXEC] ID: 1507 | Drift: 0 ms
+[Arithmetic] 61 + 42 = 103
+[EXEC] ID: 1683 | Drift: 0 ms
+[Arithmetic] 44 * 70 = 3080
+[EXEC] ID: 10 | Drift: 0 ms
+[Arithmetic] 79 / 49 = 1
+[EXEC] ID: 1109 | Drift: 0 ms
+[Arithmetic] 29 + 99 = 128
+[EXEC] ID: 845 | Drift: 0 ms
+[Arithmetic] 81 / 15 = 5
+[EXEC] ID: 1850 | Drift: 0 ms
+[Arithmetic] 39 - 47 = -8
+[EXEC] ID: 1121 | Drift: 0 ms
+[Arithmetic] 48 - 87 = -39
+[EXEC] ID: 1946 | Drift: 0 ms
+[Arithmetic] 4 + 76 = 80
+[EXEC] ID: 1928 | Drift: 0 ms
+[Arithmetic] 48 + 51 = 99
+[EXEC] ID: 875 | Drift: 0 ms
+[Arithmetic] 59 + 10 = 69
+[EXEC] ID: 1542 | Drift: 0 ms
+[Arithmetic] 64 + 58 = 122
+[EXEC] ID: 585 | Drift: 0 ms
+[Arithmetic] 83 - 29 = 54
+[EXEC] ID: 8 | Drift: 0 ms
+[Arithmetic] 16 - 35 = -19
+[EXEC] ID: 928 | Drift: 0 ms
+[Arithmetic] 42 - 41 = 1
+[EXEC] ID: 181 | Drift: 0 ms
+[Arithmetic] 11 + 31 = 42
+[EXEC] ID: 549 | Drift: 0 ms
+[Arithmetic] 10 * 62 = 620
+[EXEC] ID: 1118 | Drift: 0 ms
+[Arithmetic] 21 + 82 = 103
+[EXEC] ID: 1407 | Drift: 0 ms
+[Arithmetic] 97 + 73 = 170
+[EXEC] ID: 1536 | Drift: 0 ms
+[Arithmetic] 84 - 40 = 44
+[EXEC] ID: 26 | Drift: 0 ms
+[Arithmetic] 1 / 97 = 0
+[EXEC] ID: 1184 | Drift: 0 ms
+[Arithmetic] 77 - 58 = 19
+[EXEC] ID: 34 | Drift: 0 ms
+[Arithmetic] 82 / 52 = 1
+[EXEC] ID: 1692 | Drift: 0 ms
+[Arithmetic] 57 + 23 = 80
+[EXEC] ID: 1385 | Drift: 0 ms
+[Arithmetic] 41 - 45 = -4
+[EXEC] ID: 394 | Drift: 0 ms
+[Arithmetic] 59 * 73 = 4307
+[EXEC] ID: 1548 | Drift: 0 ms
+[Arithmetic] 54 - 35 = 19
+[EXEC] ID: 1959 | Drift: 0 ms
+[Arithmetic] 59 / 16 = 3
+[EXEC] ID: 801 | Drift: 0 ms
+[Arithmetic] 23 + 3 = 26
+[EXEC] ID: 197 | Drift: 0 ms
+[Arithmetic] 50 / 1 = 50
+[EXEC] ID: 357 | Drift: 0 ms
+[Arithmetic] 88 * 71 = 6248
+[EXEC] ID: 484 | Drift: 0 ms
+[Arithmetic] 22 + 40 = 62
+[EXEC] ID: 142 | Drift: 0 ms
+[Arithmetic] 18 * 18 = 324
+[EXEC] ID: 1142 | Drift: 0 ms
+[Arithmetic] 91 / 53 = 1
+[EXEC] ID: 130 | Drift: 0 ms
+[Arithmetic] 94 / 33 = 2
+[EXEC] ID: 999 | Drift: 0 ms
+[Arithmetic] 57 + 78 = 135
+[EXEC] ID: 791 | Drift: 0 ms
+[Arithmetic] 26 * 50 = 1300
+[EXEC] ID: 689 | Drift: 0 ms
+[Arithmetic] 7 * 62 = 434
+[EXEC] ID: 1964 | Drift: 0 ms
+[Arithmetic] 30 + 95 = 125
+[EXEC] ID: 946 | Drift: 0 ms
+[Arithmetic] 1 / 47 = 0
+[EXEC] ID: 1837 | Drift: 0 ms
+[Arithmetic] 84 + 19 = 103
+[EXEC] ID: 973 | Drift: 0 ms
+[Arithmetic] 9 * 39 = 351
+[EXEC] ID: 803 | Drift: 0 ms
+[Arithmetic] 93 / 49 = 1
+[EXEC] ID: 1241 | Drift: 0 ms
+[Arithmetic] 40 + 82 = 122
+[EXEC] ID: 183 | Drift: 0 ms
+[Arithmetic] 36 - 91 = -55
+[EXEC] ID: 409 | Drift: 0 ms
+[Arithmetic] 63 / 14 = 4
+[EXEC] ID: 1239 | Drift: 0 ms
+[Arithmetic] 35 * 49 = 1715
+[EXEC] ID: 301 | Drift: 0 ms
+[Arithmetic] 77 + 24 = 101
+[EXEC] ID: 1059 | Drift: 0 ms
+[Arithmetic] 42 * 73 = 3066
+[EXEC] ID: 242 | Drift: 0 ms
+[Arithmetic] 36 / 9 = 4
+[EXEC] ID: 1212 | Drift: 0 ms
+[Arithmetic] 92 + 0 = 92
+[EXEC] ID: 920 | Drift: 0 ms
+[Arithmetic] 22 * 20 = 440
+[EXEC] ID: 490 | Drift: 0 ms
+[Arithmetic] 97 - 93 = 4
+[EXEC] ID: 572 | Drift: 0 ms
+[Arithmetic] 76 * 83 = 6308
+[EXEC] ID: 949 | Drift: 0 ms
+[Arithmetic] 77 / 35 = 2
+[EXEC] ID: 277 | Drift: 0 ms
+[Arithmetic] 71 / 41 = 1
+[EXEC] ID: 902 | Drift: 0 ms
+[Arithmetic] 68 / 92 = 0
+[EXEC] ID: 1433 | Drift: 0 ms
+[Arithmetic] 89 - 84 = 5
+[EXEC] ID: 716 | Drift: 0 ms
+[Arithmetic] 52 - 89 = -37
+[EXEC] ID: 741 | Drift: 0 ms
+[Arithmetic] 15 / 80 = 0
+[EXEC] ID: 230 | Drift: 0 ms
+[Arithmetic] 13 * 61 = 793
+[EXEC] ID: 1968 | Drift: 0 ms
+[Arithmetic] 56 / 9 = 6
+[EXEC] ID: 42 | Drift: 0 ms
+[Arithmetic] 38 + 94 = 132
+[EXEC] ID: 1805 | Drift: 0 ms
+[Arithmetic] 89 - 38 = 51
+[EXEC] ID: 780 | Drift: 0 ms
+[Arithmetic] 79 * 69 = 5451
+[EXEC] ID: 1778 | Drift: 0 ms
+[Arithmetic] 12 + 14 = 26
+[EXEC] ID: 1917 | Drift: 0 ms
+[Arithmetic] 31 / 45 = 0
+[EXEC] ID: 1319 | Drift: 0 ms
+[Arithmetic] 16 + 44 = 60
+[EXEC] ID: 64 | Drift: 0 ms
+[Arithmetic] 8 / 97 = 0
+[EXEC] ID: 1338 | Drift: 0 ms
+[Arithmetic] 64 / 98 = 0
+[EXEC] ID: 1961 | Drift: 0 ms
+[Arithmetic] 65 + 24 = 89
+[EXEC] ID: 1726 | Drift: 0 ms
+[Arithmetic] 47 * 70 = 3290
+[EXEC] ID: 268 | Drift: 0 ms
+[Arithmetic] 50 / 31 = 1
+[EXEC] ID: 207 | Drift: 0 ms
+[Arithmetic] 50 - 68 = -18
+[EXEC] ID: 1733 | Drift: 0 ms
+[Arithmetic] 25 + 54 = 79
+[EXEC] ID: 748 | Drift: 0 ms
+[Arithmetic] 43 + 73 = 116
+[EXEC] ID: 2000 | Drift: 0 ms
+[Arithmetic] 44 - 96 = -52
+[EXEC] ID: 559 | Drift: 0 ms
+[Arithmetic] 38 - 64 = -26
+[EXEC] ID: 1779 | Drift: 0 ms
+[Arithmetic] 14 - 48 = -34
+[EXEC] ID: 1679 | Drift: 0 ms
+[Arithmetic] 97 * 8 = 776
+[EXEC] ID: 1646 | Drift: 0 ms
+[Arithmetic] 26 / 93 = 0
+[EXEC] ID: 1945 | Drift: 0 ms
+[Arithmetic] 42 * 29 = 1218
+[EXEC] ID: 1848 | Drift: 0 ms
+[Arithmetic] 82 + 32 = 114
+[EXEC] ID: 447 | Drift: 0 ms
+[Arithmetic] 15 - 50 = -35
+[EXEC] ID: 542 | Drift: 0 ms
+[Arithmetic] 23 / 62 = 0
+[EXEC] ID: 1384 | Drift: 0 ms
+[Arithmetic] 23 - 79 = -56
+[EXEC] ID: 1797 | Drift: 0 ms
+[Arithmetic] 98 / 18 = 5
+[EXEC] ID: 507 | Drift: 0 ms
+[Arithmetic] 31 / 63 = 0
+[EXEC] ID: 487 | Drift: 0 ms
+[Arithmetic] 65 / 61 = 1
+[EXEC] ID: 828 | Drift: 0 ms
+[Arithmetic] 49 / 11 = 4
+[EXEC] ID: 443 | Drift: 0 ms
+[Arithmetic] 85 * 62 = 5270
+[EXEC] ID: 1110 | Drift: 0 ms
+[Arithmetic] 27 + 60 = 87
+[EXEC] ID: 702 | Drift: 0 ms
+[Arithmetic] 37 + 92 = 129
+[EXEC] ID: 289 | Drift: 0 ms
+[Arithmetic] 19 + 42 = 61
+[EXEC] ID: 1874 | Drift: 0 ms
+[Arithmetic] 9 - 15 = -6
+[EXEC] ID: 1694 | Drift: 0 ms
+[Arithmetic] 72 + 71 = 143
+[EXEC] ID: 1046 | Drift: 0 ms
+[Arithmetic] 99 - 65 = 34
+[EXEC] ID: 1359 | Drift: 0 ms
+[Arithmetic] 0 + 30 = 30
+[EXEC] ID: 347 | Drift: 0 ms
+[Arithmetic] 21 * 74 = 1554
+[EXEC] ID: 526 | Drift: 0 ms
+[Arithmetic] 56 - 72 = -16
+[EXEC] ID: 809 | Drift: 0 ms
+[Arithmetic] 43 / 66 = 0
+[EXEC] ID: 1049 | Drift: 0 ms
+[Arithmetic] 11 - 20 = -9
+[EXEC] ID: 124 | Drift: 0 ms
+[Arithmetic] 20 + 16 = 36
+[EXEC] ID: 1658 | Drift: 0 ms
+[Arithmetic] 35 - 90 = -55
+[EXEC] ID: 1622 | Drift: 0 ms
+[Arithmetic] 44 + 88 = 132
+[EXEC] ID: 608 | Drift: 0 ms
+[Arithmetic] 24 - 35 = -11
+[EXEC] ID: 2 | Drift: 0 ms
+[Arithmetic] 30 + 72 = 102
+[EXEC] ID: 1471 | Drift: 0 ms
+[Arithmetic] 79 - 60 = 19
+[EXEC] ID: 373 | Drift: 0 ms
+[Arithmetic] 8 / 9 = 0
+[EXEC] ID: 1456 | Drift: 0 ms
+[Arithmetic] 60 + 94 = 154
+[EXEC] ID: 768 | Drift: 0 ms
+[Arithmetic] 85 / 69 = 1
+[EXEC] ID: 189 | Drift: 0 ms
+[Arithmetic] 79 - 84 = -5
+[EXEC] ID: 1102 | Drift: 0 ms
+[Arithmetic] 5 * 22 = 110
+[EXEC] ID: 990 | Drift: 0 ms
+[Arithmetic] 33 * 53 = 1749
+[EXEC] ID: 1417 | Drift: 0 ms
+[Arithmetic] 96 + 78 = 174
+[EXEC] ID: 83 | Drift: 0 ms
+[Arithmetic] 31 - 88 = -57
+[EXEC] ID: 671 | Drift: 0 ms
+[Arithmetic] 82 - 10 = 72
+[EXEC] ID: 410 | Drift: 0 ms
+[Arithmetic] 22 / 11 = 2
+[EXEC] ID: 1333 | Drift: 0 ms
+[Arithmetic] 91 + 97 = 188
+[EXEC] ID: 209 | Drift: 0 ms
+[Arithmetic] 28 + 71 = 99
+[EXEC] ID: 953 | Drift: 0 ms
+[Arithmetic] 86 - 99 = -13
+[EXEC] ID: 1949 | Drift: 0 ms
+[Arithmetic] 60 + 56 = 116
+[EXEC] ID: 515 | Drift: 0 ms
+[Arithmetic] 17 / 75 = 0
+[EXEC] ID: 1633 | Drift: 0 ms
+[Arithmetic] 88 * 31 = 2728
+[EXEC] ID: 1859 | Drift: 0 ms
+[Arithmetic] 2 + 68 = 70
+[EXEC] ID: 1096 | Drift: 0 ms
+[Arithmetic] 93 - 59 = 34
+[EXEC] ID: 742 | Drift: 0 ms
+[Arithmetic] 75 * 88 = 6600
+[EXEC] ID: 796 | Drift: 0 ms
+[Arithmetic] 69 * 51 = 3519
+[EXEC] ID: 1084 | Drift: 0 ms
+[Arithmetic] 50 * 58 = 2900
+[EXEC] ID: 463 | Drift: 0 ms
+[Arithmetic] 49 - 34 = 15
+[EXEC] ID: 594 | Drift: 0 ms
+[Arithmetic] 85 - 8 = 77
+[EXEC] ID: 776 | Drift: 0 ms
+[Arithmetic] 70 / 19 = 3
+[EXEC] ID: 1888 | Drift: 0 ms
+[Arithmetic] 24 + 0 = 24
+[EXEC] ID: 709 | Drift: 0 ms
+[Arithmetic] 48 - 67 = -19
+[EXEC] ID: 810 | Drift: 0 ms
+[Arithmetic] 42 / 75 = 0
+[EXEC] ID: 950 | Drift: 0 ms
+[Arithmetic] 26 / 59 = 0
+[EXEC] ID: 224 | Drift: 0 ms
+[Arithmetic] 83 - 14 = 69
+[EXEC] ID: 1339 | Drift: 0 ms
+[Arithmetic] 7 / 60 = 0
+[EXEC] ID: 1307 | Drift: 0 ms
+[Arithmetic] 84 * 46 = 3864
+[EXEC] ID: 1870 | Drift: 0 ms
+[Arithmetic] 96 + 49 = 145
+[EXEC] ID: 1494 | Drift: 0 ms
+[Arithmetic] 12 - 28 = -16
+[EXEC] ID: 707 | Drift: 0 ms
+[Arithmetic] 7 * 2 = 14
+[EXEC] ID: 861 | Drift: 0 ms
+[Arithmetic] 2 / 92 = 0
+[EXEC] ID: 1466 | Drift: 0 ms
+[Arithmetic] 20 - 65 = -45
+[EXEC] ID: 769 | Drift: 0 ms
+[Arithmetic] 68 / 78 = 0
+[EXEC] ID: 47 | Drift: 0 ms
+[Arithmetic] 47 + 85 = 132
+[EXEC] ID: 1977 | Drift: 0 ms
+[Arithmetic] 28 - 50 = -22
+[EXEC] ID: 607 | Drift: 0 ms
+[Arithmetic] 74 - 23 = 51
+[EXEC] ID: 623 | Drift: 0 ms
+[Arithmetic] 63 - 29 = 34
+[EXEC] ID: 907 | Drift: 0 ms
+[Arithmetic] 3 / 19 = 0
+[EXEC] ID: 782 | Drift: 0 ms
+[Arithmetic] 68 * 8 = 544
+[EXEC] ID: 714 | Drift: 0 ms
+[Arithmetic] 35 / 88 = 0
+[EXEC] ID: 520 | Drift: 0 ms
+[Arithmetic] 48 + 53 = 101
+[EXEC] ID: 905 | Drift: 0 ms
+[Arithmetic] 12 + 11 = 23
+[EXEC] ID: 1825 | Drift: 0 ms
+[Arithmetic] 92 + 1 = 93
+[EXEC] ID: 1057 | Drift: 0 ms
+[Arithmetic] 10 * 61 = 610
+[EXEC] ID: 491 | Drift: 0 ms
+[Arithmetic] 22 - 48 = -26
+[EXEC] ID: 1024 | Drift: 0 ms
+[Arithmetic] 62 / 24 = 2
+[EXEC] ID: 1771 | Drift: 0 ms
+[Arithmetic] 27 / 2 = 13
+[EXEC] ID: 1996 | Drift: 0 ms
+[Arithmetic] 39 + 50 = 89
+[EXEC] ID: 412 | Drift: 0 ms
+[Arithmetic] 80 / 4 = 20
+[EXEC] ID: 1526 | Drift: 0 ms
+[Arithmetic] 16 / 7 = 2
+[EXEC] ID: 1559 | Drift: 0 ms
+[Arithmetic] 61 - 12 = 49
+[EXEC] ID: 1472 | Drift: 0 ms
+[Arithmetic] 27 + 65 = 92
+[EXEC] ID: 922 | Drift: 0 ms
+[Arithmetic] 52 - 16 = 36
+[EXEC] ID: 187 | Drift: 0 ms
+[Arithmetic] 90 + 22 = 112
+[EXEC] ID: 1306 | Drift: 0 ms
+[Arithmetic] 72 / 58 = 1
+[EXEC] ID: 889 | Drift: 0 ms
+[Arithmetic] 79 + 46 = 125
+[EXEC] ID: 1563 | Drift: 0 ms
+[Arithmetic] 48 * 33 = 1584
+[EXEC] ID: 186 | Drift: 0 ms
+[Arithmetic] 11 * 4 = 44
+[EXEC] ID: 1686 | Drift: 0 ms
+[Arithmetic] 0 + 57 = 57
+[EXEC] ID: 360 | Drift: 0 ms
+[Arithmetic] 13 + 15 = 28
+[EXEC] ID: 1018 | Drift: 0 ms
+[Arithmetic] 37 + 48 = 85
+[EXEC] ID: 1703 | Drift: 0 ms
+[Arithmetic] 17 / 86 = 0
+[EXEC] ID: 1675 | Drift: 0 ms
+[Arithmetic] 45 / 81 = 0
+[EXEC] ID: 15 | Drift: 0 ms
+[Arithmetic] 24 * 96 = 2304
+[EXEC] ID: 1851 | Drift: 0 ms
+[Arithmetic] 17 / 7 = 2
+[EXEC] ID: 1589 | Drift: 0 ms
+[Arithmetic] 28 * 90 = 2520
+[EXEC] ID: 710 | Drift: 0 ms
+[Arithmetic] 60 * 53 = 3180
+[EXEC] ID: 937 | Drift: 0 ms
+[Arithmetic] 37 + 82 = 119
+[EXEC] ID: 1082 | Drift: 0 ms
+[Arithmetic] 15 - 64 = -49
+[EXEC] ID: 1943 | Drift: 0 ms
+[Arithmetic] 34 * 8 = 272
+[EXEC] ID: 1060 | Drift: 0 ms
+[Arithmetic] 57 * 53 = 3021
+[EXEC] ID: 318 | Drift: 0 ms
+[Arithmetic] 29 + 76 = 105
+[EXEC] ID: 1730 | Drift: 0 ms
+[Arithmetic] 23 + 17 = 40
+[EXEC] ID: 728 | Drift: 0 ms
+[Arithmetic] 96 / 61 = 1
+[EXEC] ID: 425 | Drift: 0 ms
+[Arithmetic] 51 * 46 = 2346
+[EXEC] ID: 35 | Drift: 0 ms
+[Arithmetic] 95 / 12 = 7
+[EXEC] ID: 1544 | Drift: 0 ms
+[Arithmetic] 0 - 93 = -93
+[EXEC] ID: 1411 | Drift: 0 ms
+[Arithmetic] 73 / 73 = 1
+[EXEC] ID: 511 | Drift: 0 ms
+[Arithmetic] 45 / 2 = 22
+[EXEC] ID: 125 | Drift: 0 ms
+[Arithmetic] 52 * 39 = 2028
+[EXEC] ID: 927 | Drift: 0 ms
+[Arithmetic] 9 / 37 = 0
+[EXEC] ID: 1119 | Drift: 0 ms
+[Arithmetic] 70 - 60 = 10
+[EXEC] ID: 1570 | Drift: 0 ms
+[Arithmetic] 51 + 68 = 119
+[EXEC] ID: 1965 | Drift: 0 ms
+[Arithmetic] 54 - 34 = 20
+[EXEC] ID: 167 | Drift: 0 ms
+[Arithmetic] 54 - 77 = -23
+[EXEC] ID: 1181 | Drift: 0 ms
+[Arithmetic] 47 + 43 = 90
+[EXEC] ID: 890 | Drift: 0 ms
+[Arithmetic] 74 - 84 = -10
+[EXEC] ID: 846 | Drift: 0 ms
+[Arithmetic] 52 - 68 = -16
+[EXEC] ID: 961 | Drift: 0 ms
+[Arithmetic] 95 * 15 = 1425
+[EXEC] ID: 498 | Drift: 0 ms
+[Arithmetic] 19 / 77 = 0
+[EXEC] ID: 278 | Drift: 0 ms
+[Arithmetic] 89 + 28 = 117
+[EXEC] ID: 1277 | Drift: 0 ms
+[Arithmetic] 63 + 20 = 83
+[EXEC] ID: 1948 | Drift: 0 ms
+[Arithmetic] 58 + 70 = 128
+[EXEC] ID: 474 | Drift: 0 ms
+[Arithmetic] 30 * 90 = 2700
+[EXEC] ID: 1517 | Drift: 0 ms
+[Arithmetic] 9 / 77 = 0
+[EXEC] ID: 609 | Drift: 0 ms
+[Arithmetic] 44 / 98 = 0
+[EXEC] ID: 849 | Drift: 0 ms
+[Arithmetic] 56 * 32 = 1792
+[EXEC] ID: 1335 | Drift: 0 ms
+[Arithmetic] 86 / 20 = 4
+[EXEC] ID: 362 | Drift: 0 ms
+[Arithmetic] 28 / 43 = 0
+[EXEC] ID: 1663 | Drift: 0 ms
+[Arithmetic] 10 - 94 = -84
+[EXEC] ID: 431 | Drift: 0 ms
+[Arithmetic] 24 / 94 = 0
+[EXEC] ID: 1480 | Drift: 0 ms
+[Arithmetic] 76 / 84 = 0
+[EXEC] ID: 1591 | Drift: 0 ms
+[Arithmetic] 24 + 4 = 28
+[EXEC] ID: 120 | Drift: 0 ms
+[Arithmetic] 45 + 73 = 118
+[EXEC] ID: 1127 | Drift: 0 ms
+[Arithmetic] 69 / 97 = 0
+[EXEC] ID: 1688 | Drift: 0 ms
+[Arithmetic] 1 / 31 = 0
+[EXEC] ID: 1720 | Drift: 0 ms
+[Arithmetic] 23 / 61 = 0
+[EXEC] ID: 1374 | Drift: 0 ms
+[Arithmetic] 75 + 35 = 110
+[EXEC] ID: 587 | Drift: 0 ms
+[Arithmetic] 79 / 68 = 1
+[EXEC] ID: 1896 | Drift: 0 ms
+[Arithmetic] 76 - 68 = 8
+[EXEC] ID: 695 | Drift: 0 ms
+[Arithmetic] 59 - 39 = 20
+[EXEC] ID: 802 | Drift: 0 ms
+[Arithmetic] 73 + 37 = 110
+[EXEC] ID: 832 | Drift: 0 ms
+[Arithmetic] 6 + 91 = 97
+[EXEC] ID: 1995 | Drift: 0 ms
+[Arithmetic] 81 - 47 = 34
+[EXEC] ID: 339 | Drift: 0 ms
+[Arithmetic] 6 + 60 = 66
+[EXEC] ID: 1207 | Drift: 0 ms
+[Arithmetic] 91 / 91 = 1
+[EXEC] ID: 1349 | Drift: 0 ms
+[Arithmetic] 7 - 67 = -60
+[EXEC] ID: 521 | Drift: 0 ms
+[Arithmetic] 33 - 97 = -64
+[EXEC] ID: 612 | Drift: 0 ms
+[Arithmetic] 57 + 42 = 99
+[EXEC] ID: 1152 | Drift: 0 ms
+[Arithmetic] 89 * 56 = 4984
+[EXEC] ID: 1602 | Drift: 0 ms
+[Arithmetic] 36 / 24 = 1
+[EXEC] ID: 450 | Drift: 0 ms
+[Arithmetic] 6 * 67 = 402
+[EXEC] ID: 1830 | Drift: 0 ms
+[Arithmetic] 62 + 55 = 117
+[EXEC] ID: 226 | Drift: 0 ms
+[Arithmetic] 78 * 84 = 6552
+[EXEC] ID: 1642 | Drift: 0 ms
+[Arithmetic] 71 - 84 = -13
+[EXEC] ID: 196 | Drift: 0 ms
+[Arithmetic] 48 + 14 = 62
+[EXEC] ID: 96 | Drift: 0 ms
+[Arithmetic] 73 - 3 = 70
+[EXEC] ID: 1245 | Drift: 0 ms
+[Arithmetic] 19 - 92 = -73
+[EXEC] ID: 1398 | Drift: 0 ms
+[Arithmetic] 26 - 60 = -34
+[EXEC] ID: 1218 | Drift: 0 ms
+[Arithmetic] 71 + 92 = 163
+[EXEC] ID: 1716 | Drift: 0 ms
+[Arithmetic] 55 + 48 = 103
+[EXEC] ID: 977 | Drift: 0 ms
+[Arithmetic] 33 * 32 = 1056
+[EXEC] ID: 670 | Drift: 0 ms
+[Arithmetic] 10 * 60 = 600
+[EXEC] ID: 687 | Drift: 0 ms
+[Arithmetic] 84 - 70 = 14
+[EXEC] ID: 799 | Drift: 0 ms
+[Arithmetic] 95 / 6 = 15
+[EXEC] ID: 583 | Drift: 0 ms
+[Arithmetic] 17 / 83 = 0
+[EXEC] ID: 553 | Drift: 0 ms
+[Arithmetic] 71 * 76 = 5396
+[EXEC] ID: 87 | Drift: 0 ms
+[Arithmetic] 7 + 38 = 45
+[EXEC] ID: 1111 | Drift: 0 ms
+[Arithmetic] 82 + 53 = 135
+[EXEC] ID: 1617 | Drift: 0 ms
+[Arithmetic] 46 - 8 = 38
+[EXEC] ID: 1461 | Drift: 0 ms
+[Arithmetic] 57 * 96 = 5472
+[EXEC] ID: 282 | Drift: 0 ms
+[Arithmetic] 66 + 53 = 119
+[EXEC] ID: 1717 | Drift: 0 ms
+[Arithmetic] 83 - 94 = -11
+[EXEC] ID: 941 | Drift: 0 ms
+[Arithmetic] 20 * 97 = 1940
+[EXEC] ID: 121 | Drift: 0 ms
+[Arithmetic] 39 - 54 = -15
+[EXEC] ID: 1271 | Drift: 0 ms
+[Arithmetic] 82 / 31 = 2
+[EXEC] ID: 316 | Drift: 0 ms
+[Arithmetic] 38 - 8 = 30
+[EXEC] ID: 1005 | Drift: 0 ms
+[Arithmetic] 80 + 36 = 116
+[EXEC] ID: 1424 | Drift: 0 ms
+[Arithmetic] 14 / 95 = 0
+[EXEC] ID: 975 | Drift: 0 ms
+[Arithmetic] 17 - 75 = -58
+[EXEC] ID: 1565 | Drift: 0 ms
+[Arithmetic] 46 / 31 = 1
+[EXEC] ID: 273 | Drift: 0 ms
+[Arithmetic] 22 - 60 = -38
+[EXEC] ID: 292 | Drift: 0 ms
+[Arithmetic] 98 - 92 = 6
+[EXEC] ID: 285 | Drift: 0 ms
+[Arithmetic] 94 * 60 = 5640
+[EXEC] ID: 99 | Drift: 0 ms
+[Arithmetic] 3 * 76 = 228
+[EXEC] ID: 1500 | Drift: 0 ms
+[Arithmetic] 15 + 38 = 53
+[EXEC] ID: 1655 | Drift: 0 ms
+[Arithmetic] 41 / 12 = 3
+[EXEC] ID: 1538 | Drift: 0 ms
+[Arithmetic] 50 + 8 = 58
+[EXEC] ID: 1370 | Drift: 0 ms
+[Arithmetic] 97 / 6 = 16
+[EXEC] ID: 1449 | Drift: 0 ms
+[Arithmetic] 70 + 10 = 80
+[EXEC] ID: 1428 | Drift: 0 ms
+[Arithmetic] 78 / 58 = 1
+[EXEC] ID: 618 | Drift: 0 ms
+[Arithmetic] 7 - 14 = -7
+[EXEC] ID: 414 | Drift: 0 ms
+[Arithmetic] 33 / 40 = 0
+[EXEC] ID: 1667 | Drift: 0 ms
+[Arithmetic] 8 + 50 = 58
+[EXEC] ID: 1270 | Drift: 0 ms
+[Arithmetic] 61 + 38 = 99
+[EXEC] ID: 1750 | Drift: 0 ms
+[Arithmetic] 34 - 61 = -27
+[EXEC] ID: 766 | Drift: 0 ms
+[Arithmetic] 60 + 64 = 124
+[EXEC] ID: 193 | Drift: 0 ms
+[Arithmetic] 19 - 50 = -31
+[EXEC] ID: 1758 | Drift: 0 ms
+[Arithmetic] 46 + 63 = 109
+[EXEC] ID: 1623 | Drift: 0 ms
+[Arithmetic] 37 / 57 = 0
+[EXEC] ID: 1189 | Drift: 0 ms
+[Arithmetic] 42 * 22 = 924
+[EXEC] ID: 180 | Drift: 0 ms
+[Arithmetic] 23 - 69 = -46
+[EXEC] ID: 1728 | Drift: 0 ms
+[Arithmetic] 52 / 28 = 1
+[EXEC] ID: 45 | Drift: 0 ms
+[Arithmetic] 50 / 59 = 0
+[EXEC] ID: 420 | Drift: 0 ms
+[Arithmetic] 57 / 5 = 11
+[EXEC] ID: 1284 | Drift: 0 ms
+[Arithmetic] 60 - 25 = 35
+[EXEC] ID: 578 | Drift: 0 ms
+[Arithmetic] 80 / 3 = 26
+[EXEC] ID: 381 | Drift: 0 ms
+[Arithmetic] 51 * 1 = 51
+[EXEC] ID: 1300 | Drift: 0 ms
+[Arithmetic] 13 - 24 = -11
+[EXEC] ID: 85 | Drift: 0 ms
+[Arithmetic] 54 / 60 = 0
+[EXEC] ID: 1826 | Drift: 0 ms
+[Arithmetic] 41 - 67 = -26
+[EXEC] ID: 1724 | Drift: 0 ms
+[Arithmetic] 89 - 24 = 65
+[EXEC] ID: 377 | Drift: 0 ms
+[Arithmetic] 25 * 36 = 900
+[EXEC] ID: 1801 | Drift: 0 ms
+[Arithmetic] 75 / 77 = 0
+[EXEC] ID: 1222 | Drift: 0 ms
+[Arithmetic] 65 + 82 = 147
+[EXEC] ID: 461 | Drift: 0 ms
+[Arithmetic] 13 + 80 = 93
+[EXEC] ID: 1927 | Drift: 0 ms
+[Arithmetic] 69 + 32 = 101
+[EXEC] ID: 279 | Drift: 0 ms
+[Arithmetic] 12 / 16 = 0
+[EXEC] ID: 138 | Drift: 0 ms
+[Arithmetic] 25 / 84 = 0
+[EXEC] ID: 215 | Drift: 0 ms
+[Arithmetic] 80 + 0 = 80
+[EXEC] ID: 351 | Drift: 0 ms
+[Arithmetic] 20 + 8 = 28
+[EXEC] ID: 1568 | Drift: 0 ms
+[Arithmetic] 97 * 55 = 5335
+[EXEC] ID: 840 | Drift: 0 ms
+[Arithmetic] 52 - 62 = -10
+[EXEC] ID: 516 | Drift: 0 ms
+[Arithmetic] 64 / 91 = 0
+[EXEC] ID: 364 | Drift: 0 ms
+[Arithmetic] 21 * 47 = 987
+[EXEC] ID: 1501 | Drift: 0 ms
+[Arithmetic] 91 / 61 = 1
+[EXEC] ID: 1915 | Drift: 0 ms
+[Arithmetic] 15 - 64 = -49
+[EXEC] ID: 251 | Drift: 0 ms
+[Arithmetic] 21 + 13 = 34
+[EXEC] ID: 1185 | Drift: 0 ms
+[Arithmetic] 38 - 30 = 8
+[EXEC] ID: 451 | Drift: 0 ms
+[Arithmetic] 70 - 58 = 12
+[EXEC] ID: 1460 | Drift: 0 ms
+[Arithmetic] 91 * 32 = 2912
+[EXEC] ID: 610 | Drift: 0 ms
+[Arithmetic] 67 + 83 = 150
+[EXEC] ID: 1000 | Drift: 0 ms
+[Arithmetic] 62 - 66 = -4
+[EXEC] ID: 459 | Drift: 0 ms
+[Arithmetic] 71 + 58 = 129
+[EXEC] ID: 1100 | Drift: 0 ms
+[Arithmetic] 15 / 49 = 0
+[EXEC] ID: 1058 | Drift: 0 ms
+[Arithmetic] 90 + 58 = 148
+[EXEC] ID: 276 | Drift: 0 ms
+[Arithmetic] 93 * 64 = 5952
+[EXEC] ID: 1521 | Drift: 0 ms
+[Arithmetic] 26 * 64 = 1664
+[EXEC] ID: 358 | Drift: 0 ms
+[Arithmetic] 91 + 13 = 104
+[EXEC] ID: 1345 | Drift: 0 ms
+[Arithmetic] 73 + 3 = 76
+[EXEC] ID: 1098 | Drift: 0 ms
+[Arithmetic] 90 - 69 = 21
+[EXEC] ID: 1981 | Drift: 0 ms
+[Arithmetic] 82 - 82 = 0
+[EXEC] ID: 1605 | Drift: 0 ms
+[Arithmetic] 78 / 65 = 1
+[EXEC] ID: 1393 | Drift: 0 ms
+[Arithmetic] 19 * 69 = 1311
+[EXEC] ID: 1123 | Drift: 0 ms
+[Arithmetic] 89 / 85 = 1
+[EXEC] ID: 198 | Drift: 0 ms
+[Arithmetic] 31 - 1 = 30
+[EXEC] ID: 573 | Drift: 0 ms
+[Arithmetic] 51 - 99 = -48
+[EXEC] ID: 1551 | Drift: 0 ms
+[Arithmetic] 97 / 30 = 3
+[EXEC] ID: 438 | Drift: 0 ms
+[Arithmetic] 80 / 48 = 1
+[EXEC] ID: 722 | Drift: 0 ms
+[Arithmetic] 20 + 27 = 47
+[EXEC] ID: 327 | Drift: 0 ms
+[Arithmetic] 71 + 75 = 146
+[EXEC] ID: 1921 | Drift: 0 ms
+[Arithmetic] 54 + 38 = 92
+[EXEC] ID: 1311 | Drift: 0 ms
+[Arithmetic] 0 - 13 = -13
+[EXEC] ID: 308 | Drift: 0 ms
+[Arithmetic] 61 / 58 = 1
+[EXEC] ID: 1819 | Drift: 0 ms
+[Arithmetic] 43 / 12 = 3
+[EXEC] ID: 48 | Drift: 0 ms
+[Arithmetic] 23 + 20 = 43
+[EXEC] ID: 667 | Drift: 0 ms
+[Arithmetic] 80 * 77 = 6160
+[EXEC] ID: 298 | Drift: 0 ms
+[Arithmetic] 14 - 15 = -1
+[EXEC] ID: 455 | Drift: 0 ms
+[Arithmetic] 4 - 13 = -9
+[EXEC] ID: 1586 | Drift: 0 ms
+[Arithmetic] 70 * 5 = 350
+[EXEC] ID: 102 | Drift: 0 ms
+[Arithmetic] 10 / 79 = 0
+[EXEC] ID: 750 | Drift: 0 ms
+[Arithmetic] 87 + 40 = 127
+[EXEC] ID: 530 | Drift: 0 ms
+[Arithmetic] 19 - 70 = -51
+[EXEC] ID: 596 | Drift: 0 ms
+[Arithmetic] 70 / 63 = 1
+[EXEC] ID: 103 | Drift: 0 ms
+[Arithmetic] 40 * 23 = 920
+[EXEC] ID: 1286 | Drift: 0 ms
+[Arithmetic] 30 + 53 = 83
+[EXEC] ID: 958 | Drift: 0 ms
+[Arithmetic] 92 + 90 = 182
+[EXEC] ID: 1524 | Drift: 0 ms
+[Arithmetic] 13 / 32 = 0
+[EXEC] ID: 824 | Drift: 0 ms
+[Arithmetic] 14 * 78 = 1092
+[EXEC] ID: 18 | Drift: 0 ms
+[Arithmetic] 28 * 33 = 924
+[EXEC] ID: 1186 | Drift: 0 ms
+[Arithmetic] 11 * 51 = 561
+[EXEC] ID: 119 | Drift: 0 ms
+[Arithmetic] 48 / 42 = 1
+[EXEC] ID: 135 | Drift: 0 ms
+[Arithmetic] 10 - 16 = -6
+[EXEC] ID: 1990 | Drift: 0 ms
+[Arithmetic] 50 - 67 = -17
+[EXEC] ID: 959 | Drift: 0 ms
+[Arithmetic] 29 - 40 = -11
+[EXEC] ID: 160 | Drift: 0 ms
+[Arithmetic] 19 - 15 = 4
+[EXEC] ID: 535 | Drift: 0 ms
+[Arithmetic] 15 - 8 = 7
+[EXEC] ID: 1722 | Drift: 0 ms
+[Arithmetic] 32 - 91 = -59
+[EXEC] ID: 664 | Drift: 0 ms
+[Arithmetic] 29 / 24 = 1
+[EXEC] ID: 1632 | Drift: 0 ms
+[Arithmetic] 81 - 73 = 8
+[EXEC] ID: 395 | Drift: 0 ms
+[Arithmetic] 10 / 11 = 0
+[EXEC] ID: 1027 | Drift: 0 ms
+[Arithmetic] 11 + 30 = 41
+[EXEC] ID: 764 | Drift: 0 ms
+[Arithmetic] 1 - 24 = -23
+[EXEC] ID: 960 | Drift: 0 ms
+[Arithmetic] 55 / 82 = 0
+[EXEC] ID: 590 | Drift: 0 ms
+[Arithmetic] 76 / 30 = 2
+[EXEC] ID: 1357 | Drift: 0 ms
+[Arithmetic] 61 * 56 = 3416
+[EXEC] ID: 369 | Drift: 0 ms
+[Arithmetic] 36 + 54 = 90
+[EXEC] ID: 1183 | Drift: 0 ms
+[Arithmetic] 96 + 53 = 149
+[EXEC] ID: 657 | Drift: 0 ms
+[Arithmetic] 39 + 11 = 50
+[EXEC] ID: 1154 | Drift: 0 ms
+[Arithmetic] 44 - 16 = 28
+[EXEC] ID: 1408 | Drift: 0 ms
+[Arithmetic] 90 - 12 = 78
+[EXEC] ID: 1687 | Drift: 0 ms
+[Arithmetic] 36 - 44 = -8
+[EXEC] ID: 1926 | Drift: 0 ms
+[Arithmetic] 35 / 99 = 0
+[EXEC] ID: 1002 | Drift: 0 ms
+[Arithmetic] 6 * 52 = 312
+[EXEC] ID: 893 | Drift: 0 ms
+[Arithmetic] 50 - 42 = 8
+[EXEC] ID: 1527 | Drift: 0 ms
+[Arithmetic] 20 + 9 = 29
+[EXEC] ID: 448 | Drift: 0 ms
+[Arithmetic] 92 / 48 = 1
+[EXEC] ID: 686 | Drift: 0 ms
+[Arithmetic] 9 + 87 = 96
+[EXEC] ID: 157 | Drift: 0 ms
+[Arithmetic] 47 / 88 = 0
+[EXEC] ID: 1364 | Drift: 0 ms
+[Arithmetic] 46 + 70 = 116
+[EXEC] ID: 1919 | Drift: 0 ms
+[Arithmetic] 11 / 6 = 1
+[EXEC] ID: 811 | Drift: 0 ms
+[Arithmetic] 12 + 29 = 41
+[EXEC] ID: 694 | Drift: 0 ms
+[Arithmetic] 11 / 84 = 0
+[EXEC] ID: 1796 | Drift: 0 ms
+[Arithmetic] 87 + 93 = 180
+[EXEC] ID: 1315 | Drift: 0 ms
+[Arithmetic] 80 * 98 = 7840
+[EXEC] ID: 341 | Drift: 0 ms
+[Arithmetic] 85 + 67 = 152
+[EXEC] ID: 1158 | Drift: 0 ms
+[Arithmetic] 49 - 47 = 2
+[EXEC] ID: 1699 | Drift: 0 ms
+[Arithmetic] 58 + 62 = 120
+[EXEC] ID: 140 | Drift: 0 ms
+[Arithmetic] 67 + 20 = 87
+[EXEC] ID: 1817 | Drift: 0 ms
+[Arithmetic] 52 * 74 = 3848
+[EXEC] ID: 1473 | Drift: 0 ms
+[Arithmetic] 85 * 2 = 170
+[EXEC] ID: 1735 | Drift: 0 ms
+[Arithmetic] 58 + 6 = 64
+[EXEC] ID: 252 | Drift: 0 ms
+[Arithmetic] 0 * 59 = 0
+[EXEC] ID: 926 | Drift: 0 ms
+[Arithmetic] 15 / 76 = 0
+[EXEC] ID: 614 | Drift: 0 ms
+[Arithmetic] 4 / 55 = 0
+[EXEC] ID: 390 | Drift: 0 ms
+[Arithmetic] 43 * 36 = 1548
+[EXEC] ID: 1157 | Drift: 0 ms
+[Arithmetic] 93 / 89 = 1
+[EXEC] ID: 172 | Drift: 0 ms
+[Arithmetic] 66 - 21 = 45
+[EXEC] ID: 1447 | Drift: 0 ms
+[Arithmetic] 34 * 60 = 2040
+[EXEC] ID: 658 | Drift: 0 ms
+[Arithmetic] 13 + 70 = 83
+[EXEC] ID: 675 | Drift: 0 ms
+[Arithmetic] 24 - 81 = -57
+[EXEC] ID: 775 | Drift: 0 ms
+[Arithmetic] 32 * 27 = 864
+[EXEC] ID: 1162 | Drift: 0 ms
+[Arithmetic] 97 / 74 = 1
+[EXEC] ID: 757 | Drift: 0 ms
+[Arithmetic] 48 + 8 = 56
+[EXEC] ID: 891 | Drift: 0 ms
+[Arithmetic] 45 + 49 = 94
+[EXEC] ID: 1392 | Drift: 0 ms
+[Arithmetic] 54 * 66 = 3564
+[EXEC] ID: 1086 | Drift: 0 ms
+[Arithmetic] 91 * 58 = 5278
+[EXEC] ID: 1635 | Drift: 0 ms
+[Arithmetic] 81 - 3 = 78
+[EXEC] ID: 1618 | Drift: 0 ms
+[Arithmetic] 8 + 5 = 13
+[EXEC] ID: 735 | Drift: 0 ms
+[Arithmetic] 23 + 23 = 46
+[EXEC] ID: 797 | Drift: 0 ms
+[Arithmetic] 84 + 11 = 95
+[EXEC] ID: 1727 | Drift: 0 ms
+[Arithmetic] 95 * 92 = 8740
+[EXEC] ID: 1759 | Drift: 0 ms
+[Arithmetic] 7 - 17 = -10
+[EXEC] ID: 1233 | Drift: 0 ms
+[Arithmetic] 83 * 55 = 4565
+[EXEC] ID: 1976 | Drift: 0 ms
+[Arithmetic] 95 + 73 = 168
+[EXEC] ID: 1317 | Drift: 0 ms
+[Arithmetic] 17 - 94 = -77
+[EXEC] ID: 1511 | Drift: 0 ms
+[Arithmetic] 54 / 99 = 0
+[EXEC] ID: 1318 | Drift: 0 ms
+[Arithmetic] 31 - 82 = -51
+[EXEC] ID: 1235 | Drift: 0 ms
+[Arithmetic] 47 * 89 = 4183
+[EXEC] ID: 1026 | Drift: 0 ms
+[Arithmetic] 83 + 27 = 110
+[EXEC] ID: 964 | Drift: 0 ms
+[Arithmetic] 42 + 81 = 123
+[EXEC] ID: 1628 | Drift: 0 ms
+[Arithmetic] 19 / 17 = 1
+[EXEC] ID: 1469 | Drift: 0 ms
+[Arithmetic] 77 - 51 = 26
+[EXEC] ID: 1829 | Drift: 0 ms
+[Arithmetic] 88 / 10 = 8
+[EXEC] ID: 1592 | Drift: 0 ms
+[Arithmetic] 57 / 10 = 5
+[EXEC] ID: 1476 | Drift: 0 ms
+[Arithmetic] 46 + 76 = 122
+[EXEC] ID: 1423 | Drift: 0 ms
+[Arithmetic] 85 / 40 = 2
+[EXEC] ID: 1134 | Drift: 0 ms
+[Arithmetic] 95 / 19 = 5
+[EXEC] ID: 1342 | Drift: 0 ms
+[Arithmetic] 64 / 82 = 0
+[EXEC] ID: 1177 | Drift: 0 ms
+[Arithmetic] 77 * 98 = 7546
+[EXEC] ID: 1607 | Drift: 0 ms
+[Arithmetic] 26 / 24 = 1
+[EXEC] ID: 1650 | Drift: 0 ms
+[Arithmetic] 71 / 59 = 1
+[EXEC] ID: 1857 | Drift: 0 ms
+[Arithmetic] 19 + 78 = 97
+[EXEC] ID: 1902 | Drift: 0 ms
+[Arithmetic] 94 - 12 = 82
+[EXEC] ID: 1893 | Drift: 0 ms
+[Arithmetic] 69 + 88 = 157
+[EXEC] ID: 1849 | Drift: 0 ms
+[Arithmetic] 34 * 96 = 3264
+[EXEC] ID: 1756 | Drift: 0 ms
+[Arithmetic] 12 * 11 = 132
+[EXEC] ID: 1907 | Drift: 0 ms
+[Arithmetic] 48 / 79 = 0
+[EXEC] ID: 1858 | Drift: 0 ms
+[Arithmetic] 59 * 31 = 1829
+
+--- FINAL METRICS ---
+Tasks Executed: 2000
+Max Drift: 0 ms
+Avg Drift: 0.00 ms
+
+ FINAL METRICS 
+Total Runtime:   1 seconds
+Tasks Processed: 2000
+
+--- PERFORMANCE SUMMARY ---
+  Tasks Executed:    2000
+  Average Latency:   < 0.01 ms (Sub-millisecond)
+  Worst-Case Jitter: 0 ms
+---------------------------
+STRESS TEST COMPLETE
